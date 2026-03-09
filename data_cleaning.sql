@@ -79,7 +79,63 @@ ALTER TABLE jj_comp_data
 DROP COLUMN tournamentstate;
 
 
-
-
-
 SELECT * FROM jj_comp_data
+
+-- Case expression
+-- Used to apply conditional logic to transform 
+-- or categorize data in the query output.
+-- Here I am using it to identify inconsistences in team names and clean them accordingly.
+SELECT TeamName
+    CASE    
+        WHEN LOWER(TeamName) LIKE '%arra%' THEN 'Gracie Barra'
+        WHEN LOWER(TeamName) LIKE '%gb%' THEN 'Gracie Barra'
+        WHEN LOWER(TeamName) LIKE '%fight%' THEN 'Fight Sports'
+        WHEN LOWER(TeamName) LIKE '%dream%' THEN 'Dream Art'
+        WHEN LOWER(TeamName) LIKE '%passos%' THEN 'Team Passos'
+        WHEN LOWER(TeamName) LIKE '%atos%' THEN 'Atos'
+        WHEN LOWER(TeamName) LIKE '%unity%' THEN 'Unity'
+        WHEN LOWER(TeamName) LIKE '%checkmat%' THEN 'Checkmat'
+        WHEN LOWER(TeamName) LIKE '%aoj%' THEN 'Art of Jiu Jitsu (AOJ)'
+        WHEN LOWER(TeamName) LIKE '%art of%' THEN 'Art of Jiu Jitsu (AOJ)'
+        WHEN LOWER(TeamName) LIKE '%check%' THEN 'Checkmat'
+        WHEN LOWER(TeamName) LIKE '%BTEAM%' THEN 'Simple Man Martial Arts'        WHEN LOWER(TeamName) LIKE '%BTEAM%' THEN 'Simple Man Martial Arts'
+        WHEN LOWER(TeamName) LIKE '%b team%' THEN 'Simple Man Martial Arts'
+        WHEN LOWER(TeamName) LIKE '%check%' THEN 'Checkmat'
+        WHEN LOWER(TeamName) LIKE '%nova%' THEN 'Nova Uniao'
+        WHEN LOWER(TeamName) LIKE '%10%' THEN '10th Planet'
+        WHEN LOWER(TeamName) LIKE '%b-team%' THEN 'Simple Man Martial Arts'
+        WHEN LOWER(TeamName) LIKE '%alliance%' THEN 'Alliance Jiu Jitsu'
+    ELSE 'Other'
+END AS teamname_source_cleaned
+FROM jj_comp_data;
+
+UPDATE jj_comp_data
+SET teamname =
+CASE
+    WHEN LOWER(teamname) LIKE '%arra%' THEN 'Gracie Barra'
+    WHEN LOWER(teamname) LIKE '%gb%' THEN 'Gracie Barra'
+    WHEN LOWER(teamname) LIKE '%fight%' THEN 'Fight Sports'
+    WHEN LOWER(teamname) LIKE '%dream%' THEN 'Dream Art'
+    WHEN LOWER(teamname) LIKE '%passos%' THEN 'Team Passos'
+    WHEN LOWER(teamname) LIKE '%atos%' THEN 'Atos'
+    WHEN LOWER(teamname) LIKE '%unity%' THEN 'Unity'
+    WHEN LOWER(teamname) LIKE '%check%' THEN 'Checkmat'
+    WHEN LOWER(teamname) LIKE '%aoj%' THEN 'Art of Jiu Jitsu (AOJ)'
+    WHEN LOWER(teamname) LIKE '%art of%' THEN 'Art of Jiu Jitsu (AOJ)'
+    WHEN LOWER(teamname) LIKE '%nova%' THEN 'Nova Uniao'
+    WHEN LOWER(teamname) LIKE '%10%' THEN '10th Planet'
+    WHEN LOWER(teamname) LIKE '%b-team%' THEN 'Simple Man Martial Arts'
+    WHEN LOWER(teamname) LIKE '%b team%' THEN 'Simple Man Martial Arts'
+    WHEN LOWER(teamname) LIKE '%bteam%' THEN 'Simple Man Martial Arts'
+    WHEN LOWER(teamname) LIKE '%alliance%' THEN 'Alliance Jiu Jitsu'
+    ELSE teamname
+END;
+
+SELECT teamname FROM jj_comp_data
+SELECT COUNT(DISTINCT(teamname_source_cleaned))
+
+SELECT COUNT(DISTINCT(TeamName))
+FROM jj_comp_data
+
+SELECT DISTINCT(TeamName)
+FROM jj_comp_data
