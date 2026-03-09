@@ -1,0 +1,1201 @@
+﻿MatchID,TournamentName,TournamentCity,TournamentState,MatchDateRaw,CompetitorName,OpponentName,TeamName,BeltRank,Division,WeightClass,MatchType,ResultRaw,MethodRaw,PointsScoredRaw,PointsAllowedRaw,AdvantageRaw,PenaltyRaw,MatchDurationRaw,Referee,MatNumberRaw,Notes
+1,State Championship,San Diego,AZ,14-Apr-2024,Tyler Nguyen,Blake Hall , aOj ,White ,MASTER 1 ,OPEN CLASS , gi ,WIN,pts,0 pts,7 ,1, 0, 180 ,Ref D. Silva, 6,bracket update needed
+2,winter invitational,Miami,CO,Jan 26 2022,Blake  Baker,Avery  Walker,NovaUniao,blk,master 2,feather,No Gi,LOSS,ADV,7 ,4 pts,0, 2,360 sec,Ref E. Brown,M7,weight check cleared
+3, Summer Open,Houston,wa,02-15-2024,Ethan Turner, Alex Patel,Atos,PURPLE,m2,heavy,Gi,victory,n/a,0 ,,00,n/a,6:00,Ref F. Garcia, 2,medical timeout
+4,City Cup ,dallas, TX,Nov 28 2024,BLAKE HALL,SAM WRIGHT,FIGHTSPORTS,BLUE,Adult ,hvy,Gi, w ,PTS,6 ,08,1 ,0,360 sec,Ref C. Patel,mat 1,scoreboard check
+5, Regional Classic,AUSTIN, AZ,02/08/2023,Avery Johnson,Riley Brown ,Atos,BLACK,ADULT,Open,NOGI, w ,n/a,0 pts,02,2, 1,10:00,Ref F. Garcia,M8,uniform warning
+6, Grappling Grand Prix,Atlanta , GA,07-08-2024,logan adams, Mason Garcia,Alliance BJJ,BROWN,m1,medium heavy,No-Gi,W,D.Q.,00, 4,00, 1,6:00,Ref A. Cruz, 5,
+7,state championship, Austin,FL,Oct 13 2024, Ava Patel,,nova união,PURPLE,master 1,ULTRA HEAVY , gi ,W,Decision , 10,00,3 , 0,300 sec,Ref C. Patel,03,video review
+8,State Championship, Dallas, WA,01-21-2025,noah brown,Avery  Costa,FightSports,brown,adult male,HEAVY,GI,LOSS,Submission ,2 pts, 0,0 , 0,180 sec,Ref E. Brown,7,
+9,city cup,atlanta,CA,2024/08/12,morgan walker, Avery Allen,fight sports,brown,juvenile,Middle ,No Gi,WIN,pts,4,6 , 1,0,6m 00s,Ref B. Kim,M9,uniform warning
+10,SUMMER OPEN,Austin, CA,2022-06-26,Logan Santos, Sam Lee,fight sports,brown,Adult ,lf, gi ,WIN,PTS, 6,2,3, 0,240 sec,Ref B. Kim,07,uniform warning
+11,STATE CHAMPIONSHIP, Seattle, IL,11-May-2024,NOAH MARTINEZ, Olivia Patel,ALLIANCE ,PURPLE,ADULT,open class, gi ,loss,Decision ,8 pts,03, 1, 0,480,Ref F. Garcia, 10,medical timeout
+12, Summer Open,ATLANTA,CA,2022-07-26,Sam Scott ,Chris Brown,check mat,WHITE,Master2,mid,Gi,defeat,dq,9 pts,6 , 0,0,5m 00s,Ref A. Cruz,M11,late start
+13,summer open,phoenix,TX,2024/05/04,Sam Adams,CAMERON HALL,fight sports,BROWN,adult,lf,No-Gi,victory,SUB, 3,7,1,2,5m 00s,Ref E. Brown,M1,scoreboard check
+14,City Cup,Miami,CO,06/02/2022,Mason Johnson,Reese Santos ,10th Planet,blue,master 1,roost, gi ,defeat,Ref Decision,09,00,2 ,2, 360 ,Ref E. Brown,07,
+15, State Championship,austin,ca,30-Nov-2024,Ethan  King, Emma Nguyen,UNITY,blk,ADULT,mid,No-Gi,defeat,D.Q.,2,0 pts,0.0,0,3m 00s,Ref E. Brown, 10,
+16,CITY CUP,Miami , WA,11/18/2023,Logan  King,Elijah  Walker,10th planet ,Brown ,master 1,Rooster ,No-Gi,WIN,Submission ,9 pts,8 ,1.0,2,600,Ref D. Silva,M3,medical timeout
+17, Regional Classic,Atlanta,tx,29-May-2024,Elijah  Walker, Taylor Smith,B-Team,white,MASTER 2 ,Medium-Heavy, gi ,defeat,Advantage ,00,0,0,2, 360 ,Ref A. Cruz,04,bracket update needed
+18, Regional Classic, Miami, FL,2024/03/29,Sophia White,lucas johnson,Art of Jiu Jitsu,purp,juvenile,heavy,No-Gi,loss,SUB,0,00,0 ,0,4:00,Ref E. Brown, 2,
+19,STATE CHAMPIONSHIP, Austin,wa,03-13-2024,Avery Smith,MASON JOHNSON, aOj ,BLUE,JUVENILE,light,NOGI,LOSS,SUB,2 ,5 ,,0 ,10:00,Ref D. Silva,05,scoreboard check
+20,WINTER INVITATIONAL,seattle, CA,Apr 23 2023,ethan santos,Sophia Walker ,b-team ,Black ,Master2,Open, gi ,loss,disq,7 pts,0 pts, 0,1,8:00,Ref B. Kim,011,scoreboard check
+21,Winter Invitational, Austin,IL,01/28/2023,Emma Turner,CAMERON GARCIA,team passos ,purple,Adult ,ROOSTER,GI,WIN,dec,02,0 pts,1.0, 1,3m 00s,Ref F. Garcia,010,coach challenge
+22,SUMMER OPEN,Seattle , CA,01/30/2023,Morgan  Davis, Mia Adams,nova união,Black ,Master1,lgt, gi ,win,Advantage ,10,0 ,1 ,2, 600 ,Ref B. Kim, 11,video review
+23,State Championship,DALLAS,fl,16-Nov-2024,Drew White,CAMERON TURNER,Nova Uniao,BROWN,adult male,Rooster ,No-Gi,LOSS,dec,3,0 ,02,1,360 sec,Ref B. Kim, 6,uniform warning
+24,City Cup ,atlanta, GA,2024-07-16,Ethan  Patel,Noah  Lee,FIGHTSPORTS,Brown ,MASTER 2 ,hvy, gi ,WIN,Decision ,9,7 ,0 ,0,420 sec,Ref B. Kim,06,bracket update needed
+25, Summer Open, Houston,IL,2024-04-01,Noah White, Blake Young,10th planet ,blue,m1,middle,No-Gi, w ,adv,07,5 , 1,0,180,Ref F. Garcia,4,scoreboard check
+26,STATE CHAMPIONSHIP,Miami,wa,05-Jan-2025,OLIVIA WHITE,OLIVIA JOHNSON,fight sports,Black ,master 1,Open, gi ,L,Ref Decision,2,6,3.0,-,5m 00s,Ref F. Garcia,mat 3,coach challenge
+27,City Cup,dallas,ca,06-Feb-2023,MASON BAKER,olivia walker,b-team ,BLUE,m2,mid,No-Gi,LOSS,dec, 7, 0, 2, 0,240 sec,Ref E. Brown,011,video review
+28, Regional Classic,CHICAGO,ga,01/12/2022,Taylor  Green,Liam Scott ,ATOS,blue,JUVENILE,Medium-Heavy, gi , l ,dq,7,2 pts,02,1 ,480,Ref A. Cruz,M3,weight check cleared
+29, State Championship,Seattle , TX,Apr 02 2024,Taylor  Garcia,CHRIS PATEL,UNITY,Purple ,Master1,ultra heavy,Gi,victory,sub,4 ,6,00,2, 240 ,Ref B. Kim, 12,bracket update needed
+30,Summer Open , Phoenix,ca,2022-06-24,Elijah Brown ,drew nguyen,Atos,PURPLE,master 2,LIGHT,Gi,W,pts,2,3 pts,3.0,0, 360 ,Ref F. Garcia, 10,coach challenge
+31,grappling grand prix,Houston , CA,Dec 02 2022,Emma  Young,SOPHIA DAVIS,CheckMat ,white,master 2,mid, gi ,L,Points ,06, 8, 0, 1,7:00,Ref A. Cruz,10,weight check cleared
+32,Regional Classic ,phoenix,wa,03/20/2024, Morgan Scott,Drew Smith ,NOVA UNIAO,black,adult male,Feather ,No Gi,LOSS,decision, 3,00,3.0, 0,180,Ref C. Patel, 2,weight check cleared
+33, Grappling Grand Prix, Denver,GA,07-24-2024,taylor johnson,elijah allen,NOVA UNIAO,BLUE,MASTER 1 ,lf,No-Gi, w ,Decision , 0,2 pts,1,1,3m 00s,Ref F. Garcia,012,coach challenge
+34,state championship,Phoenix , WA,2022-12-11,alex hall,chris patel,Nova Uniao,white,m1,ULTRA HEAVY ,GI, l ,points, 10,7 pts,0 ,0 ,8m 00s,Ref F. Garcia,mat 7,weight check cleared
+35,SUMMER OPEN,Dallas,GA,Aug 24 2024,Sophia Smith,HARPER JOHNSON,Unity,BLUE,juv,roost,No Gi,WIN,decision,08, 6,01,1 ,300 sec,Ref E. Brown,2,coach challenge
+36,STATE CHAMPIONSHIP,San Diego , IL,2024-06-10,Mia Costa, Logan Allen,FIGHTSPORTS,BLACK,juv,Heavy , gi ,win,decision,4 ,2 ,2.0,0 ,480,Ref C. Patel,mat 1,video review
+37,GRAPPLING GRAND PRIX,Chicago,TX,05-12-2022,NOAH SANTOS,AVA COSTA,CHECKMAT,wht,Adult ,MIDDLE,No-Gi,L,DQ,7 ,2, 3, 0,7:00,Ref C. Patel,mat 8,video review
+38,Winter Invitational ,Atlanta,tx,Aug 26 2022,Olivia  Allen,harper young, aOj ,BLUE,m1,Middle ,No-Gi,defeat,adv,10 pts,3 , 3, 1,360 sec,Ref F. Garcia,mat 1,weight check cleared
+39, City Cup, Dallas,ga,12/31/2023,Taylor Walker,Ella  Allen,Fight Sports,Brown ,master 1,Light ,GI,win,DQ,00,2 ,0,0 ,420,Ref A. Cruz,012,coach challenge
+40, City Cup,seattle,AZ,12/20/2023,Sam  Allen, Reese Clark,B-Team,White ,Adult ,roost,GI,victory,PTS,08,0 ,01,1,10:00,Ref A. Cruz,9,bracket update needed
+41, Regional Classic,dallas, WA,2024/11/28,TYLER HALL, Logan Green,Team Passos,BLACK,Adult ,hvy, gi , l ,D.Q.,3,03,03, 1,360 sec,Ref D. Silva,mat 4,weight check cleared
+42,STATE CHAMPIONSHIP, Austin,wa,Apr 06 2022, Drew Costa,AVERY PATEL,GracieBarra,blue,master 1,MEDIUM HEAVY ,NOGI,victory,disq,6,2 pts,0,1,180 sec,Ref D. Silva,05,late start
+43, State Championship,ATLANTA,fl,08-29-2022,Drew Santos,Ella Allen ,ATOS,PURPLE,MASTER 2 ,mh,NOGI,L,dq,0 ,4 pts,0 ,0 , 240 ,Ref F. Garcia,011,late start
+44,Grappling Grand Prix ,SAN DIEGO,CO,22-Dec-2024,Morgan  Santos,Ethan  Martinez, alliance,brown,master 1,Light-Feather,GI, w ,submission, 10,2,01,1,180,Ref F. Garcia,01,weight check cleared
+45, Regional Classic,Chicago,CO,2023/11/20,Emma Santos,unknown,NOVA UNIAO,blk,master 2,ULTRA HEAVY , gi ,loss,ADV, 2,5 pts,0 , 1, 300 ,Ref C. Patel,mat 3,
+46,grappling grand prix,seattle,IL,2024/12/16,Harper Smith ,LOGAN CLARK, Unity ,Blue ,Adult ,medium heavy,NOGI,L,PTS,4 ,7 pts,0,0 ,7m 00s,Ref F. Garcia,3,medical timeout
+47, Winter Invitational,SEATTLE,il,29-Nov-2022,Olivia Patel , Riley Brown,check mat,white,JUVENILE,ultra heavy,NOGI,defeat,SUB,2 ,3 ,0,2 ,300,Ref C. Patel, 10,video review
+48, State Championship, Seattle,FL,11-Jun-2022,Skyler  Nguyen,ava green, BTEAM,white,MASTER 1 ,mh,Gi, w ,dec,8 pts,5 pts,0 , 1, 600 ,Ref E. Brown,012,uniform warning
+49,Grappling Grand Prix,Denver,AZ,15-Nov-2023,Blake Costa ,Tyler Santos,Alliance,Purple ,master 1,feather, gi , w ,pts,4,0,3,0,300,Ref B. Kim,08,scoreboard check
+50,GRAPPLING GRAND PRIX, Chicago,wa,2024/06/11,Ella Johnson,drew nguyen,team passos ,purple,master 1,hvy, gi ,LOSS,Ref Decision,4 ,04,1 ,0 ,420 sec,Ref B. Kim,4,bracket update needed
+51,Regional Classic,Austin ,CA,12/29/2024, Morgan Garcia,logan young,b-team ,purp,Master2,ULTRA HEAVY ,No Gi,W,dq,9 pts,07,3 ,0 ,7:00,Ref E. Brown,10,coach challenge
+52,CITY CUP,Atlanta ,CO,18-May-2023,Logan Scott,Casey  Brown,10th planet ,blu,ADULT,Feather ,No-Gi,win,dec,10,6, 1, 2,10m 00s,Ref C. Patel,6,scoreboard check
+53, Summer Open,DENVER,az,09-04-2023,Sam  Hall,MIA HALL,fight sports,Brown ,MASTER 1 ,light feather,No-Gi,win,Ref Decision,8 ,0 , 2,0,7m 00s,Ref B. Kim,mat 2,scoreboard check
+54,summer open,DALLAS, FL,12-28-2023,riley young,Lucas  Johnson,TEAM PASSOS,black,master 2,heavy, gi ,loss,sub,10,8,01,0 ,180 sec,Ref D. Silva,5,bracket update needed
+55, State Championship,San Diego, CO,06-02-2024,Riley Garcia ,jordan wright, atos ,blue,Master1,Light ,NOGI,LOSS,submission, 10,6 pts, 2,0,180,Ref D. Silva,mat 1,coach challenge
+56,WINTER INVITATIONAL,chicago,az,04/02/2022,Tyler  Adams,Avery Adams ,Dream Art,Brown ,Master1,feather,NOGI, w ,D.Q.,4 , 0,0,1,300 sec,Ref E. Brown,M8,
+57,Regional Classic ,DALLAS,WA,02/12/2022,reese santos,Chris Lopez,NOVA UNIAO,White ,Master1,Ultra-Heavy,NOGI,LOSS,Submission ,4, 8,00, 1,420 sec,Ref E. Brown,M5,weight check cleared
+58, City Cup,austin,tx,03/03/2022,TAYLOR MARTINEZ, Elijah Green,gracie barra,blu,ADULT,Light ,No Gi,L,advantage, 0,6 ,1.0,1 ,420,Ref A. Cruz,09,coach challenge
+59,State Championship ,Dallas ,FL,09-Dec-2024,Parker Costa ,Sam Clark,GracieBarra,purple,Master2,Ultra-Heavy,NOGI, l ,pts,6 pts,5,0 , 0,240 sec,Ref B. Kim,M7,
+60, Regional Classic,Miami , AZ,03-22-2022, Drew Walker,,AOJ ,purp,Master1,light,Gi,W,submission, 5,5 pts,0,NA, 600 ,Ref D. Silva,mat 6,late start
+61,State Championship,AUSTIN,ga,02-08-2025,Avery  King,Parker Turner,NovaUniao,BROWN,adult,Medium-Heavy,No Gi,victory,unknown,03,0,1.0,0,180,Ref A. Cruz, 7,uniform warning
+62,GRAPPLING GRAND PRIX,DALLAS,il,Mar 31 2024, Morgan Johnson, Chris Nguyen,AOJ,Brown ,Juvenile ,Feather ,GI, w ,Points ,0, 2,0.0, 0,240 sec,Ref E. Brown, 11,late start
+63, Grappling Grand Prix,Chicago,tx,08-11-2024,Noah  Davis,unknown,Dream Art,BLACK,m2,rooster,Gi, l ,unknown,9 pts,4, 0, 1,3:00,Ref B. Kim,01,
+64,Grappling Grand Prix,Atlanta,ga,2023-10-27,logan davis,Blake  Adams,Art of Jiu Jitsu,white,adult male,light,NOGI, w ,pts,2 ,06, 1,0 ,6m 00s,Ref D. Silva,M2,coach challenge
+65,REGIONAL CLASSIC, Seattle, WA,2022-01-16,cameron lopez,MIA SILVA,B-Team,BLACK,master 2,Rooster ,Gi,win,ADV,2, 2,01,0 ,10m 00s,Ref F. Garcia,2,bracket update needed
+66,SUMMER OPEN,seattle,FL,01-Feb-2025,Tyler White, Parker Hall,UNITY,purp,Master2,feather,No Gi, l ,ADV,06,,0.0,0 ,240 sec,Ref A. Cruz,mat 9,
+67,regional classic,SAN DIEGO,WA,2023-07-26,skyler nguyen,LUCAS ALLEN,UNITY,blue,MASTER 2 ,Medium-Heavy,GI, w ,Ref Decision,0,2 pts,03, 0,7:00,Ref A. Cruz,04,uniform warning
+68,regional classic, Austin,WA,2023/02/02,ETHAN DAVIS,Tyler Green ,nova união,BROWN,Adult ,Ultra-Heavy,NOGI,L,SUB,5,2, 2,2 ,5:00,Ref E. Brown,3,medical timeout
+69,Summer Open , Miami,ga,01-14-2023,Sophia Costa,Ava  Lopez,team passos ,Brown ,adult,Heavy ,NOGI,W,pts,6,00,1.0, 2,180,Ref A. Cruz,07,late start
+70,WINTER INVITATIONAL,Houston ,GA,08/22/2023,Liam King ,Parker King ,B-Team,BLACK,juv,roost, gi ,LOSS,unknown,0 pts,6 ,0.0,1,6m 00s,Ref E. Brown,M6,
+71, City Cup,Dallas,GA,2022/10/26,AVERY ADAMS,Ava  Lopez,CheckMat ,BLACK,Master2,FEATHER,No Gi, w ,PTS,8 ,6 pts,1,1 ,180,Ref E. Brown,12,weight check cleared
+72,Regional Classic, Seattle,il,2023-02-25, Mason Smith,Avery Lopez,nova união,purple,Adult ,Ultra-Heavy,GI,victory,PTS,0,7 pts,n/a,0 ,180,Ref A. Cruz, 3,late start
+73,State Championship,Atlanta, IL,2023/01/29,Olivia Scott ,morgan johnson,10th Planet,White ,m1,heavy,Gi,victory,Points ,6 ,6,0 ,2 , 360 ,Ref A. Cruz,M4,bracket update needed
+74,REGIONAL CLASSIC,dallas,wa,2025/02/01,ALEX COSTA, Tyler Martinez,FightSports,Blue ,Master2,ultra heavy,GI,LOSS,Submission , 8,05,0 , 1,300 sec,Ref B. Kim,M2,late start
+75,City Cup,chicago, CA,Sep 13 2023,OLIVIA HALL, Ava Silva,DreamArt,black,master 2,Middle ,No Gi,win,SUB,0 pts,0,1 , 0,4m 00s,Ref E. Brown,08,scoreboard check
+76,regional classic,austin, AZ,Feb 11 2024,MORGAN WHITE,Casey Clark ,Alliance BJJ,BROWN,m2,heavy,NOGI,L,disq,2,6 pts,0, 0,7m 00s,Ref D. Silva,9,late start
+77,Winter Invitational,denver, AZ,Dec 30 2023,mia santos, Ethan Hall,FightSports,brown,master 1,Feather ,NOGI, l ,dec,10 pts,5 ,1, 1,7m 00s,Ref A. Cruz,11,
+78,GRAPPLING GRAND PRIX,chicago,FL,2024-05-16,Jordan Lee ,Mason Smith,FIGHTSPORTS,blk,Master2,Middle ,GI,WIN,advantage,10, 2,0.0,0 ,360,Ref F. Garcia,5,weight check cleared
+79,WINTER INVITATIONAL,chicago,IL,Apr 15 2024,Olivia Costa,Sam Costa,UNITY,blk,Master2,FEATHER,Gi,WIN,Points ,10,3 pts,3.0,0,180 sec,Ref A. Cruz,02,medical timeout
+80,SUMMER OPEN,DENVER,ca,2024-05-16,Mason Martinez , Chris Turner,CHECKMAT,Blue ,adult male,absolute,GI, l ,sub,6 pts, 4,03,1, 480 ,Ref E. Brown,04,scoreboard check
+81,Winter Invitational,Seattle , AZ,2024/08/08,Skyler  Brown,CHRIS SILVA,10th planet ,Black ,master 1,MIDDLE,No-Gi,victory,Points ,4, 4,2.0,1,420,Ref A. Cruz,mat 6,uniform warning
+82, Regional Classic,seattle, FL,02-08-2022,DREW WRIGHT,Parker  Adams,Team Passos,blu,Master1,mh,NOGI, l ,D.Q., 7, 5, 1, 1,10:00,Ref B. Kim,M6,video review
+83,CITY CUP,Dallas, CO,Jul 14 2022,Reese  Allen, Noah Davis,10TH PLANET,WHITE,Juvenile ,FEATHER, gi ,victory,ADV,6 pts,3,0 ,0 ,420 sec,Ref D. Silva,2,
+84,state championship,Dallas, TX,2025/01/29,REESE SMITH,Harper Young, aOj ,PURPLE,Juvenile ,mid, gi ,win,D.Q.,07, 2,1.0, 0,4m 00s,Ref A. Cruz, 12,
+85, Winter Invitational,Seattle ,fl,2022/03/10,Elijah Lopez ,Skyler  Lopez,10TH PLANET,brown,Master2,rooster, gi ,victory,Decision , 3,4 ,3.0,0 ,3m 00s,Ref B. Kim, 3,coach challenge
+86, City Cup,SAN DIEGO, GA,2022-05-23,Noah King,REESE BAKER, alliance,black,Adult ,lgt,No-Gi,L,Decision ,10 , 3,0,n/a,10:00,Ref D. Silva, 2,scoreboard check
+87,WINTER INVITATIONAL,DENVER,az,06-01-2024, Drew Costa,Sophia Garcia ,Art of Jiu Jitsu,wht,juvenile,Light-Feather,No Gi,loss,Advantage ,08,3 ,0.0,0 ,10:00,Ref E. Brown,mat 9,bracket update needed
+88, State Championship,Atlanta ,co,12/21/2022,Blake Green,ethan garcia,AOJ,BLACK,ADULT,LIGHT FEATHER ,Gi,L,submission,0 , 2,3,0,600,Ref C. Patel,M2,coach challenge
+89,grappling grand prix,Atlanta , TX,03-23-2022,CASEY LEE,Casey King,Atos,Purple ,master 1,feather,No Gi,L,Submission ,4 , 5,1 ,0 ,180 sec,Ref A. Cruz,M7,
+90,state championship, Denver,il,11-Feb-2025,Olivia White,Skyler Lopez ,ATOS,wht,adult,LIGHT FEATHER ,No-Gi,L,dq,6 , 0,0, 0, 180 ,Ref C. Patel,mat 1,weight check cleared
+91,GRAPPLING GRAND PRIX,Chicago,ga,Apr 27 2024,TAYLOR SANTOS,Ella  Scott, alliance,purp,Adult ,Medium-Heavy, gi ,win,submission,0 pts, 2, 0,1, 240 ,Ref A. Cruz,M7,coach challenge
+92,Grappling Grand Prix, San Diego,ga,07/31/2024,LIAM YOUNG,Sam  Patel, aOj ,Blue ,Master1,Ultra-Heavy,No-Gi,W,PTS, 9, 5, 0,1 ,300 sec,Ref C. Patel,M3,coach challenge
+93, Grappling Grand Prix,DENVER,il,2022-10-22,ELIJAH TURNER,Blake Garcia,check mat,Purple ,m2,Rooster , gi ,LOSS,pts,04,8,02,0,6:00,Ref C. Patel,mat 2,weight check cleared
+94,Grappling Grand Prix ,ATLANTA, CO,2024/07/28, Sam Lopez,Tyler  Turner,B Team,brn,adult male,middle,NOGI,win,pts,3 ,3 pts,01,1,10m 00s,Ref D. Silva,M4,bracket update needed
+95,Regional Classic,houston,GA,Aug 07 2023,TYLER LEE,skyler scott,GracieBarra,purp,m1,MIDDLE,NOGI, l ,Submission , 10, 6,0 , 2, 300 ,Ref D. Silva,11,medical timeout
+96,City Cup,Miami,FL,2023/01/30, Cameron Baker,reese walker,b-team ,BROWN,master 2,medium heavy,No Gi,win,adv,0,0 , 0,NA,180 sec,Ref E. Brown,010,uniform warning
+97,grappling grand prix,Denver ,wa,28-Jan-2024, Sam Nguyen,Elijah  Martinez,FightSports,White ,master 1,lgt, gi ,L,PTS, 5,6 pts, 1, 0,10:00,Ref E. Brown,012,late start
+98, Summer Open,houston, GA,2025-01-15,Ava Smith ,Parker Nguyen ,Atos Jiu Jitsu,white,Master2,open class,GI,win,dq,06,05,1,0, 420 ,Ref D. Silva,mat 10,weight check cleared
+99, City Cup,San Diego , CA,2024/11/12,Chris  Garcia,Parker Hall,B-Team,brn,Adult ,heavy,No-Gi,W,Ref Decision,09,6,0.0,0,360 sec,Ref B. Kim,mat 1,video review
+100,Regional Classic,AUSTIN,FL,2023-11-13,Ava  Young,Taylor Santos ,Atos Jiu Jitsu,blu,ADULT,fthr,No Gi,LOSS,adv,03,3 ,1,1,600 sec,Ref A. Cruz,11,scoreboard check
+101,grappling grand prix,Miami , FL,08-Jun-2023,Tyler  Patel,LOGAN ALLEN,Team Passos,purple,MASTER 2 ,open class,GI, w ,disq,5,0 ,,1, 240 ,Ref E. Brown,mat 3,
+102, State Championship,San Diego ,wa,2024/02/23,CHRIS GARCIA,Noah White, alliance,blu,Master1,heavy,No-Gi,defeat,unknown, 0,02,2.0,1 ,600 sec,Ref D. Silva, 11,
+103,GRAPPLING GRAND PRIX,San Diego,az,2023-04-18, Mason Lee,Harper Santos,TEAM PASSOS,purp,Master1,LIGHT, gi ,defeat,Submission ,09,5 ,0.0, 0,360 sec,Ref B. Kim,011,video review
+104,GRAPPLING GRAND PRIX,AUSTIN,IL,Jun 08 2022, Mia Walker,jordan walker,Fight Sports,blu,MASTER 1 ,Feather ,No-Gi,defeat,Points ,7,0 ,01,-,4m 00s,Ref D. Silva,12,
+105,Grappling Grand Prix,MIAMI,CO,2022-08-22,Reese White , Skyler Clark,Passos,Brown ,MASTER 2 ,Light ,No Gi,loss,Decision , 7,03, 1,1,480 sec,Ref E. Brown,2,bracket update needed
+106,Grappling Grand Prix,HOUSTON,wa,2024-10-18,Sam  Allen,,Nova Uniao,purple,juvenile,hvy,No-Gi,win,Ref Decision,10,5 pts,1 ,2,6:00,Ref D. Silva,mat 12,
+107,WINTER INVITATIONAL,DALLAS, TX,2024-11-09,BLAKE DAVIS,SKYLER ALLEN,b-team ,brown,juv,MIDDLE,Gi,defeat,pts,7 pts,00,1 ,0 , 240 ,Ref F. Garcia,mat 4,late start
+108,State Championship,denver,ca,01/08/2023,Ava Clark,MORGAN MARTINEZ,Nova Uniao,black,ADULT,light feather,Gi,win,ADV, 9,2,2.0,, 180 ,Ref D. Silva,5,uniform warning
+109,Regional Classic,Atlanta,TX,10-Dec-2023,Skyler Patel,ETHAN WRIGHT,Alliance BJJ,brn,MASTER 1 ,Ultra-Heavy, gi ,loss,Points ,9,4,3.0,2,420 sec,Ref B. Kim,2,scoreboard check
+110,state championship,Austin , AZ,10/03/2024,Logan Hall ,Drew Silva,Gracie Barra,BROWN,adult male,Open,GI,L,D.Q.,10 ,02,1.0,0 , 480 ,Ref E. Brown,011,medical timeout
+111, Summer Open,SEATTLE,fl,2024-03-27,Skyler  Clark,Riley  Young, GB ,BLACK,adult male,MEDIUM HEAVY ,No Gi,L,DQ,06,0 pts,0 ,1,180,Ref B. Kim,mat 10,coach challenge
+112,Grappling Grand Prix , Seattle, AZ,Sep 23 2024,Ava Baker , Elijah Lee,B-Team,Purple ,master 2,ultra heavy,No-Gi,win,ADV, 6,8,3.0, 0,420,Ref E. Brown,mat 11,uniform warning
+113,state championship,San Diego,AZ,2024-06-16,SKYLER SMITH,Riley Silva,FIGHTSPORTS,Black ,JUVENILE,mh,Gi,win,dq, 3, 0,1 , 1,10m 00s,Ref A. Cruz,11,bracket update needed
+114,GRAPPLING GRAND PRIX,Dallas, AZ,Feb 16 2024,reese garcia,Mason Patel ,10P,black,master 2,Feather ,GI,W,unknown,8,3 ,01, 0, 420 ,Ref B. Kim, 10,coach challenge
+115, Grappling Grand Prix,DENVER, CA,2023/04/29,lucas scott,Cameron Silva ,ATOS,blue,adult male,ultra heavy,Gi,W,submission, 7, 0, 0,0 , 240 ,Ref D. Silva, 3,video review
+116,city cup,SAN DIEGO,GA,11-10-2023,Lucas  Scott,PARKER ADAMS,Art of Jiu Jitsu,wht,juvenile,fthr,Gi,win,pts,9 pts,0,0 ,0, 360 ,Ref C. Patel,mat 7,weight check cleared
+117, State Championship, Atlanta, TX,23-Jan-2024,blake green, Parker Santos,CHECKMAT,WHITE,juvenile,lf,No-Gi,WIN,DQ,10 pts,0,0.0,0 ,300 sec,Ref F. Garcia,011,uniform warning
+118,STATE CHAMPIONSHIP,ATLANTA,IL,11-27-2023,Blake  Young,SKYLER CLARK,ALLIANCE ,brn,Adult ,Rooster ,No Gi,victory,DQ,0 pts,04,, 1,300 sec,Ref A. Cruz,2,
+119,State Championship ,Atlanta , TX,09-13-2024,Sophia  Lee,LUCAS BROWN,nova união,brown,m2,ROOSTER, gi ,LOSS,D.Q.,3 pts, 5,,1,300,Ref A. Cruz,6,medical timeout
+120, Grappling Grand Prix,Denver ,ca,2022-10-28,Avery Green ,ETHAN SMITH,Dream Art,wht,juv,heavy,No Gi, w ,Advantage ,10, 0,00,, 180 ,Ref F. Garcia, 10,
+121,CITY CUP,houston,IL,Nov 14 2023,Ethan Adams,Morgan Patel,AOJ,Black ,juvenile,fthr,No-Gi,L,Ref Decision,10 pts,4,01,0 , 420 ,Ref D. Silva,mat 10,
+122, State Championship,phoenix, AZ,Feb 13 2025,Alex Scott , Lucas Lopez,check mat,BLUE,Master1,Medium-Heavy, gi ,L,Decision ,9 pts,4,0, 1,240,Ref B. Kim,05,scoreboard check
+123,City Cup,DALLAS, FL,04-23-2023,Ethan Costa,Lucas  Nguyen,B Team,brown,MASTER 1 ,HEAVY, gi ,victory,D.Q.,3, 3, 0,1 , 360 ,Ref B. Kim,mat 7,
+124,STATE CHAMPIONSHIP,Phoenix,CA,06-Jan-2023,mia young,Logan  Silva,Fight Sports,brn,Master2,light,Gi,L,SUB,02,06,0,1,360 sec,Ref D. Silva,M1,uniform warning
+125,STATE CHAMPIONSHIP, Dallas,co,01/01/2022,ALEX ADAMS,Olivia Silva ,NOVA UNIAO,blue,MASTER 2 ,Middle , gi ,defeat,DQ,09,02,0.0,0 ,180,Ref B. Kim, 5,bracket update needed
+126, Summer Open,AUSTIN,GA,2023-04-06,AVERY ALLEN, Sam Baker,10th planet ,blk,adult,mid,No Gi,victory,ADV,08, 2, 1,,5:00,Ref B. Kim, 12,
+127,Grappling Grand Prix , Denver, GA,Sep 07 2024,Elijah  Nguyen,ava hall,Alliance BJJ,purple,Master2,FEATHER,NOGI,L,Submission ,03,02,0 ,0 ,360 sec,Ref A. Cruz,M8,
+128,city cup,miami,IL,09-26-2024,Taylor Lee ,MIA SILVA,ATOS,white,JUVENILE,medium heavy,Gi,victory,D.Q.,05,2 pts,1.0,NA, 300 ,Ref F. Garcia,9,
+129,regional classic,Chicago, FL,2023/09/18,Logan Patel,Ella Silva ,10th Planet,brn,MASTER 2 ,mh,NOGI, w ,Ref Decision,07,07,0 , 0,10:00,Ref C. Patel,06,coach challenge
+130,STATE CHAMPIONSHIP,denver,GA,12/25/2024,drew king,Liam Johnson ,gracie barra,Purple ,Juvenile ,Light-Feather,No-Gi,LOSS,D.Q.,5, 7,0.0,1 ,240 sec,Ref E. Brown, 6,bracket update needed
+131,Summer Open,San Diego,ga,15-Jul-2024,ELIJAH SCOTT,Cameron Young ,AOJ ,brn,ADULT,lgt,Gi,defeat,sub,3,04,3, 1,180,Ref F. Garcia,9,late start
+132,CITY CUP,SEATTLE, CA,2022-01-24,Olivia Lee ,Ethan  Martinez,TEAM PASSOS,WHITE,ADULT,feather,No-Gi, w ,sub,9 ,8,1,2 ,300 sec,Ref C. Patel,mat 3,scoreboard check
+133,Winter Invitational ,Atlanta,FL,2024-03-03,Skyler Brown ,taylor white,Alliance BJJ,purp,Juvenile ,LIGHT FEATHER , gi ,loss,Ref Decision,9 pts, 3,0.0,0, 420 ,Ref A. Cruz,06,late start
+134,summer open,austin,TX,07-Jan-2022,CAMERON SILVA,Casey Green , atos ,purple,adult male,ULTRA HEAVY ,Gi, w ,Advantage ,4,2 pts,0.0,1 ,3m 00s,Ref A. Cruz,M11,scoreboard check
+135,Summer Open , Dallas,AZ,05/26/2023, Mason Clark, Mia Clark,B-Team,White ,adult male,middle,No Gi,defeat,Advantage ,2 ,8 ,1,1, 360 ,Ref F. Garcia,02,bracket update needed
+136,WINTER INVITATIONAL, Chicago, CA,2025-01-18,BLAKE WRIGHT,Cameron Young ,CHECKMAT,blu,juvenile,LIGHT,NOGI, l ,disq,0,00,0 ,2 ,8m 00s,Ref C. Patel,M1,weight check cleared
+137,State Championship,SAN DIEGO, AZ,2023-07-24,Parker Turner ,alex nguyen,CHECKMAT,BLACK,Master2,ultra heavy, gi , l ,dec,10 ,05,0.0, 1,3:00,Ref E. Brown, 9,scoreboard check
+138,STATE CHAMPIONSHIP,ATLANTA,il,Jan 15 2023,HARPER BROWN,ella nguyen,Checkmat,blk,MASTER 1 ,mid,No Gi, l ,pts,4 ,04,2.0, 0, 180 ,Ref D. Silva,M12,scoreboard check
+139, Grappling Grand Prix,DALLAS,tx,Jan 08 2022,Morgan Santos ,Sam Adams,dream art ,BLACK,JUVENILE,Heavy , gi ,WIN,decision, 6, 7,1 , 1,10:00,Ref D. Silva,06,uniform warning
+140,State Championship ,San Diego, TX,2022-12-29, Sam King,Ella  Lopez,team passos ,black,adult,heavy,No Gi,WIN,disq,5,8 ,0 ,2 ,240,Ref B. Kim,01,medical timeout
+141,winter invitational,dallas,FL,2022-11-04,Logan  Wright,Logan Lopez,10th Planet,purple,m2,light,No Gi,defeat,Ref Decision,9 ,8, 1,0,600 sec,Ref F. Garcia,M6,
+142,state championship, Seattle, IL,2024/12/23,noah patel,ELIJAH JOHNSON, aOj ,WHITE,juvenile,ROOSTER, gi ,victory,submission,3 pts,6,1, 2,3m 00s,Ref B. Kim,2,
+143,Winter Invitational ,DALLAS,IL,10/08/2022, Drew Davis,Olivia Wright ,Checkmat,brown,MASTER 2 ,Feather ,NOGI,L,SUB,0 pts,0 pts,2.0, 1,420 sec,Ref E. Brown,5,
+144,STATE CHAMPIONSHIP,Dallas,CO,17-Sep-2024, Ella Clark,Ethan  Adams,unity jiu jitsu,PURPLE,juv,LIGHT,Gi,WIN,disq,09,08,01, 0, 480 ,Ref D. Silva,mat 12,medical timeout
+145,City Cup,ATLANTA, FL,28-Sep-2022, Mia White,Drew Scott ,10P,blu,adult,ULTRA HEAVY , gi ,W,dq,7 pts,8 pts, 0,,600 sec,Ref A. Cruz, 7,weight check cleared
+146,Summer Open,seattle,GA,06/30/2023,Riley Silva, Parker Nguyen,Passos,White ,MASTER 2 ,uh, gi ,W,unknown,7 pts,8,1 ,0,360,Ref C. Patel,M11,late start
+147,Winter Invitational ,Atlanta , GA,Jun 29 2024,lucas santos,Lucas  Turner, atos ,PURPLE,m2,uh,No-Gi, w ,dec,8 ,3 pts,0.0,,4:00,Ref E. Brown,03,
+148,City Cup ,seattle,ca,2025-02-15,HARPER ALLEN,elijah king,gracie barra,brn,ADULT,ROOSTER,No Gi, w ,advantage,6 ,4 pts, 0,0 ,300,Ref C. Patel,08,late start
+149, Winter Invitational, Austin,ga,01/17/2022,Chris Silva , Olivia Clark, alliance,Brown ,juvenile,lf, gi , l ,Decision ,8,0,0.0,0, 300 ,Ref E. Brown, 11,medical timeout
+150,grappling grand prix,San Diego ,wa,03-23-2022,Riley Adams ,RILEY DAVIS,Atos,brown,Master1,absolute,NOGI,victory,decision,2, 0,2.0,0,420 sec,Ref C. Patel,mat 12,bracket update needed
+151,Winter Invitational,AUSTIN,ca,07/09/2023,Mia  Santos,unknown,CHECKMAT,BLACK,Adult ,hvy,No-Gi,loss,submission,2 ,2 ,0.0,0, 180 ,Ref C. Patel,mat 12,scoreboard check
+152,STATE CHAMPIONSHIP,dallas,CO,06/12/2024,Emma Wright ,LIAM KING,FIGHTSPORTS,BLACK,Master1,ROOSTER, gi ,victory,Points ,0 ,0,1.0,0 ,5m 00s,Ref B. Kim,mat 3,
+153,summer open,Houston,FL,09/06/2024,Mia Smith , Sophia King,Art of Jiu Jitsu,purple,juvenile,LIGHT FEATHER , gi ,WIN,Submission ,4,2,0 ,2 , 360 ,Ref F. Garcia,mat 3,late start
+154,Grappling Grand Prix ,Seattle , AZ,05-23-2022,TYLER YOUNG,Mia Garcia ,CHECKMAT,White ,m2,LIGHT FEATHER ,No-Gi,loss,Ref Decision,9 pts,7 pts, 2,1 ,8m 00s,Ref F. Garcia,04,coach challenge
+155, Winter Invitational,PHOENIX,il,2022/10/01,OLIVIA ADAMS, Taylor Young,b-team ,WHITE,JUVENILE,heavy,No Gi,win,disq,10,03,00,0 ,240,Ref E. Brown, 5,
+156,Regional Classic, Denver, FL,2024-10-02, Lucas Santos,Logan  Smith,Atos Jiu Jitsu,blu,MASTER 2 ,fthr,NOGI,WIN,Advantage , 8,3 , 0,none,10m 00s,Ref E. Brown,mat 3,uniform warning
+157,City Cup ,AUSTIN,GA,31-Jan-2023,Chris Nguyen,Reese Brown,GracieBarra,BROWN,MASTER 2 ,uh, gi , l ,n/a,10 pts, 0, 1, 2,480,Ref E. Brown,mat 4,
+158, Regional Classic,denver,GA,2024/06/08,JORDAN CLARK,MIA BAKER,ALLIANCE ,black,juvenile,open class,NOGI,WIN,Advantage ,07,00,1,0, 360 ,Ref C. Patel,mat 5,
+159,city cup,Seattle, AZ,06/20/2024,Elijah Santos,Riley  Green,NOVA UNIAO,black,Adult ,Rooster ,NOGI,victory,D.Q.,8 ,00,2.0,0 ,4:00,Ref E. Brown,5,bracket update needed
+160,WINTER INVITATIONAL, Austin,az,02-Jan-2024,Riley  Brown,TAYLOR CLARK,Fight Sports,blue,adult,Medium-Heavy,GI,loss,points,2 ,0 ,0 ,2 ,360,Ref A. Cruz,mat 11,medical timeout
+161,Summer Open,Seattle,co,Mar 22 2024, Ava Allen,ethan allen, BTEAM,blk,master 2,Light-Feather,NOGI, w ,,04,00,3,0,8m 00s,Ref B. Kim, 6,
+162,Regional Classic ,Houston,ca,Mar 08 2024,AVA WALKER,Ava  Lopez,GracieBarra,BROWN,Master2,OPEN CLASS ,NOGI,victory,disq,4,6 pts,3 ,2 , 420 ,Ref B. Kim, 4,scoreboard check
+163,State Championship, Phoenix,CA,Sep 14 2024,JORDAN WRIGHT,Noah  Allen,AOJ ,BROWN,MASTER 1 ,light feather,No Gi,win,Decision ,8,,0 , 1,180,Ref B. Kim,M10,coach challenge
+164, Winter Invitational,Chicago,ca,Mar 14 2022,Logan Scott,Morgan  Silva,FightSports,Blue ,m2,light,Gi,WIN,advantage,2, 3,00,1 ,300 sec,Ref F. Garcia,08,
+165,City Cup ,chicago,wa,2022/06/04,Noah Nguyen,Drew White ,Fight Sports,BLUE,MASTER 2 ,Heavy ,No-Gi,loss,submission,6 ,0, 1,0 ,360,Ref B. Kim,07,coach challenge
+166,Grappling Grand Prix,Phoenix , CO,01/04/2023,Morgan Wright, Casey Davis,b-team ,brn,juv,Middle , gi ,defeat,SUB, 0,6, 0, 2,5:00,Ref D. Silva,M10,scoreboard check
+167,Summer Open ,Miami ,AZ,29-Aug-2022,Liam Baker ,Blake Lee,nova união,blue,m1,Middle ,GI,defeat,disq,5,3 pts,0.0, 1,6:00,Ref B. Kim,M10,weight check cleared
+168, Winter Invitational,PHOENIX,tx,2022-02-20,Lucas Johnson,Emma Baker,fight sports,blu,juvenile,light feather,Gi,loss,PTS,03,5 pts,2.0,0,420 sec,Ref E. Brown,mat 3,late start
+169, Summer Open, Denver, TX,05-30-2022,Mason Brown , Morgan Silva,b-team ,wht,ADULT,Ultra-Heavy,No-Gi,W,sub, 2,4,3 ,2 ,300 sec,Ref D. Silva,M2,scoreboard check
+170,City Cup ,Denver , CO,04/27/2023,Reese Silva,LUCAS HALL,10TH PLANET,WHITE,Master1,LIGHT FEATHER ,No-Gi,L,Submission ,4 ,2 pts,0.0,2 ,300,Ref D. Silva,02,uniform warning
+171,Regional Classic ,AUSTIN,tx,24-Jul-2024,MIA YOUNG,Olivia Green , BTEAM,blu,Adult ,LIGHT,Gi, l ,PTS,5 , 2,2 ,2, 360 ,Ref D. Silva,M10,uniform warning
+172,City Cup,san diego,ga,12-04-2023, Jordan Patel, Emma Davis,10th planet ,black,Master2,Medium-Heavy,No Gi,loss,decision,04,05,03,,10m 00s,Ref B. Kim, 10,medical timeout
+173,CITY CUP,CHICAGO, IL,Nov 24 2022,AVERY GREEN,Blake Johnson,Atos Jiu Jitsu,brn,Master1,ultra heavy,No Gi,loss,Advantage ,10 pts,0 pts,00,2 ,8m 00s,Ref D. Silva,M2,coach challenge
+174,REGIONAL CLASSIC,San Diego,wa,03/29/2024,Liam  Costa,Sam King , atos ,blk,adult,light feather,Gi,victory,Decision ,5,08,01,1 ,240 sec,Ref F. Garcia,M12,weight check cleared
+175,State Championship,Denver,tx,2024/02/10,Elijah  Santos,unknown,Alliance,PURPLE,ADULT,middle,GI,victory,Decision , 8, 6,0 ,0,420 sec,Ref E. Brown,12,medical timeout
+176,SUMMER OPEN,Miami, FL,2022/12/03,Sam  King,Blake Hall , Unity ,purp,adult male,Light-Feather,No-Gi,W,dec,0 pts,02,0 ,1,180 sec,Ref C. Patel,M2,bracket update needed
+177, Regional Classic, Chicago, AZ,02-04-2022,DREW SCOTT,ALEX HALL,10P,brown,juv,Heavy ,Gi, l ,submission,2,5 pts,00,0 ,300 sec,Ref F. Garcia,02,uniform warning
+178,Winter Invitational , Houston,az,Jan 20 2022,Mia Santos,Sam Turner, Unity ,blu,Juvenile ,MIDDLE,NOGI,defeat,unknown,08,0,0,2, 480 ,Ref F. Garcia,5,
+179,Grappling Grand Prix,HOUSTON,ga,Jan 12 2023, Avery Costa,Parker Smith ,check mat,BLACK,Master1,Rooster ,NOGI,win,ADV,0,3 ,1, 2, 300 ,Ref E. Brown, 9,weight check cleared
+180,Summer Open ,Chicago,fl,2023/12/01, Drew Nguyen,Reese  Brown,check mat,white,Master1,MEDIUM HEAVY ,NOGI,L,Advantage ,5,3 ,1 ,0,3m 00s,Ref D. Silva,02,coach challenge
+181,Summer Open , Houston, TX,10-31-2022,Sam Baker ,Noah Adams,10P,Purple ,adult male,ultra heavy,No Gi,victory,pts,08,02,2.0,0,7m 00s,Ref E. Brown,M12,scoreboard check
+182,STATE CHAMPIONSHIP,AUSTIN,CA,05-12-2022, Harper Garcia,Elijah  Young,10th Planet,BLACK,master 1,feather,No-Gi, w ,unknown,04,8 ,0, 0,3:00,Ref E. Brown,mat 11,
+183,City Cup,Phoenix ,CA,06-Mar-2024,Morgan Martinez,LUCAS LOPEZ,CheckMat ,PURPLE,master 1,Light-Feather,Gi,loss,dec,2 ,3 pts,2.0,0,5m 00s,Ref A. Cruz,M1,video review
+184, Summer Open,Austin,GA,24-Dec-2023,sophia costa,Jordan  Patel,FIGHTSPORTS,Black ,m1,OPEN CLASS ,Gi,victory,Ref Decision,0 pts,0 ,2 ,2 ,240 sec,Ref F. Garcia,011,
+185,City Cup, Miami, CA,Aug 05 2024,Logan Patel, Jordan Walker,team passos ,PURPLE,m2,HEAVY, gi , l ,ADV,00,0,01,0 ,8:00,Ref A. Cruz,mat 3,
+186, City Cup,DALLAS, IL,01-11-2024,Harper  Scott,TBD,Atos,brn,juvenile,fthr,NOGI, l ,D.Q.,0 ,5, 0,1 ,8m 00s,Ref C. Patel,6,video review
+187,winter invitational, Chicago, IL,Feb 14 2024,Ava  Walker,Elijah King,unity jiu jitsu,blue,juv,fthr,NOGI,W,submission,10 ,2,01,1,300 sec,Ref C. Patel,M12,
+188,grappling grand prix,miami,TX,01-Feb-2025,sophia nguyen,Ethan Nguyen ,FIGHTSPORTS,Brown ,JUVENILE,FEATHER,NOGI, w ,disq,02,0 ,1.0,2 ,6:00,Ref C. Patel,M10,
+189, Winter Invitational,Dallas , FL,2024-08-18,Parker Turner ,alex scott,Atos,Purple ,m1,roost, gi ,loss,Points ,0 ,3,1.0,,240 sec,Ref D. Silva,M8,
+190, State Championship,Dallas , CA,10-16-2023,ava white, Parker White,B-Team,black,JUVENILE,heavy,NOGI,L,points,6 pts,7,1.0,0,8m 00s,Ref A. Cruz, 3,weight check cleared
+191, Winter Invitational,Seattle,tx,11/11/2023,Mason Allen ,Parker Brown ,Alliance,purple,master 2,FEATHER, gi , w ,PTS,3 ,4 ,03, 0, 180 ,Ref A. Cruz,010,weight check cleared
+192,regional classic,SEATTLE,il,2024/12/31, Mason Martinez,Tyler Adams,AOJ ,blu,juv,open class,Gi, l ,,4 , 0,n/a,1, 360 ,Ref C. Patel,09,
+193,state championship, Dallas,tx,2023-02-04,olivia turner,LIAM WHITE,Art of Jiu Jitsu,BROWN,ADULT,OPEN CLASS ,No-Gi,L,ADV,6,0,00,2,7m 00s,Ref A. Cruz,8,uniform warning
+194,Grappling Grand Prix,dallas,CO,05-30-2024, Tyler Smith,liam patel,Team Passos,PURPLE,adult male,Medium-Heavy,NOGI,victory,Points ,07, 2,3, 0,480,Ref B. Kim,mat 10,coach challenge
+195,STATE CHAMPIONSHIP,HOUSTON,WA,2022-12-06,taylor turner, Avery Nguyen, atos ,brn,Juvenile ,Middle ,NOGI,L,pts,2 ,7 pts,1.0, 0,240,Ref F. Garcia,03,coach challenge
+196,Regional Classic,denver,CA,Apr 23 2024,Reese  Green,Ella  Garcia,Alliance BJJ,black,JUVENILE,uh,No Gi,WIN,submission,0, 8,0 ,0 ,3m 00s,Ref A. Cruz,01,late start
+197,CITY CUP,Denver ,az,01-11-2022,Ava  Costa,ELLA SMITH, alliance,BLACK,master 2,lgt,NOGI,W,pts,08, 3,0, 0,240,Ref A. Cruz,mat 4,scoreboard check
+198, City Cup, Austin,ca,Nov 22 2024,MASON TURNER,LUCAS SCOTT,GracieBarra,BROWN,Juvenile ,mh,No-Gi,win,Decision , 0,7,0 ,0 , 360 ,Ref F. Garcia,6,coach challenge
+199,Winter Invitational, San Diego,IL,Apr 08 2023,Drew  Martinez,ELLA WHITE,CheckMat ,Brown ,Master1,Rooster ,Gi, l ,advantage, 4,6 pts,01,0,8m 00s,Ref A. Cruz,M10,bracket update needed
+200,State Championship ,Atlanta,FL,22-Mar-2022, Jordan King,Ella Martinez,ATOS,wht,juvenile,Middle ,No-Gi,loss,pts,2 ,05,0 ,2,480,Ref A. Cruz,mat 7,
+201,Winter Invitational ,ATLANTA, WA,01-24-2024, Drew Costa,MASON CLARK,Alliance BJJ,purple,adult male,Light-Feather,No Gi, l ,adv,2 pts,3 pts, 2,NA,480 sec,Ref D. Silva,8,scoreboard check
+202,State Championship ,austin, WA,07-08-2024,Logan Johnson,Blake Lopez,Dream Art,Black ,adult male,lf,No Gi,victory,Submission ,4,04,,2,10m 00s,Ref D. Silva,mat 6,
+203, Summer Open,SEATTLE,co,10-20-2023, Skyler Baker,sam martinez,GracieBarra,BLACK,m1,Feather ,NOGI,L,pts,5 ,02, 1,n/a,180 sec,Ref A. Cruz,04,late start
+204, Summer Open,seattle,FL,10-31-2023,Taylor Baker, Noah Allen,FightSports,blu,MASTER 1 ,Rooster ,GI,defeat,disq,5 , 0,3.0,0,180 sec,Ref E. Brown,09,
+205,Winter Invitational,DALLAS,wa,Feb 22 2022,alex young,Harper  Lopez,ALLIANCE ,blue,Adult ,ultra heavy,No Gi,defeat,Points ,9 pts, 2, 2, 1, 240 ,Ref F. Garcia,8,coach challenge
+206,Grappling Grand Prix , Houston, AZ,2024-10-15,logan costa,riley lee,10P,BROWN,adult male,OPEN CLASS ,GI,victory,sub,04,03, 3, 0,8:00,Ref F. Garcia, 5,scoreboard check
+207,State Championship,Austin ,ca,08-13-2024,Ava  Allen,Lucas Patel,ALLIANCE ,black,master 2,OPEN CLASS ,No Gi,L,Submission , 2,7, 0,0 ,6:00,Ref D. Silva, 6,video review
+208,grappling grand prix,Dallas,TX,10/14/2023,Lucas  Smith,mia walker,Atos,White ,Master2,LIGHT, gi ,victory,PTS,10,6 , 1,1 ,300,Ref A. Cruz,M6,bracket update needed
+209, City Cup,Seattle,CO,2022-08-21,SKYLER SILVA,Parker  Wright, alliance,black,MASTER 1 ,MEDIUM HEAVY ,GI,win,sub, 2, 5,1 , 0,4m 00s,Ref D. Silva, 9,late start
+210, State Championship,Phoenix, CO,Jun 06 2022,cameron baker,Tyler  Santos, atos ,blk,JUVENILE,HEAVY,Gi,W,points,7 ,2 pts,0.0, 0,4:00,Ref D. Silva, 1,medical timeout
+211, City Cup,Seattle,GA,09/06/2022, Cameron Hall,TBD,FightSports,wht,adult,ultra heavy,No Gi,loss,SUB,3,0 ,0,1,300 sec,Ref D. Silva,09,
+212, Grappling Grand Prix,Dallas ,CA,2022/04/04, Mason Allen,Noah  Allen,Atos Jiu Jitsu,blue,Adult ,HEAVY, gi ,loss,D.Q.,6 ,0 pts, 1,0 ,3:00,Ref D. Silva, 7,scoreboard check
+213, State Championship,HOUSTON,il,Dec 10 2023,Mia Scott ,Logan  Davis,Atos Jiu Jitsu,blue,JUVENILE,mh, gi ,win,SUB,04,,3.0, 2,8m 00s,Ref F. Garcia,08,scoreboard check
+214, Regional Classic,CHICAGO, FL,17-Apr-2024, Parker King,Skyler Baker ,team passos ,BLUE,MASTER 1 ,LIGHT FEATHER ,No-Gi,loss,dec,3 pts,04,00, 1,180,Ref B. Kim,M5,
+215,Regional Classic,Austin,AZ,15-Oct-2022,Ella Walker,reese turner,TEAM PASSOS,Purple ,Master1,roost,GI,W,Submission ,6 ,4 pts,0 ,1 ,8:00,Ref E. Brown, 9,uniform warning
+216, Summer Open,Seattle , AZ,12-22-2022,Mason Adams,AVA LEE,B-Team,blk,m2,lf,NOGI,LOSS,Ref Decision,0 pts,2 , 0, 0,300,Ref F. Garcia,M6,uniform warning
+217, Grappling Grand Prix,SAN DIEGO,ga,05-Dec-2023,Skyler  Green, Harper Baker,Passos,brown,master 2,LIGHT,GI,LOSS,Advantage , 0, 5,1 , 0, 300 ,Ref E. Brown,8,late start
+218, City Cup,Austin,CA,Oct 18 2022,Elijah Lopez,blake white,CheckMat ,Black ,MASTER 1 ,ULTRA HEAVY , gi ,victory,adv,07,0 pts,0.0,2,5m 00s,Ref C. Patel, 9,uniform warning
+219,Summer Open,phoenix,CO,2024/04/25,Mason Garcia ,taylor wright, GB ,brown,m2,open class,No-Gi, w ,sub,0 ,2 , 3,0,3:00,Ref B. Kim,03,late start
+220,City Cup, Denver,co,09-19-2023,AVERY ADAMS,Ella King,Fight Sports,blk,m2,Heavy , gi ,WIN,Points ,6 pts, 2,02, 1,180,Ref F. Garcia,02,scoreboard check
+221,Regional Classic ,Miami ,FL,03-15-2024,Drew  White,Ella  Lopez,GracieBarra,Blue ,MASTER 1 ,Rooster ,NOGI,victory,D.Q.,06,3,01, 0,600 sec,Ref D. Silva,M10,
+222,regional classic,houston,AZ,10-Apr-2022, Reese Davis,drew scott,10P,BLACK,Adult ,feather,NOGI,W,Ref Decision,9 pts,00,n/a,0,3m 00s,Ref C. Patel,mat 8,uniform warning
+223,summer open,Atlanta ,fl,2023-05-12,EMMA SCOTT,CASEY GARCIA,Atos Jiu Jitsu,BLACK,Adult ,light,GI,LOSS,decision,7,8 pts,1, 0, 300 ,Ref E. Brown,mat 9,late start
+224,state championship,Dallas , WA,02-20-2023, Taylor Martinez,taylor young,ATOS,Blue ,ADULT,mid, gi ,L,Points ,10 pts,05,3 , 0, 180 ,Ref D. Silva,mat 2,
+225,GRAPPLING GRAND PRIX,Seattle, TX,02-02-2024,logan baker,unknown,Fight Sports,Black ,master 1,Light ,GI,WIN,Submission ,9 ,6,0 ,1, 600 ,Ref B. Kim,mat 2,coach challenge
+226,REGIONAL CLASSIC,Denver,az,16-Jan-2023, Sophia Adams,Skyler Santos ,Atos,black,Adult ,Heavy ,Gi,WIN,SUB,9, 3, 3,1 ,360,Ref A. Cruz, 3,
+227, Grappling Grand Prix,Denver , AZ,09-26-2022,BLAKE BROWN,Cameron  Turner,dream art ,brown,Adult ,Rooster ,NOGI,WIN,ADV, 4,05,3 ,0 , 240 ,Ref B. Kim,5,
+228,Grappling Grand Prix,Denver ,az,12-22-2024,Mia  Santos,Harper Santos , Unity ,black,MASTER 1 ,OPEN CLASS ,No Gi,LOSS,decision, 2,05,n/a,1,420 sec,Ref D. Silva, 9,coach challenge
+229, City Cup, Miami, CO,05/09/2023,LIAM BROWN,Blake Garcia,DreamArt,Blue ,master 2,mid,NOGI,LOSS,n/a,10, 5,0, 1,5m 00s,Ref C. Patel, 9,video review
+230, Grappling Grand Prix,SAN DIEGO,wa,04/04/2024, Alex King,MIA SCOTT,Alliance BJJ,BROWN,MASTER 2 ,Rooster ,No-Gi, l ,PTS, 6,6 pts,01, 2,6m 00s,Ref E. Brown, 12,video review
+231,Regional Classic ,MIAMI,CO,03-19-2024,Jordan Martinez,cameron nguyen,b-team ,Blue ,m2,absolute,Gi,defeat,unknown,0,2 pts,2.0, 0,300,Ref F. Garcia,03,uniform warning
+232, Regional Classic,ATLANTA,AZ,04-Jan-2022,Mia  White,Drew King,Art of Jiu Jitsu,blu,m2,ultra heavy,Gi,defeat,DQ, 5, 6,00,0,420,Ref F. Garcia, 7,video review
+233,Grappling Grand Prix ,HOUSTON, TX,Jan 20 2025,Reese Martinez,HARPER ALLEN,AOJ,BLACK,Master2,light feather,GI, l ,PTS,10, 0, 1,1 ,360 sec,Ref F. Garcia,012,coach challenge
+234,GRAPPLING GRAND PRIX,Denver ,ca,22-Oct-2024,Ethan Baker,Cameron  White,UNITY,Purple ,Juvenile ,lgt,NOGI,LOSS,advantage,6, 8, 3,n/a,8:00,Ref A. Cruz,M10,late start
+235,Summer Open,Seattle,CO,19-Mar-2022,AVERY KING,Tyler  Santos, alliance,brown,m2,LIGHT,Gi,defeat,SUB,8 ,3, 3,1,180,Ref B. Kim,03,bracket update needed
+236,Regional Classic,Chicago ,il,01-08-2022, Morgan Lopez,BLAKE WHITE,check mat,purp,Adult ,heavy,Gi, w ,dec,3,0 pts,01,NA,5m 00s,Ref B. Kim,M12,
+237,GRAPPLING GRAND PRIX, Denver,co,03-08-2022, Reese Turner,Reese  Smith,ATOS,wht,m1,light feather,No-Gi,victory,sub, 8,5,03, 2, 300 ,Ref D. Silva,012,scoreboard check
+238,grappling grand prix,HOUSTON, TX,12-29-2022, Drew Lee,Skyler Martinez ,10th Planet,BROWN,master 2,Light ,GI,win,decision,10,00, 0,1, 300 ,Ref D. Silva,mat 10,late start
+239,SUMMER OPEN,Dallas, CO,03-Sep-2024,Elijah Lopez ,Mason Garcia,UNITY,BROWN,MASTER 1 ,Ultra-Heavy, gi ,loss,unknown,08,0 pts,3 ,2 ,5:00,Ref A. Cruz, 11,late start
+240,State Championship , Dallas, TX,24-Jul-2024, Parker Davis,Blake  Walker,10P,wht,Juvenile ,Heavy ,Gi,victory,Submission , 0,4,02,2 ,8:00,Ref F. Garcia,06,bracket update needed
+241,summer open,Miami ,WA,2022-12-07,Drew King ,Lucas Smith,Fight Sports,blue,MASTER 2 ,Ultra-Heavy,GI,victory,points,09,5 ,03, 2,360 sec,Ref A. Cruz, 1,bracket update needed
+242,WINTER INVITATIONAL,SEATTLE,AZ,30-Nov-2024,RILEY DAVIS,Liam White , alliance,WHITE,Master2,mid,Gi,WIN,sub,3 pts,0 ,00, 1,8:00,Ref C. Patel,M11,uniform warning
+243, Regional Classic,Houston ,AZ,2023/09/24,mason garcia,SOPHIA CLARK,UNITY,BLACK,master 2,Ultra-Heavy,Gi,W,sub, 0,6 pts,n/a,1 ,10:00,Ref A. Cruz,mat 9,weight check cleared
+244,REGIONAL CLASSIC,Phoenix, CA,2022/11/27,Reese Johnson,SKYLER GREEN,Passos,BROWN,JUVENILE,Light-Feather,GI,W,DQ, 2,3,0.0, 0,360 sec,Ref A. Cruz, 3,scoreboard check
+245,STATE CHAMPIONSHIP,miami, FL,10/17/2023, Harper Lee,Mason  Hall,B Team,WHITE,m1,FEATHER,NOGI,L,Points ,2,0 ,0 ,NA,420,Ref E. Brown, 6,weight check cleared
+246,Grappling Grand Prix,DENVER, AZ,2024/07/15,Parker Lee ,Blake Lee , GB ,brn,juv,uh,Gi,defeat,sub,4,3 , 0,0,8:00,Ref F. Garcia,M10,weight check cleared
+247,STATE CHAMPIONSHIP, Houston,TX,2024-02-17,OLIVIA GREEN,Noah  Walker,gracie barra,Purple ,master 2,Medium-Heavy,No Gi,victory,disq,00,2,1 , 1,480,Ref D. Silva,03,uniform warning
+248,state championship, Miami, FL,2024-07-09,blake adams,Avery Davis,NOVA UNIAO,brn,MASTER 2 ,middle,No Gi,defeat,sub,10 ,00, 0,-,480 sec,Ref D. Silva,3,video review
+249,Regional Classic,SEATTLE,AZ,Jul 27 2022,Lucas Davis,unknown,Alliance BJJ,Brown ,Juvenile ,LIGHT,No Gi,WIN,D.Q.,4 ,0, 0,0 ,6m 00s,Ref D. Silva,4,uniform warning
+250, Regional Classic,san diego,co,2023-05-30, Morgan Davis,noah nguyen,AOJ,white,juv,Medium-Heavy,NOGI,LOSS,Points , 2,4,0.0, 1, 180 ,Ref E. Brown,02,late start
+251,city cup,seattle,co,2023/05/02,EMMA MARTINEZ,Avery  Costa,FIGHTSPORTS,Brown ,Master1,ultra heavy, gi , w ,Ref Decision,02,3 , 1,0 ,600 sec,Ref E. Brown,10,coach challenge
+252, Winter Invitational,SAN DIEGO,az,Nov 10 2022,JORDAN YOUNG,Lucas  Baker,Team Passos,BLACK,JUVENILE,feather,Gi,LOSS,Ref Decision,10 pts, 7,0 ,2 ,600,Ref B. Kim,mat 12,
+253,winter invitational,san diego, TX,05/19/2022,Harper Davis ,AVA SMITH,10th Planet,blue,MASTER 2 ,heavy,No-Gi, l ,Decision , 7,6,0.0, 1,7m 00s,Ref F. Garcia,011,weight check cleared
+254,regional classic,Phoenix , TX,2022/11/30,LOGAN PATEL,TBD,ALLIANCE ,blue,adult,light feather, gi ,W,Submission ,06,5 pts, 0,0 ,3:00,Ref E. Brown,06,weight check cleared
+255, City Cup,San Diego,WA,2022/06/16,Cameron  Silva, Skyler Martinez,FightSports,brn,Juvenile ,Open,No Gi,loss,DQ,02,0 ,1,1,480,Ref E. Brown,M5,bracket update needed
+256,REGIONAL CLASSIC, Chicago,CO,07/13/2022,harper king,Sophia Turner ,Team Passos,purp,Master2,MEDIUM HEAVY ,NOGI,win,decision, 2, 4,0,0 ,420 sec,Ref D. Silva,M10,bracket update needed
+257, Regional Classic,SEATTLE,CA,2023-07-16,Tyler  Adams,Harper  White,Fight Sports,Blue ,Master1,Light-Feather,No Gi,win,points,00,0 ,03, 0,3:00,Ref E. Brown,M6,scoreboard check
+258,state championship,atlanta,wa,2023/05/17,Harper Brown ,Harper  Clark,10th Planet,white,ADULT,mid,NOGI,loss,Submission ,00,0 pts,1,0 ,360 sec,Ref E. Brown,6,weight check cleared
+259, City Cup,DENVER,IL,2022-12-31,tyler santos, Alex Clark,ATOS,PURPLE,Master1,LIGHT, gi , l ,dec,05,3,00,0,180 sec,Ref A. Cruz,mat 12,late start
+260, Winter Invitational,seattle, CA,2023/04/16,Olivia  Nguyen,Harper Nguyen ,Alliance BJJ,PURPLE,adult male,Medium-Heavy,NOGI,W,Ref Decision,2 ,2,3 , 0, 360 ,Ref A. Cruz,mat 10,scoreboard check
+261,Grappling Grand Prix ,Dallas ,WA,06-19-2023,SOPHIA COSTA,liam costa, aOj ,BLUE,m1,ULTRA HEAVY ,GI,win,sub,3,2 ,1.0,0 ,360,Ref E. Brown,09,scoreboard check
+262,City Cup ,denver,CO,Mar 13 2023,ETHAN WALKER,jordan lee, BTEAM,Purple ,juv,Light ,GI,victory,submission,09,2,2 ,0 ,180 sec,Ref E. Brown,01,uniform warning
+263,Winter Invitational ,Austin,TX,12-28-2024,blake green,Morgan Walker ,Team Passos,purple,adult,Heavy ,NOGI,loss,adv,0 , 5,0 ,1 , 360 ,Ref C. Patel,09,uniform warning
+264,city cup,Atlanta,IL,05/31/2024,Parker Brown,Blake Turner ,Nova Uniao,blue,MASTER 1 ,mid,No Gi,loss,Advantage ,3 ,8 ,00,0 , 180 ,Ref A. Cruz,mat 10,medical timeout
+265, Grappling Grand Prix,Austin,CA,2022/01/15,ELIJAH ALLEN,Blake  Brown,AOJ ,blu,adult male,medium heavy,GI,L,adv,2 pts, 2,2.0,0,6m 00s,Ref D. Silva,4,late start
+266,State Championship ,AUSTIN, AZ,26-Oct-2023,Taylor  White,ETHAN BROWN,Checkmat,Purple ,Juvenile ,middle,No Gi,L,SUB,3 pts,8,2, 2,8m 00s,Ref F. Garcia,2,late start
+267,summer open,atlanta,CA,Nov 02 2023,Mia Smith,Cameron  Lee, alliance,White ,Master2,Heavy ,No Gi,W,Decision , 0,0,1,0,240,Ref B. Kim, 11,late start
+268,REGIONAL CLASSIC,houston, TX,08-May-2022,parker garcia,BLAKE WRIGHT,CHECKMAT,Black ,master 2,roost,GI,LOSS,points,7 pts, 0,0.0, 0,3m 00s,Ref B. Kim,010,medical timeout
+269,summer open,dallas,il,2024-12-02,cameron silva,Drew  Smith,team passos ,purp,juv,Feather ,No Gi,loss,DQ, 5, 7,0.0, 1,6:00,Ref E. Brown,M12,coach challenge
+270,Winter Invitational ,Chicago, AZ,Feb 09 2024,HARPER WALKER,Taylor Young ,NovaUniao,PURPLE,adult,MIDDLE, gi ,defeat,adv,2,6 pts, 0,n/a, 240 ,Ref D. Silva,M1,medical timeout
+271,Grappling Grand Prix,Dallas,ga,Mar 24 2022,mason wright,Emma Patel,10P,blk,Master1,medium heavy,NOGI,W,Advantage ,9 pts,02,2 , 1, 600 ,Ref A. Cruz,mat 9,bracket update needed
+272,Grappling Grand Prix ,Austin,ga,2022/01/02,casey costa, Chris Lopez,Atos Jiu Jitsu,Brown ,Master2,light feather, gi ,loss,SUB,7 pts,7 pts,, 1, 480 ,Ref B. Kim,4,medical timeout
+273,state championship,Denver ,fl,Jun 20 2024,Drew King ,Casey  Lopez,gracie barra,purp,JUVENILE,Light ,No Gi,WIN,pts,0 ,08,0, 1,6:00,Ref E. Brown,mat 3,
+274,state championship,Atlanta ,ga,Oct 10 2023,Cameron Baker ,Avery  Green,Dream Art,Black ,ADULT,FEATHER,Gi,defeat,Ref Decision,4 pts, 8,1.0,1 ,6m 00s,Ref E. Brown, 4,coach challenge
+275, Regional Classic,ATLANTA,TX,2024-03-28,olivia allen,SKYLER LOPEZ,nova união,brn,Juvenile ,Open,NOGI,win,Submission ,7 ,07,0.0, 1, 240 ,Ref B. Kim,mat 1,uniform warning
+276, City Cup, Phoenix,TX,2022/07/18,Tyler Allen,Chris Young, Unity ,brn,adult,middle, gi , w ,sub,6 , 0,1 ,0,360,Ref A. Cruz,mat 2,weight check cleared
+277,CITY CUP,miami,IL,01-22-2025, Olivia White,Morgan Smith ,CHECKMAT,purp,JUVENILE,open class,NOGI,LOSS,n/a,6 pts,6 ,00, 1,180,Ref D. Silva,M5,scoreboard check
+278,regional classic,phoenix,ca,05-15-2023,SOPHIA SMITH,RILEY ADAMS,Passos,WHITE,master 2,light,Gi,defeat,ADV,10 ,5 pts, 3, 1,300 sec,Ref D. Silva,6,
+279, State Championship,miami, AZ,2024/05/25,sophia davis,Casey  Turner,GracieBarra,wht,master 1,middle,NOGI,WIN,D.Q.,3 , 0,00, 0,240,Ref F. Garcia,01,weight check cleared
+280,city cup,Dallas ,co,08-Jun-2024,Blake King,SOPHIA CLARK,10th Planet,blk,master 2,Light-Feather,NOGI,loss,dec,5 ,0, 1,0 , 240 ,Ref A. Cruz, 12,bracket update needed
+281,Regional Classic ,dallas,FL,2024/08/14,parker white,MORGAN GARCIA,Gracie Barra,White ,MASTER 2 ,LIGHT FEATHER ,GI,loss,advantage,0 pts, 7, 1,2,300 sec,Ref D. Silva, 8,medical timeout
+282,Grappling Grand Prix, Atlanta,ga,2024/07/27,reese martinez,Elijah  Brown,10th planet ,PURPLE,Master1,Open,No Gi,win,points, 10, 3,00,1,300 sec,Ref C. Patel,M12,scoreboard check
+283,REGIONAL CLASSIC,Seattle ,co,30-Nov-2023,Tyler Adams ,emma johnson,Atos Jiu Jitsu,blk,ADULT,MIDDLE,No Gi,W,unknown, 2,0 pts,0.0, 0,300 sec,Ref D. Silva, 10,
+284,winter invitational,DALLAS,ga,2022-08-15,Tyler  Garcia,Logan Nguyen,B Team,BLUE,JUVENILE,HEAVY, gi , l ,DQ,4 ,5 pts, 0,0 ,3m 00s,Ref F. Garcia,11,scoreboard check
+285,REGIONAL CLASSIC,Seattle , CO,05-23-2024,Tyler Lee ,Sam Clark,Gracie Barra,blue,juvenile,feather, gi , l ,pts, 7,00,00, 0,300,Ref F. Garcia,01,coach challenge
+286,Grappling Grand Prix, Phoenix,il,2024/07/17,Skyler Lee,ella davis,UNITY,BLUE,adult male,light feather, gi ,LOSS,decision,5,4,02,1,240,Ref A. Cruz, 10,
+287,regional classic,Phoenix ,CA,2022/11/09,Ethan  King,Jordan Scott ,team passos ,brn,Master2,ROOSTER,No-Gi,LOSS,pts,4 pts,0 , 2,0 ,3m 00s,Ref E. Brown,9,scoreboard check
+288,CITY CUP,dallas, IL,Nov 29 2024,logan santos,Morgan  Nguyen,Fight Sports,White ,master 1,mid,Gi,victory,Submission ,9 ,5, 3,1,180,Ref B. Kim, 7,
+289,REGIONAL CLASSIC,atlanta,CO,07-Feb-2024,logan allen,LIAM WALKER,GracieBarra,Brown ,MASTER 1 ,MEDIUM HEAVY ,No Gi,L,Submission ,5 ,05, 0, 2,7:00,Ref A. Cruz,mat 9,uniform warning
+290,City Cup ,ATLANTA,IL,16-Mar-2023,Ella King,Cameron Costa,b-team ,Blue ,adult,mh,NOGI, w ,adv,00,6,0.0,0, 240 ,Ref A. Cruz,M12,weight check cleared
+291,Winter Invitational ,miami, FL,2023/10/26,Ethan Nguyen,Liam  Nguyen,10th Planet,Black ,m1,MEDIUM HEAVY ,No Gi,defeat,Advantage ,2 ,08,2.0,2 ,5:00,Ref C. Patel,6,uniform warning
+292,Grappling Grand Prix,Houston,wa,2024-11-05,Taylor  Silva,chris hall,NOVA UNIAO,blue,ADULT,MIDDLE,Gi,loss,adv,3,2 pts,2.0,n/a, 240 ,Ref A. Cruz,M6,coach challenge
+293,Winter Invitational ,DENVER, FL,05-Feb-2023,Sam  Walker,Lucas Garcia,Alliance BJJ,brn,JUVENILE,MIDDLE,No Gi,defeat,Points ,2,0 pts,01,2 , 180 ,Ref D. Silva,mat 6,bracket update needed
+294,Regional Classic , Dallas, TX,Aug 21 2024,Elijah Walker,avery johnson,Passos,Black ,MASTER 2 ,ULTRA HEAVY ,Gi,win,adv,10,3 pts,0 ,0 , 360 ,Ref E. Brown, 5,video review
+295,SUMMER OPEN,Seattle ,tx,Mar 29 2022,HARPER SMITH,ella clark,10P,WHITE,m1,absolute,GI,W,PTS, 8,8,1,0 ,300,Ref D. Silva,mat 10,weight check cleared
+296,Regional Classic, Miami,TX,Jan 18 2022,Avery Davis , Logan Johnson,nova união,White ,ADULT,hvy,GI,L,Submission ,10,5,1 , 1,240 sec,Ref A. Cruz,10,
+297,regional classic,Miami , GA,Jan 13 2023,Emma Smith, Sam Nguyen,Gracie Barra,Blue ,juvenile,absolute,No Gi,W,Decision ,6, 0,1 , 0,7:00,Ref B. Kim,mat 12,late start
+298,REGIONAL CLASSIC, San Diego, AZ,22-Nov-2023, Skyler Turner,CASEY SANTOS,NovaUniao,PURPLE,m1,open class,NOGI,loss,Ref Decision, 5,0,2,-,6:00,Ref D. Silva,09,coach challenge
+299,City Cup,Houston ,CA,27-Jan-2022,Reese  Lopez,Ava Nguyen ,Dream Art,Purple ,MASTER 1 ,feather,GI,loss,adv,10 ,02,0.0, 0,4m 00s,Ref A. Cruz,M1,uniform warning
+300,Summer Open ,Chicago,il,2022-09-17,alex smith, Chris Hall,UNITY,blu,juvenile,light,No-Gi, w ,decision,3 ,2 ,2 ,1,480 sec,Ref C. Patel,M2,scoreboard check
+301,summer open,austin, WA,Dec 24 2022,Morgan Santos ,Avery Santos,Atos,BROWN,adult male,absolute,GI,win,Submission ,0 pts,0 ,0.0,,3m 00s,Ref D. Silva,01,coach challenge
+302,city cup, Houston, TX,03/31/2023,SOPHIA CLARK,morgan lee,AOJ ,Purple ,Master1,roost,No-Gi,L,ADV,5,7 pts,3,1,300,Ref D. Silva,08,medical timeout
+303,Grappling Grand Prix,Dallas,wa,05/01/2022,AVA TURNER, Ethan Clark,10P,white,juv,heavy,GI,victory,disq,0, 0,2, 0,7m 00s,Ref C. Patel,mat 10,late start
+304,Winter Invitational, Chicago,ca,Nov 08 2022, Noah Santos,skyler johnson,b-team ,White ,m1,lgt,NOGI,victory,D.Q.,10 pts,03,01,0,8:00,Ref E. Brown,05,
+305, Grappling Grand Prix,austin,il,02-Jun-2024,LIAM LEE,AVA SMITH,check mat,Brown ,MASTER 1 ,middle, gi , w ,pts,06,02,1.0, 0,8:00,Ref A. Cruz,5,weight check cleared
+306,Winter Invitational,seattle,WA,10-05-2023,Sophia Adams ,skyler smith,gracie barra,black,juv,OPEN CLASS ,No-Gi,WIN,ADV, 0,03,0,1 ,3:00,Ref B. Kim,mat 7,medical timeout
+307, State Championship,SEATTLE,CO,12-22-2024,Emma Green ,CHRIS BROWN,FightSports,blu,m1,Middle ,NOGI,loss,Submission ,02,07,1 ,0,600,Ref F. Garcia, 9,
+308,SUMMER OPEN, Denver,ca,2023-03-15,Alex Lee ,Jordan  Johnson,Atos,White ,adult,Heavy ,No-Gi, w ,submission,2,6 ,0 ,2, 300 ,Ref B. Kim,M11,scoreboard check
+309,REGIONAL CLASSIC,Miami,WA,02-24-2023,MORGAN COSTA,Avery  Patel,gracie barra,black,MASTER 1 ,Open,No Gi,victory,PTS,8 pts,8 , 0,1,300,Ref E. Brown,M3,medical timeout
+310, Winter Invitational,Miami,CO,2022-11-17,Noah  Hall, Cameron Brown,Art of Jiu Jitsu,White ,adult male,Middle ,No-Gi, l ,SUB,0 pts,2,01,1 , 300 ,Ref B. Kim, 1,weight check cleared
+311,STATE CHAMPIONSHIP, Miami, TX,08-09-2024,Tyler Davis, Liam Young,b-team ,blue,master 2,heavy,NOGI,LOSS,D.Q.,0 pts,2 ,03,0 , 600 ,Ref F. Garcia,M6,late start
+312,GRAPPLING GRAND PRIX,Chicago, CO,06/09/2024,Mason Patel,Cameron Turner,ATOS,BLUE,MASTER 1 ,ultra heavy,NOGI, w ,disq,,08,0.0, 2,10:00,Ref D. Silva, 12,video review
+313,City Cup ,Chicago , CO,12-Feb-2024, Alex Johnson, Ella Young,AOJ,Purple ,ADULT,middle,Gi,win,PTS,2 pts, 3,2.0, 1,6m 00s,Ref C. Patel,M10,coach challenge
+314,Regional Classic ,Austin ,co,11/05/2024,Sophia Silva, Alex Clark,UNITY,black,m2,Medium-Heavy,NOGI, l ,points,8 pts,, 0,0, 420 ,Ref F. Garcia, 12,uniform warning
+315,grappling grand prix,CHICAGO,ca,01-Dec-2023,Sophia Smith, Jordan Clark,b-team ,WHITE,MASTER 1 ,rooster,No-Gi,loss,disq,06,0 pts,3 ,0 , 420 ,Ref B. Kim,M3,bracket update needed
+316,Grappling Grand Prix ,houston,co,12/31/2023,Mason Hall ,EMMA GREEN,Alliance,BROWN,Juvenile ,ultra heavy,GI,W,Submission ,10 ,0 , 0,1,7:00,Ref A. Cruz,04,late start
+317,Regional Classic , Chicago,GA,12/23/2022, Sophia King,Blake  Green, atos ,purp,adult male,LIGHT, gi ,victory,DQ,0 , 2, 3,2,360 sec,Ref C. Patel,02,uniform warning
+318, Summer Open, Atlanta,wa,14-Oct-2024,Lucas Hall,tyler nguyen,gracie barra,Blue ,Adult ,ULTRA HEAVY ,NOGI,defeat,SUB, 2,3 ,3 ,0 ,360,Ref E. Brown,04,coach challenge
+319,GRAPPLING GRAND PRIX,Houston,FL,12-02-2022,Blake  Lopez,parker scott,Nova Uniao,Black ,adult,LIGHT,NOGI,W,Ref Decision,8,3,00, 2,420 sec,Ref A. Cruz,M6,late start
+320,Grappling Grand Prix,miami,ga,09-18-2023,Sam Adams,LIAM NGUYEN,CheckMat ,white,master 1,heavy,GI,victory,advantage,2 ,02, 1,1 ,240 sec,Ref B. Kim,06,video review
+321, City Cup,dallas,tx,2025-02-26,Noah  Walker,Ava Smith,CHECKMAT,Blue ,m1,fthr,No-Gi, l ,dec,02,7,2 , 0,180 sec,Ref F. Garcia,mat 8,
+322,CITY CUP, Miami, AZ,31-Jan-2023,Chris Clark ,skyler smith, atos ,White ,master 2,FEATHER,Gi,loss,PTS, 2,0,3,0,3:00,Ref C. Patel,mat 3,scoreboard check
+323,GRAPPLING GRAND PRIX,Seattle,az,09/30/2022,Parker Brown,AVERY DAVIS,AOJ,blu,JUVENILE,HEAVY,No-Gi,WIN,SUB, 8,00,1 , 0,600,Ref C. Patel,M1,scoreboard check
+324,WINTER INVITATIONAL,Austin , FL,04-Feb-2023,HARPER SILVA,Skyler  Turner,fight sports,White ,JUVENILE,Rooster ,No Gi, w ,advantage,0,2 pts,2, 2,7:00,Ref F. Garcia, 3,uniform warning
+325,STATE CHAMPIONSHIP,Seattle ,il,19-Jan-2022,liam scott,Drew Hall,unity jiu jitsu,White ,adult,absolute,No Gi, l ,decision,7 pts,5 pts,,1,360,Ref B. Kim, 12,medical timeout
+326,WINTER INVITATIONAL,SEATTLE, AZ,Oct 02 2024,Logan Martinez , Harper Green, BTEAM,black,ADULT,MIDDLE,Gi,defeat,Submission ,00,2 pts,2 ,n/a,360,Ref E. Brown,4,
+327, City Cup,SAN DIEGO, FL,Jun 30 2022,avery allen,Chris Allen ,b-team ,white,m1,ROOSTER,Gi,WIN,dq, 2,0 pts,1 ,1 , 480 ,Ref E. Brown,01,scoreboard check
+328,City Cup, Houston, CA,12-Nov-2024,Avery White,Noah Costa , GB ,brn,master 2,Ultra-Heavy,Gi, l ,adv,0 ,2,3,2, 180 ,Ref B. Kim,10,
+329,City Cup , Seattle, GA,09-03-2023,AVERY JOHNSON,Ella Martinez,Passos,BROWN,m1,medium heavy,GI,WIN,Decision ,2 ,0 ,3,1,6m 00s,Ref E. Brown,07,medical timeout
+330,Winter Invitational ,AUSTIN, AZ,Dec 04 2023, Taylor Smith,Olivia Martinez ,Gracie Barra,PURPLE,juv,FEATHER,Gi, l ,advantage, 10,00,1, 0,3:00,Ref D. Silva, 12,scoreboard check
+331,state championship,PHOENIX,WA,2023-12-17,AVERY DAVIS,mason clark,CHECKMAT,Blue ,JUVENILE,heavy,No-Gi,victory,disq,6 pts,4,n/a,0,300,Ref D. Silva,M1,
+332,state championship,Austin ,tx,Mar 07 2024, Olivia Young,Casey Santos,Alliance BJJ,Purple ,m1,ROOSTER,GI,defeat,adv,2 , 6,0 , 1,3:00,Ref D. Silva, 1,coach challenge
+333, Winter Invitational,DALLAS,TX,2024/03/12,mason scott,Avery Clark ,Gracie Barra,blk,Master2,HEAVY,No Gi, l ,PTS,0 pts, 8,2.0,0,600,Ref D. Silva,mat 5,uniform warning
+334, Summer Open,dallas,tx,10/22/2024, Casey Martinez,Alex Walker ,TEAM PASSOS,brown,JUVENILE,uh,No-Gi,defeat,Advantage ,0 ,06, 0, 0,300 sec,Ref F. Garcia,03,video review
+335,regional classic,Dallas,GA,2022/06/22,parker santos,SKYLER COSTA, BTEAM,blu,MASTER 1 ,Middle ,Gi,win,decision,8 ,03,2.0,0, 180 ,Ref B. Kim,06,late start
+336,GRAPPLING GRAND PRIX,dallas,IL,2024-05-15,MIA HALL,DREW GREEN, BTEAM,brown,adult,mh,Gi, l ,D.Q.,6 ,07,2 ,1,6m 00s,Ref A. Cruz,09,bracket update needed
+337,summer open,MIAMI, GA,Mar 24 2022,Parker  Santos,avery smith, BTEAM,Brown ,MASTER 1 ,absolute,GI,defeat,,7 ,7 pts,0,2,420 sec,Ref B. Kim,mat 7,video review
+338,State Championship ,austin,fl,Sep 29 2024, Casey Allen, Noah King,Fight Sports,wht,m2,Feather ,NOGI,LOSS,SUB,09,6,02, 2,360,Ref B. Kim, 11,
+339,City Cup ,houston,az,06/22/2022,SAM SMITH,skyler adams,GracieBarra,brown,Juvenile ,Feather ,NOGI,victory,Advantage ,00,2 pts,3,1 , 600 ,Ref C. Patel,M3,coach challenge
+340,grappling grand prix,denver, AZ,04/10/2024,Liam Scott ,lucas hall,10P,BLACK,MASTER 2 ,lf,GI,win,submission,07,02,0,0,600,Ref E. Brown,M3,video review
+341,STATE CHAMPIONSHIP,Dallas ,az,Dec 05 2024,Mason Davis ,Chris Walker,UNITY,blk,master 2,MEDIUM HEAVY , gi , l ,PTS,0 ,04, 3,1,3m 00s,Ref E. Brown,mat 6,scoreboard check
+342,City Cup,Austin,CO,20-Apr-2023,sophia costa,Parker  King,fight sports,brn,MASTER 1 ,LIGHT FEATHER ,Gi, w ,dec,7, 0,0 ,0 , 600 ,Ref C. Patel,011,bracket update needed
+343,GRAPPLING GRAND PRIX,PHOENIX,FL,2025/01/27,Mason Davis ,BLAKE GARCIA, aOj ,black,MASTER 2 ,ultra heavy,No Gi,W,PTS,07,5,0, 1,7m 00s,Ref E. Brown,mat 1,late start
+344,Regional Classic,Denver, CO,11-06-2023,Logan Lopez,ELLA PATEL,AOJ,Purple ,master 2,lgt,No-Gi,LOSS,Points ,6 pts,5 ,0,n/a,6:00,Ref E. Brown,mat 12,
+345,grappling grand prix, Dallas,fl,2022-07-08,Ethan Santos , Ava Brown,DreamArt,purp,master 1,ULTRA HEAVY ,Gi,L,adv,9 ,07,1 , 1,240 sec,Ref A. Cruz,03,medical timeout
+346,grappling grand prix,Denver,az,02/05/2023,mia baker,Ethan  Lee,TEAM PASSOS,WHITE,MASTER 1 ,light,GI,defeat,adv,2,2 pts,0.0, 0,5:00,Ref A. Cruz, 6,video review
+347,City Cup , Austin, CO,05-03-2024,Elijah Green ,unknown,b-team ,blk,ADULT,medium heavy, gi ,victory,dq,9 pts, 8,0 ,2 , 600 ,Ref D. Silva,M3,medical timeout
+348, State Championship,MIAMI,il,2022-04-06,Chris  Young, Casey Brown,DREAMART,BLACK,master 2,fthr,NOGI,victory,pts, 6,8 , 1, 1,8m 00s,Ref E. Brown,03,
+349,City Cup ,DENVER,wa,2023-01-25,ETHAN LOPEZ, Olivia Santos,Atos Jiu Jitsu,black,adult,hvy,No-Gi,defeat,sub,8 pts, 0,n/a,0 , 180 ,Ref F. Garcia, 1,coach challenge
+350,city cup,atlanta,CO,09/30/2024,liam adams,liam martinez, aOj ,wht,master 1,mh, gi ,win,submission,6, 7,2,0,10:00,Ref D. Silva, 4,scoreboard check
+351,city cup,atlanta, FL,Aug 21 2022, Emma Johnson,Elijah  Scott,Nova Uniao,BROWN,JUVENILE,MIDDLE,No Gi, l ,sub,5 ,6 pts, 1, 1,4:00,Ref A. Cruz,02,uniform warning
+352,State Championship,DALLAS,FL,10-13-2022,sophia turner,TBD,DREAMART,White ,juvenile,Heavy ,Gi,win,adv,03,6 ,0, 0,300 sec,Ref A. Cruz,7,
+353,City Cup,Seattle ,IL,03/27/2023,Avery  Martinez, Skyler Costa,ALLIANCE ,wht,juv,Heavy ,Gi,loss,Submission , 10, 4, 0,1,3:00,Ref C. Patel,M10,
+354,State Championship,san diego,il,08-21-2024,Riley Baker ,Sophia Baker,CheckMat ,BROWN,Adult ,LIGHT,Gi,victory,advantage,9 ,0,0 ,2 ,3m 00s,Ref D. Silva,mat 6,coach challenge
+355, City Cup, Chicago, IL,05/17/2024,lucas garcia,Elijah Smith,10th planet ,BLUE,Master2,fthr,No Gi,W,Ref Decision,06,02,2, 1,180 sec,Ref A. Cruz,mat 9,bracket update needed
+356,State Championship ,CHICAGO,ca,2023-09-28,Jordan Clark ,unknown,AOJ ,purp,master 2,open class,Gi,WIN,Advantage ,7 ,00,0.0,1,7m 00s,Ref E. Brown, 9,
+357,STATE CHAMPIONSHIP,Miami,az,2022/01/16, Skyler Baker,Mason Hall ,Dream Art,purp,master 1,OPEN CLASS ,No Gi,victory,adv,05,00,00, 0,8:00,Ref E. Brown,mat 4,medical timeout
+358,Regional Classic,Austin, TX,01/27/2024,AVA ALLEN,Noah  Young,fight sports,blk,Master1,ultra heavy,No Gi,loss,Decision ,02,08,03,0,240,Ref A. Cruz,mat 11,bracket update needed
+359,CITY CUP,Atlanta, FL,2024-03-05,DREW GREEN,REESE PATEL, Unity ,Blue ,ADULT,Light ,GI,L,advantage,0 ,4 pts,1 ,0,8m 00s,Ref F. Garcia,06,bracket update needed
+360,Grappling Grand Prix ,Dallas,il,12-14-2023, Casey Davis,Emma Adams ,Checkmat,Black ,m1,mid,NOGI,loss,ADV,03,02,0.0, 1, 300 ,Ref C. Patel,M12,weight check cleared
+361,WINTER INVITATIONAL,Miami,IL,01/30/2023,Skyler  Brown,ella garcia,B Team,wht,master 2,Ultra-Heavy,GI,win,SUB,7,6,0,0,420 sec,Ref C. Patel,11,
+362,grappling grand prix, Miami,CO,03-25-2024,harper davis,AVA CLARK, GB ,blu,ADULT,MEDIUM HEAVY , gi ,L,adv,5 pts,0 pts,03, 1,240 sec,Ref A. Cruz,M3,medical timeout
+363,City Cup ,phoenix,wa,26-Dec-2024, Taylor Wright,Olivia Scott ,ALLIANCE ,blue,m1,MEDIUM HEAVY ,Gi,L,SUB,8, 6,, 0,10m 00s,Ref D. Silva,07,uniform warning
+364, Grappling Grand Prix,Austin,co,02-24-2022,Ethan Davis,Tyler  Patel,Atos,brown,MASTER 1 ,Feather , gi ,victory,Advantage , 2, 0,1,1 , 180 ,Ref D. Silva,M6,coach challenge
+365,City Cup, Houston, IL,12/28/2023,Ethan Scott, Harper Hall,10P,black,adult,Heavy ,No-Gi,WIN,dec,08,03, 1,0 , 240 ,Ref F. Garcia,mat 11,bracket update needed
+366,SUMMER OPEN,phoenix, CO,2024/12/05,sophia nguyen,EMMA LOPEZ,b-team ,purple,Juvenile ,Middle ,No-Gi,WIN,adv,8 ,2 pts,0 , 2,10m 00s,Ref F. Garcia,03,uniform warning
+367,Regional Classic , San Diego, GA,2022-01-11,Riley Scott,Reese Wright ,FightSports,black,juv,heavy,Gi,WIN,DQ,, 0,2.0, 0,300 sec,Ref B. Kim, 12,
+368, Grappling Grand Prix,Seattle, TX,Jan 15 2025,cameron allen,drew nguyen,AOJ ,black,adult male,LIGHT FEATHER , gi ,defeat,sub,10 pts,07,0 ,0,420 sec,Ref F. Garcia,9,late start
+369,city cup,dallas, TX,2022-04-29, Lucas Silva,Sophia Scott,UNITY,BROWN,adult male,LIGHT,Gi,defeat,PTS,0,8 ,0 , 0,10m 00s,Ref C. Patel,M9,
+370,Summer Open ,Phoenix,WA,2022/01/10,Olivia Costa,Sophia  Johnson,Gracie Barra,purp,juv,heavy,No Gi, l ,Ref Decision, 2,2 pts,0.0,0,300 sec,Ref D. Silva,mat 3,video review
+371,Summer Open,San Diego ,il,2024/12/27,Chris Young,Mason Johnson,dream art ,Purple ,adult,ULTRA HEAVY , gi , l ,adv,3 pts,02,0 ,,480 sec,Ref F. Garcia,M2,
+372,STATE CHAMPIONSHIP,seattle, FL,06-11-2023, Parker Young,Sam Walker, atos ,White ,Adult ,light feather,Gi,W,SUB,0 pts,02,0,2, 420 ,Ref C. Patel,01,video review
+373,SUMMER OPEN,Atlanta , WA,04-30-2024,mason martinez,Jordan White ,Passos,wht,Master2,uh,NOGI, w ,PTS,10 pts,2,1 ,0 ,10:00,Ref D. Silva, 9,
+374, City Cup,DENVER,IL,06/03/2024,drew walker,Avery Hall ,AOJ ,brown,juv,absolute,Gi,victory,Submission ,10,06,1.0,2 ,10m 00s,Ref B. Kim,04,uniform warning
+375, State Championship, Chicago,tx,02/18/2025, Tyler White,Tyler Lopez,DreamArt,WHITE,m1,mh,No-Gi,loss,PTS,5,0 , 0, 0,6:00,Ref E. Brown,mat 12,video review
+376,regional classic,Atlanta,co,03/12/2022,MORGAN LEE,LOGAN HALL,10P,Blue ,Master1,uh,No-Gi,L,SUB, 2,4 , 1,0,8:00,Ref D. Silva,M2,uniform warning
+377, State Championship,San Diego, CO,01-Apr-2024,liam lee,emma johnson,team passos ,brn,m2,LIGHT FEATHER ,NOGI,W,adv,3, 4,1.0,0 ,6:00,Ref E. Brown,M5,uniform warning
+378,CITY CUP, Dallas,il,Dec 14 2024,Avery Smith , Chris Allen,Unity,wht,Adult ,HEAVY,GI,loss,DQ, 2,4 ,00, 0,6m 00s,Ref A. Cruz,2,uniform warning
+379, City Cup,Phoenix,WA,2022-03-21,Emma  Hall,Skyler Adams,dream art ,WHITE,MASTER 1 ,LIGHT,No-Gi, w ,Advantage ,4 pts,8,3.0,n/a,300,Ref D. Silva, 3,uniform warning
+380,REGIONAL CLASSIC, Miami,AZ,03-24-2024,skyler baker,Harper Johnson,Atos,purple,adult male,Feather ,Gi,win,DQ,8,07,n/a, 0,180 sec,Ref F. Garcia,04,late start
+381,SUMMER OPEN,Phoenix ,AZ,05-06-2023,Sam Martinez,ethan adams,Team Passos,brn,m2,ultra heavy, gi ,W,sub, 6,4, 3, 2,10m 00s,Ref C. Patel,M7,uniform warning
+382,City Cup ,Austin ,il,07/05/2022,Skyler King ,tyler garcia,CheckMat ,White ,adult,lgt,NOGI,WIN,sub, 2,,0, 1,600 sec,Ref D. Silva,07,scoreboard check
+383,state championship,Miami, IL,2022/11/25,LIAM SANTOS,Emma Lee ,FIGHTSPORTS,BLUE,master 2,uh,Gi,WIN,advantage,9 , 0,0.0, 1,4:00,Ref C. Patel,05,scoreboard check
+384, Grappling Grand Prix,houston,tx,2024/06/03,Jordan Young, Mason Lopez,CheckMat ,BROWN,MASTER 1 ,fthr,GI,victory,Ref Decision, 7, 2,0.0, 0,180,Ref C. Patel,011,late start
+385,Summer Open ,Houston, AZ,28-Sep-2023,Olivia Lopez , Sam Garcia,CHECKMAT,blk,Master1,mid,No-Gi,victory,pts,4, 2,00,0 ,4m 00s,Ref C. Patel, 4,
+386,winter invitational,atlanta,az,2022/01/13,Sophia Turner,Morgan Smith,Gracie Barra,BROWN,Master2,uh,Gi,W,n/a,00,0 ,00, 0,360,Ref C. Patel,mat 3,video review
+387, Grappling Grand Prix,PHOENIX,WA,04-13-2022,Jordan Young ,parker silva,AOJ ,BROWN,Master1,Ultra-Heavy,Gi,W,dec,04,2, 2,2 ,4m 00s,Ref C. Patel,011,late start
+388,WINTER INVITATIONAL, Chicago, FL,2024/06/01,SOPHIA YOUNG,Lucas Lopez ,CHECKMAT,brn,juv,Light-Feather,GI,loss,adv,9 pts,03,2, 1,240 sec,Ref B. Kim,M10,scoreboard check
+389,Grappling Grand Prix,austin,IL,04/01/2022,Mia  Adams,Parker Santos,B Team,blue,Juvenile ,light feather,No Gi,defeat,points,2 pts, 6,0 ,1,300 sec,Ref D. Silva,mat 2,late start
+390,SUMMER OPEN,Denver,CA,11-04-2022,Parker Wright ,SKYLER BROWN,nova união,black,Adult ,HEAVY,Gi, l ,DQ, 6, 0, 0, 2,7m 00s,Ref B. Kim,03,medical timeout
+391,City Cup,SEATTLE, AZ,2024-04-27,Emma  Allen,OLIVIA COSTA,DreamArt,White ,Adult ,MIDDLE,Gi, w ,Ref Decision, 10, 0,3,2 ,8:00,Ref A. Cruz,010,bracket update needed
+392,grappling grand prix,Seattle, GA,2024-03-02,Morgan Nguyen,Cameron Lee ,ATOS,Purple ,adult male,mh,No Gi,LOSS,ADV,0,3 pts,0.0,0,360 sec,Ref E. Brown,010,medical timeout
+393,state championship, Chicago,GA,01-Dec-2024,Chris Smith,Chris  Green,10th planet ,purp,ADULT,middle,No Gi,WIN,advantage, 3,02, 1,1 ,10m 00s,Ref D. Silva,M10,
+394,winter invitational,DALLAS,il,Sep 27 2022,Logan  Patel, Emma Brown,Gracie Barra,blu,adult,HEAVY,GI,W,pts,7 pts,04,01,0 ,240 sec,Ref F. Garcia,7,uniform warning
+395,summer open, Austin,ca,2022-12-25,LOGAN DAVIS,Elijah Nguyen ,ALLIANCE ,blk,master 1,open class,NOGI, l ,Submission ,5 , 2,0 , 0, 360 ,Ref A. Cruz,07,bracket update needed
+396,SUMMER OPEN, Phoenix,az,07-21-2022,PARKER LOPEZ,EMMA GREEN, GB ,Blue ,MASTER 1 ,Rooster ,No Gi,victory,submission,07,03, 0, 1,10m 00s,Ref D. Silva,mat 12,late start
+397,regional classic,chicago,AZ,Jan 25 2023,Chris King , Drew Walker,gracie barra,brn,master 2,FEATHER,No Gi,L,Points , 2,2,0.0,2, 600 ,Ref F. Garcia,12,
+398,state championship,Miami ,FL,05/23/2024,CAMERON LEE,Alex Adams, atos ,brn,m2,OPEN CLASS ,NOGI,L,decision,6 ,6 , 1, 0, 360 ,Ref B. Kim,mat 10,
+399,Winter Invitational,chicago,ca,Feb 16 2023,MIA WHITE,Mason Nguyen ,AOJ,brown,Master2,lgt, gi ,LOSS,dq,0,0, 0, 0, 240 ,Ref E. Brown,04,scoreboard check
+400,regional classic,houston, TX,2022-12-31,lucas garcia,Mia  Baker,NovaUniao,brn,m1,lgt, gi ,victory,dq, 4, 6,3 , 2,240,Ref F. Garcia,mat 12,coach challenge
+401,Regional Classic ,seattle, CA,04-22-2022,Ella  Lopez,MIA SANTOS,DREAMART,blk,Adult ,MEDIUM HEAVY ,NOGI,defeat,points,08,7 ,3.0,0 ,10:00,Ref D. Silva,02,scoreboard check
+402,winter invitational,san diego, CA,24-Jan-2025, Chris Garcia,Morgan  Costa,10th planet ,Brown ,Juvenile ,feather,No-Gi,loss,sub,10, 2,2 , 1,240 sec,Ref A. Cruz,mat 11,uniform warning
+403,Grappling Grand Prix ,Miami,tx,2025-01-15,Taylor Walker,Ella  Patel,NOVA UNIAO,wht,ADULT,LIGHT,Gi, w ,D.Q., 2,06, 1,2 ,480,Ref B. Kim,5,video review
+404,Grappling Grand Prix,Chicago ,wa,02/19/2022,Sam  Hall,Taylor Davis ,10P,purp,MASTER 2 ,Light ,Gi,WIN,adv,02,02,02,2,10m 00s,Ref B. Kim, 5,
+405, City Cup,SAN DIEGO,CO,2024-02-09,chris scott,chris clark,10TH PLANET,blue,master 1,MEDIUM HEAVY ,No Gi, l ,Advantage , 10,7 pts,03,0 , 300 ,Ref C. Patel,3,
+406,State Championship,miami,ca,12-02-2022, Riley Nguyen,Lucas King ,dream art ,brown,juvenile,Heavy , gi ,W,sub,5 ,0 pts,0 , 0,5m 00s,Ref A. Cruz,2,bracket update needed
+407,Regional Classic, Houston,FL,Nov 06 2024,Cameron  Scott,REESE SCOTT,Team Passos,wht,juv,uh, gi , w ,pts,05,03,2, 1,480,Ref C. Patel,mat 2,coach challenge
+408,grappling grand prix,houston,FL,21-Oct-2023,Avery Smith,RILEY JOHNSON,Checkmat,blk,Master2,feather, gi ,L,submission,05,0 pts,3 ,0 ,4:00,Ref E. Brown,mat 12,late start
+409,Winter Invitational, Atlanta,AZ,10/30/2024, Taylor Nguyen,Drew Santos , aOj ,Black ,m1,Medium-Heavy,NOGI, l ,disq,7 ,02,0 ,2 ,480,Ref A. Cruz,mat 5,uniform warning
+410,Summer Open,Miami,CO,2023/06/21,Parker Young ,Mia Lee,dream art ,purple,m2,ULTRA HEAVY ,No Gi,win,Submission ,9 pts,6 ,n/a, 0,5m 00s,Ref E. Brown,08,weight check cleared
+411,State Championship,DALLAS,il,21-Jan-2023,Liam Smith, Parker Garcia,CHECKMAT,WHITE,juvenile,OPEN CLASS ,NOGI,L,submission, 2,5, 0,0, 480 ,Ref C. Patel,mat 3,
+412,STATE CHAMPIONSHIP,AUSTIN, TX,2022-12-18,Parker Costa , Mason Clark,TEAM PASSOS,Blue ,juv,absolute,No-Gi,WIN,decision,2,0, 1, 2,3m 00s,Ref C. Patel,mat 9,video review
+413,city cup,Phoenix ,ga,05-Mar-2022,Olivia Smith , Reese Nguyen,Checkmat,Blue ,ADULT,Medium-Heavy,GI, l ,PTS,0,0 ,0,0 ,3:00,Ref A. Cruz,M3,video review
+414, Regional Classic, Atlanta,co,2024-06-30,TYLER MARTINEZ,tyler costa,UNITY,wht,adult male,Medium-Heavy,No-Gi,W,Points ,3 pts,00,2.0,1 ,4m 00s,Ref B. Kim,M8,medical timeout
+415,grappling grand prix,austin,IL,Feb 02 2024,drew davis,Emma Davis,b-team ,WHITE,ADULT,Light ,Gi, w ,disq, 9,2 pts, 0,0 , 360 ,Ref F. Garcia, 3,uniform warning
+416,summer open,Miami ,wa,2023/04/16, Avery Wright,lucas nguyen,10TH PLANET,Purple ,ADULT,Light-Feather,No-Gi,victory,DQ,10 ,06,00,1,6m 00s,Ref B. Kim,10,bracket update needed
+417,Winter Invitational, Seattle, WA,Apr 13 2022,Emma Scott ,Tyler Green ,nova união,Purple ,Master1,MEDIUM HEAVY ,No-Gi,LOSS,Decision , 0, 0,2 ,1 ,300 sec,Ref E. Brown,11,
+418, State Championship,denver,wa,May 15 2022,SAM YOUNG,Chris  Adams,NovaUniao,brn,m1,Light-Feather,No-Gi,defeat,disq,02,8 pts,0 ,0,8m 00s,Ref D. Silva,12,
+419, Winter Invitational,San Diego ,il,2024-12-31,Ella Brown ,Tyler  Allen,Alliance BJJ,Blue ,Master2,OPEN CLASS ,No-Gi,L,DQ,0 ,0 pts,1.0,1 ,6m 00s,Ref C. Patel,5,medical timeout
+420,Grappling Grand Prix ,San Diego ,WA,03/11/2023, Jordan Turner,Mia  Hall,FightSports,Brown ,ADULT,ULTRA HEAVY ,NOGI,win,Ref Decision,00,00,3 , 0,6m 00s,Ref A. Cruz,11,scoreboard check
+421,CITY CUP,CHICAGO,WA,02-16-2025, Elijah Patel,CHRIS LEE, aOj ,purple,adult,feather,Gi,LOSS,Submission , 3,0,1,1,10:00,Ref D. Silva, 5,late start
+422, Regional Classic,Houston,IL,2023-04-25,Noah Silva,Logan Brown ,fight sports,WHITE,ADULT,lf,No Gi,victory,ADV,0 pts,7 pts,01,1,480,Ref E. Brown, 9,video review
+423,Summer Open ,atlanta, CO,2024/02/03,REESE WHITE,Ava  Adams,check mat,WHITE,juvenile,Light-Feather,GI,LOSS,advantage,4 pts, 0,0,0 ,360 sec,Ref C. Patel,03,scoreboard check
+424,summer open,Chicago , GA,2024/01/09, Jordan Patel,Tyler  Silva,CheckMat ,purple,JUVENILE,feather,GI, w ,disq,2 pts,04,0 , 1,420 sec,Ref A. Cruz,06,scoreboard check
+425,Grappling Grand Prix ,miami,il,Sep 04 2024,LOGAN DAVIS,AVERY MARTINEZ,CHECKMAT,brn,JUVENILE,LIGHT FEATHER ,GI,LOSS,pts, 2,2,2,0 ,3:00,Ref F. Garcia,1,
+426,State Championship ,San Diego , FL,Mar 07 2022,Casey Clark, Tyler Patel,B Team,BLUE,juv,Light ,Gi,victory,Decision ,02, 0,0.0,NA, 300 ,Ref F. Garcia,7,video review
+427, Regional Classic,denver, GA,08-08-2024,Morgan  Wright,JORDAN NGUYEN,Fight Sports,blue,Master2,LIGHT,No Gi,win,DQ,7 pts,02, 0, 2,360,Ref A. Cruz, 8,medical timeout
+428,SUMMER OPEN,phoenix,fl,04/09/2022,alex lopez,Riley Silva,fight sports,brn,ADULT,Heavy ,Gi,loss,dec, 6,05,2 ,-,4m 00s,Ref D. Silva, 5,weight check cleared
+429,Grappling Grand Prix, Austin,TX,2024-01-15,cameron white, Ella Turner,Art of Jiu Jitsu,Purple ,adult,heavy,NOGI,win,Advantage ,4,8,n/a,0,4m 00s,Ref D. Silva,mat 6,
+430,GRAPPLING GRAND PRIX,Denver ,ga,04-Feb-2022,Liam Nguyen,SAM CLARK,Atos,Black ,adult,ROOSTER, gi ,loss,submission, 2,2 ,2.0, 0,10:00,Ref B. Kim, 4,bracket update needed
+431,state championship,Phoenix ,TX,09/27/2022,Chris  Allen,MASON WRIGHT,Passos,BROWN,Master1,OPEN CLASS ,GI,victory,Decision ,06,0 , 0,0 ,5m 00s,Ref B. Kim,12,
+432, Summer Open,miami,TX,01-19-2025,Mason Martinez ,olivia garcia,b-team ,BLUE,Juvenile ,open class,Gi,L,Points ,8 ,0,00, 0, 180 ,Ref F. Garcia, 10,
+433,summer open,HOUSTON,co,11-03-2024,Noah Wright ,Elijah  Scott,B-Team,PURPLE,ADULT,roost,Gi, w ,DQ, 10,8, 2,2 ,4m 00s,Ref E. Brown,8,bracket update needed
+434,Regional Classic ,Houston,fl,10-24-2024, Blake Wright,Mia  Nguyen,Alliance,wht,JUVENILE,mh, gi , w ,DQ, 5,2 pts,0 ,0,10:00,Ref A. Cruz,M12,medical timeout
+435,city cup, Denver,CA,Oct 09 2024, Ethan Allen,Alex Davis,dream art ,white,MASTER 2 ,hvy,GI,LOSS,advantage,2 ,06,00,n/a,3:00,Ref F. Garcia,mat 7,scoreboard check
+436,REGIONAL CLASSIC, Phoenix,WA,Jun 24 2022,Riley Patel ,Mia Costa ,gracie barra,PURPLE,MASTER 1 ,lf,NOGI,defeat,SUB,04,6,1 , 0,4:00,Ref C. Patel,08,uniform warning
+437,SUMMER OPEN,chicago,tx,15-Apr-2023,BLAKE SCOTT,Alex  Lopez, Unity ,Brown ,MASTER 1 ,FEATHER,GI,victory,unknown,5,0 ,0.0,1,10m 00s,Ref B. Kim,M9,bracket update needed
+438,Grappling Grand Prix ,Houston, AZ,12-13-2022,emma allen,Drew  Lee,fight sports,purp,Adult ,mh,NOGI,defeat,advantage,0 ,2 pts, 0,1,180 sec,Ref E. Brown, 12,
+439,Regional Classic,Chicago,wa,11-02-2024, Lucas Johnson,Sophia Costa,Alliance BJJ,purple,m1,Light ,Gi, w ,adv,2 ,00,0 ,1,7m 00s,Ref B. Kim,mat 8,bracket update needed
+440,Winter Invitational , Dallas, TX,11-12-2022,Alex Lee ,Chris  Santos, GB ,wht,adult,ultra heavy,GI, w ,pts,05,5,0 ,0 , 300 ,Ref E. Brown,M3,
+441,winter invitational,DALLAS, CA,05/10/2023,Lucas White ,TBD,Nova Uniao,Purple ,master 1,lf,GI,defeat,n/a,0,02,1 , 1,420 sec,Ref F. Garcia,09,medical timeout
+442,SUMMER OPEN,dallas, AZ,2022-04-11,skyler costa,Olivia  Lopez,FightSports,BROWN,Juvenile ,Heavy ,GI,defeat,adv,02,7 pts, 0,1,5m 00s,Ref F. Garcia,02,video review
+443, City Cup, San Diego,wa,05-Jun-2024,tyler turner,avery white,10th planet ,White ,Juvenile ,OPEN CLASS ,GI,L,dec,5 ,5 ,01,-,360,Ref B. Kim, 7,coach challenge
+444,winter invitational,phoenix,ca,2024-12-23,Lucas  Clark,Ethan Patel ,CHECKMAT,brown,master 2,ULTRA HEAVY ,GI, w ,submission,08,2 , 0, 1, 240 ,Ref F. Garcia,M1,video review
+445,Winter Invitational,denver, CO,04/05/2022,MASON CLARK, Mason Green, atos ,BLUE,MASTER 1 ,heavy,NOGI, l ,DQ,10,0 pts,3 ,0,360,Ref A. Cruz, 8,bracket update needed
+446,Winter Invitational,dallas, GA,2025-02-21, Logan Allen,Riley Allen,AOJ,brn,m1,hvy,No Gi,loss,submission,2 pts,2 pts,0, 0,3m 00s,Ref B. Kim,mat 12,uniform warning
+447, City Cup,Austin , CO,01/24/2023,Mason  Nguyen,LUCAS TURNER,b-team ,black,adult male,ultra heavy,No-Gi,L,SUB,2 ,4 pts,1, 2,5m 00s,Ref A. Cruz, 11,medical timeout
+448,STATE CHAMPIONSHIP,SEATTLE, AZ,16-Aug-2022,harper adams,skyler allen,check mat,PURPLE,adult,hvy,GI,defeat,points,2,00,0.0,1 , 480 ,Ref C. Patel,9,uniform warning
+449,STATE CHAMPIONSHIP,Austin,CO,2022-11-14,harper garcia,sam adams, alliance,White ,MASTER 2 ,rooster,No Gi,W,sub,10 ,5 pts,, 2,10m 00s,Ref B. Kim,mat 3,weight check cleared
+450,City Cup ,San Diego, GA,23-Oct-2023,BLAKE SILVA,MASON SCOTT,NovaUniao,purple,Juvenile ,Ultra-Heavy,GI,victory,ADV,07,5,0 , 0,4m 00s,Ref E. Brown,M8,
+451,STATE CHAMPIONSHIP, Houston, IL,01/04/2023, Logan Walker,Noah  Clark,AOJ ,Black ,Master2,Feather , gi ,W,PTS,0 pts,0,0 ,1 , 420 ,Ref F. Garcia,11,bracket update needed
+452,Regional Classic,DALLAS, IL,12/25/2022,parker nguyen,CHRIS SCOTT,DREAMART,brown,Adult ,ROOSTER,GI,WIN,decision,3 ,7 ,,0,480,Ref E. Brown,mat 3,uniform warning
+453,state championship,Seattle,az,Dec 29 2022, Sophia Martinez,Mason Scott ,10TH PLANET,White ,m2,rooster,GI,victory,disq,5,8,3 ,0,600,Ref D. Silva,mat 4,
+454,regional classic,Denver ,ga,12/01/2022, Avery Johnson, Sam Davis,DREAMART,purple,Master1,light feather,NOGI,defeat,SUB,5 pts,4 pts,3 ,0,300,Ref F. Garcia, 1,uniform warning
+455,State Championship,DALLAS, TX,2024/05/13,Logan Baker ,Taylor  Wright, GB ,Black ,MASTER 2 ,Heavy ,No Gi,loss,submission,4,8 ,1, 1, 300 ,Ref C. Patel,07,bracket update needed
+456,regional classic,Dallas ,ga,2023-04-08,parker hall,elijah smith,AOJ ,BROWN,Master2,MIDDLE,Gi,LOSS,D.Q.,4,05, 3,1,6m 00s,Ref E. Brown,mat 7,weight check cleared
+457,City Cup ,houston, CO,05-02-2022,CAMERON COSTA, Mason Adams, alliance,WHITE,m1,Open,No-Gi,LOSS,Decision ,8 pts,, 2,1 ,5:00,Ref A. Cruz,M7,late start
+458,grappling grand prix,Seattle,GA,2022-11-07,Harper Patel,cameron wright,Gracie Barra,wht,MASTER 2 ,MIDDLE,No Gi,defeat,dq,8 ,6 pts,1.0,n/a,10m 00s,Ref A. Cruz,M9,weight check cleared
+459,city cup, Houston,fl,2023-03-01,parker clark,Avery Brown,Gracie Barra,wht,juv,Heavy ,No Gi,win,ADV,9 ,00,1.0,1,5m 00s,Ref A. Cruz, 1,scoreboard check
+460,City Cup , Miami, WA,08-16-2023,Harper  Wright,Skyler Lopez,NOVA UNIAO,black,MASTER 1 ,Ultra-Heavy,NOGI,defeat,SUB,4,00,0, 0,4:00,Ref A. Cruz,02,video review
+461, Winter Invitational,Austin,CA,2023/04/07, Lucas Smith,chris silva,ATOS,White ,Master2,HEAVY, gi ,WIN,disq, 4,00,0,n/a,10m 00s,Ref F. Garcia,8,weight check cleared
+462,Regional Classic , San Diego,AZ,2023-10-03,Ella  Baker,Ella  Green,CheckMat ,BROWN,juvenile,Rooster , gi ,W,submission, 9,05,2 ,0 ,180 sec,Ref F. Garcia,M9,
+463,Summer Open,chicago,IL,07-Feb-2024,Sam Young,Chris Silva ,Nova Uniao,brown,m1,roost,GI,defeat,SUB, 3,7 pts,03,2 ,8m 00s,Ref D. Silva,M11,bracket update needed
+464, Grappling Grand Prix,Miami, IL,2022/05/14,alex lee,LUCAS PATEL,10th planet ,BLUE,adult,MIDDLE,No-Gi, w ,PTS,2 ,0,3 ,0 , 240 ,Ref F. Garcia,06,weight check cleared
+465,City Cup,Dallas , WA,10-30-2023,Alex  Nguyen,harper silva, BTEAM,Brown ,m1,FEATHER,Gi,win,adv, 7,3 ,1,1 , 600 ,Ref B. Kim,mat 2,
+466,City Cup , Denver, CA,18-Jan-2023,Casey Garcia , Alex Smith,NOVA UNIAO,wht,Master1,OPEN CLASS ,GI, l ,disq,6 pts,6 ,03, 0, 360 ,Ref D. Silva,M9,bracket update needed
+467,City Cup,MIAMI,az,2024/01/06,Skyler Young,Blake  Allen,Team Passos,blue,Adult ,Ultra-Heavy,NOGI,loss,ADV,03,7,01, 0,180,Ref D. Silva, 2,late start
+468,GRAPPLING GRAND PRIX, Phoenix,ca,05-20-2023,Harper  White,Jordan Lee ,Dream Art,black,Master1,feather,Gi,defeat,Ref Decision,02,4,0.0,0 ,300,Ref F. Garcia,08,
+469,Winter Invitational,Denver ,GA,2024-06-30, Emma Wright,Drew Adams,Passos,blk,MASTER 1 ,middle,Gi,win,disq,2 pts,4 ,1,2 ,3:00,Ref A. Cruz,M9,
+470,REGIONAL CLASSIC,phoenix, IL,06-14-2022,SAM JOHNSON,TYLER LOPEZ,UNITY,black,m1,LIGHT,Gi,defeat,unknown,2 ,2 ,n/a,-,420 sec,Ref A. Cruz,M2,uniform warning
+471,city cup, Dallas,il,03-Nov-2024, Riley Costa,Tyler Adams, atos ,blk,m2,light,NOGI,victory,advantage,00,3 ,2 ,2 ,480 sec,Ref C. Patel,08,coach challenge
+472,winter invitational,Atlanta ,il,2023/07/04,ALEX KING,Ava Santos ,TEAM PASSOS,BLUE,master 1,ROOSTER, gi ,win,DQ,4 ,6, 3,0 ,240 sec,Ref D. Silva,03,
+473, City Cup,Seattle ,ca,Nov 12 2024,NOAH ALLEN,Taylor Wright,Nova Uniao,Brown ,adult male,ultra heavy,GI,L,D.Q.,2, 2,3 ,0 , 180 ,Ref D. Silva,11,
+474,city cup,Chicago,ga,2022-08-21,REESE WHITE,Parker  White,Alliance,PURPLE,adult male,lgt,GI,loss,decision,10,2, 0,0 ,180,Ref D. Silva,mat 7,uniform warning
+475,summer open,Phoenix ,IL,Aug 18 2022,Liam Wright,olivia lee,Fight Sports,BLUE,adult,middle,GI,W,adv,0,0, 1, 1,480,Ref F. Garcia,mat 3,video review
+476, Grappling Grand Prix,Miami,ca,01-21-2022,LIAM GREEN, Mason Hall,nova união,Brown ,Master1,light feather,Gi,W,adv,03, 4,n/a, 0, 300 ,Ref F. Garcia, 12,uniform warning
+477, Grappling Grand Prix,Seattle,GA,2025/02/01,Harper  Johnson,Sam Clark ,B Team,PURPLE,adult,open class,GI,LOSS,Ref Decision,9 ,0 pts, 1,0,6m 00s,Ref F. Garcia,mat 4,uniform warning
+478,Grappling Grand Prix ,Denver , GA,2024-02-24,Parker Nguyen ,Mia  Clark,Alliance BJJ,BLACK,m1,MEDIUM HEAVY ,NOGI, w ,adv,4,0 pts, 1,0,6:00,Ref C. Patel,06,weight check cleared
+479,Summer Open ,dallas,AZ,2025-01-08,Alex  Johnson, Ethan Turner,Atos Jiu Jitsu,brown,ADULT,LIGHT FEATHER , gi ,win,ADV, 6,0,1,1 , 420 ,Ref B. Kim,mat 6,late start
+480, Winter Invitational,Dallas,il,10-10-2023,emma brown,unknown,Atos,Brown ,JUVENILE,FEATHER,NOGI,LOSS,Submission ,9,08,03,0 , 180 ,Ref C. Patel,4,coach challenge
+481,Winter Invitational,houston, FL,27-Mar-2024,ella costa,harper young,GracieBarra,Blue ,MASTER 2 ,roost,Gi, l ,DQ,0 pts,6 ,0.0,0 ,5:00,Ref D. Silva,M12,scoreboard check
+482,STATE CHAMPIONSHIP,MIAMI,AZ,2024-08-13,casey walker,Taylor  Santos,DREAMART,brn,JUVENILE,OPEN CLASS ,No Gi,defeat,disq,3 pts,0 pts,3, 1, 180 ,Ref A. Cruz, 5,weight check cleared
+483,WINTER INVITATIONAL,houston,il,Dec 19 2022,noah nguyen,Casey Young ,Atos,brn,master 2,ROOSTER,GI,defeat,Submission , 10,0 , 1,1,5:00,Ref F. Garcia,10,
+484,Winter Invitational, Houston, AZ,05-28-2022,LUCAS PATEL,Sam  Green,UNITY,Purple ,juvenile,roost,NOGI,LOSS,disq, 5,0 ,0, 0,600,Ref E. Brown,07,weight check cleared
+485, Winter Invitational,DALLAS,CA,07/05/2023,Morgan Lopez,Lucas Turner,b-team ,Brown ,master 1,open class, gi ,defeat,dq,2,2 pts,0 ,0,8:00,Ref B. Kim,02,coach challenge
+486,City Cup , Atlanta,fl,27-Feb-2024,harper martinez,SOPHIA GREEN,NovaUniao,White ,m2,light,No Gi,victory,points, 3,8 ,0.0, 1,3m 00s,Ref B. Kim, 6,late start
+487, City Cup, Seattle,il,2022-09-18,LIAM NGUYEN, Tyler Adams,B-Team,White ,MASTER 1 ,mid, gi ,victory,pts,03,2 ,01,0,5m 00s,Ref D. Silva,M8,
+488, Grappling Grand Prix,denver, FL,2024/10/23,Ava  Wright, Alex Green,TEAM PASSOS,Blue ,JUVENILE,fthr,NOGI,LOSS,,02,6, 0, 0,7:00,Ref B. Kim,M3,medical timeout
+489,City Cup ,Chicago,il,2023-10-27, Elijah Green, Taylor Clark,gracie barra,purple,master 2,FEATHER, gi ,victory,sub, 4, 0,0 ,0 ,180 sec,Ref F. Garcia,mat 12,medical timeout
+490, City Cup,San Diego, WA,2022/02/05, Sophia Davis,Elijah White ,UNITY,BLACK,adult,medium heavy,No-Gi,LOSS,Submission ,0 pts,4 pts, 0, 1,4m 00s,Ref E. Brown,M1,weight check cleared
+491,grappling grand prix,CHICAGO, CA,07/10/2024,Sam Wright,REESE WHITE, atos ,BLUE,master 1,MEDIUM HEAVY , gi ,LOSS,adv,7 pts, 2,1.0, 2,8:00,Ref E. Brown,1,uniform warning
+492,state championship, Atlanta,TX,2024/12/06,Sophia Smith ,MORGAN LEE,GracieBarra,Purple ,master 2,Heavy ,No Gi,victory,sub,3,2 pts, 3,0 ,480 sec,Ref F. Garcia, 7,video review
+493, State Championship,Atlanta, WA,Mar 30 2023,Riley  Adams, Cameron Clark,check mat,White ,m1,lf,NOGI, l ,disq,4 ,8 pts,0,0,300,Ref C. Patel,011,
+494,GRAPPLING GRAND PRIX, Austin,TX,09/01/2022,Alex  Silva,AVA DAVIS,Passos,blk,master 1,lgt,No Gi,win,SUB,2,8 , 1,1 , 600 ,Ref E. Brown,012,weight check cleared
+495, Summer Open,houston,il,Nov 02 2023,Ella Scott, Riley King,DREAMART,BLACK,master 1,mid, gi ,LOSS,unknown,5, 3, 3,none,3:00,Ref D. Silva,9,bracket update needed
+496,winter invitational,Dallas, FL,Nov 03 2024,Emma  Hall,OLIVIA ADAMS,Unity,purple,adult,lgt, gi ,defeat,Points ,08,8 ,0.0,-,3:00,Ref F. Garcia,mat 12,bracket update needed
+497,Winter Invitational,Miami,FL,09-15-2023,JORDAN YOUNG,RILEY KING,FIGHTSPORTS,BLACK,master 1,Medium-Heavy,Gi,W,pts,00,0 ,0 , 0,240,Ref C. Patel,1,uniform warning
+498,State Championship ,Dallas ,fl,01-05-2024,Logan  Clark,MORGAN LOPEZ,b-team ,BLUE,MASTER 1 ,heavy,Gi,WIN,Submission ,07,0 ,0.0,0,240,Ref D. Silva,1,coach challenge
+499,Regional Classic,phoenix,az,2022-10-22,Casey  Davis,blake king,b-team ,White ,Adult ,feather,GI,W,Decision ,0,4,02,2,8:00,Ref E. Brown,M1,
+500,STATE CHAMPIONSHIP,Miami,GA,08-01-2023,Tyler Baker , Mia King,10P,blk,m1,LIGHT,NOGI,LOSS,PTS,2 pts,02, 1, 0,6m 00s,Ref E. Brown,6,weight check cleared
+501,city cup,Houston , GA,2025-01-08,Liam Patel,AVERY PATEL,10P,WHITE,adult male,roost,GI,loss,pts,2,6 ,00,1 ,3:00,Ref F. Garcia,08,weight check cleared
+502,STATE CHAMPIONSHIP,Atlanta ,CA,03-31-2024,Sam Clark ,Ethan King ,ATOS,Black ,adult male,LIGHT FEATHER ,NOGI,L,adv,4,7 , 2,0,300 sec,Ref F. Garcia,M2,bracket update needed
+503,GRAPPLING GRAND PRIX, Denver, TX,2023-12-24,Ella King , Ella Hall,Passos,blk,Juvenile ,Open,No Gi,L,decision,5 ,4 ,0,1,6m 00s,Ref E. Brown, 8,video review
+504,Grappling Grand Prix ,Houston , CO,21-Jun-2024,Sam Costa ,Ava Lopez ,GracieBarra,brn,Adult ,uh,Gi, l ,dec,8,2 ,0 , 2,420 sec,Ref D. Silva,mat 10,
+505,City Cup ,Seattle ,IL,07/31/2023,Liam Nguyen ,DREW ADAMS,Team Passos,BROWN,juv,Light ,No Gi,LOSS,dec, 2,0 pts,0,0 , 420 ,Ref C. Patel, 3,medical timeout
+506,WINTER INVITATIONAL,Atlanta,il,2022-06-12,Logan  Turner,SOPHIA SANTOS, atos ,wht,MASTER 1 ,light,No Gi, l ,points,10,5,2 ,2,420,Ref F. Garcia, 4,medical timeout
+507, City Cup,Seattle , CO,2024/11/13,Mason  Smith,Tyler Green, Unity ,purp,Master1,LIGHT,GI,W,PTS,02,3 ,2.0,0 ,180 sec,Ref D. Silva,08,bracket update needed
+508,city cup,Phoenix ,FL,Dec 23 2023,Skyler Green,Skyler  Allen,CheckMat ,Black ,master 2,Light-Feather, gi ,LOSS,SUB, 2, 6,1, 1,240,Ref F. Garcia,5,
+509,Winter Invitational,Seattle,il,2023/02/20,Ava Lee,ELLA SILVA,Team Passos,purple,Master1,Medium-Heavy,NOGI,L,pts,0 pts,02,2, 1,3:00,Ref F. Garcia,8,coach challenge
+510,REGIONAL CLASSIC,SAN DIEGO, AZ,01/09/2023,taylor king,Chris Clark,unity jiu jitsu,Purple ,master 2,Light-Feather, gi ,defeat,dec,0 pts,0,01,none,240 sec,Ref B. Kim,02,bracket update needed
+511,City Cup , San Diego,CO,03/14/2024,Ethan  Green,RILEY DAVIS,GracieBarra,BLUE,juvenile,OPEN CLASS ,No-Gi,defeat,Decision ,5 pts,7,00,1, 600 ,Ref B. Kim,01,weight check cleared
+512, Regional Classic,SEATTLE,ga,03/06/2024,Lucas Walker,SKYLER BAKER,fight sports,BROWN,juv,medium heavy,GI,win,sub,05, 3,1 ,0, 300 ,Ref F. Garcia,04,video review
+513,Summer Open , Austin, AZ,2025/02/15,reese hall, Olivia Patel,ATOS,Black ,m2,light feather,NOGI,W,pts,4 ,7 ,3,0 ,600,Ref E. Brown, 7,video review
+514,grappling grand prix,PHOENIX,co,2024/05/07,Casey  Lopez,Mia Costa,Gracie Barra,BLUE,m2,middle,No Gi,loss,Ref Decision,5,02,03, 0,8m 00s,Ref F. Garcia, 3,coach challenge
+515,Grappling Grand Prix,Denver, TX,2024/10/04,casey baker,Jordan Nguyen ,Dream Art,Black ,juvenile,Medium-Heavy,No Gi,win,Advantage ,9 pts,3 pts,1,0,4:00,Ref A. Cruz,6,
+516,state championship,dallas,CA,02-Jan-2024,RILEY TURNER,Ethan Hall , GB ,Purple ,ADULT,MIDDLE,Gi,LOSS,Submission ,5 ,3,2 ,0 ,8:00,Ref C. Patel,2,medical timeout
+517,grappling grand prix,Chicago ,TX,Aug 15 2022,Tyler  King,Sophia Patel ,DreamArt,blu,Master2,OPEN CLASS ,NOGI,loss,dq,10 pts, 5,,1 ,8m 00s,Ref E. Brown,08,medical timeout
+518, City Cup,dallas,il,07/09/2022,Noah  Walker,Lucas  Patel,NOVA UNIAO,BROWN,Master2,medium heavy,No Gi,L,PTS,8 , 4,01,0,7:00,Ref D. Silva,mat 12,uniform warning
+519,Summer Open , Chicago, CO,01-Aug-2024,DREW WHITE,ELLA JOHNSON,10th planet ,PURPLE,master 2,ultra heavy,Gi,victory,decision,4,06,0, 1,420,Ref A. Cruz,mat 9,video review
+520,Winter Invitational ,HOUSTON,WA,07/15/2024,Blake Martinez ,taylor martinez,ALLIANCE ,Black ,juv,middle, gi ,defeat,D.Q.,02,02,0.0, 1,240 sec,Ref E. Brown, 5,weight check cleared
+521,REGIONAL CLASSIC, Atlanta,wa,07/30/2023,Cameron Lopez,blake smith,AOJ ,Brown ,m1,mh, gi ,LOSS,DQ,5,02, 0,0 ,240 sec,Ref B. Kim, 6,scoreboard check
+522,WINTER INVITATIONAL,seattle,GA,2022-08-17,Cameron Clark ,HARPER SCOTT,gracie barra,Blue ,m1,heavy,NOGI, w ,Advantage ,04, 4,02, 1,3:00,Ref D. Silva,03,coach challenge
+523, Grappling Grand Prix,Austin ,FL,08-08-2024, Mia Baker,Sophia Davis , atos ,Blue ,master 1,medium heavy,Gi,defeat,submission, 10,3 ,0.0,0,10:00,Ref B. Kim, 11,coach challenge
+524,City Cup,austin,WA,Feb 27 2022,DREW SMITH,Mia Hall,Checkmat,Blue ,master 1,Rooster ,No-Gi, l ,decision,8,06,,2,300,Ref A. Cruz,012,scoreboard check
+525, City Cup, Seattle, IL,2023/03/09, Cameron Nguyen,ETHAN BAKER,team passos ,white,m2,open class,GI,loss,points,8, 4, 2,-,8m 00s,Ref A. Cruz,M11,weight check cleared
+526,State Championship,Seattle ,CA,Apr 01 2022,lucas lee,Blake  Lopez,unity jiu jitsu,Black ,MASTER 1 ,rooster, gi ,W,Ref Decision,2 ,2 pts,1,1,7m 00s,Ref C. Patel,04,weight check cleared
+527, Summer Open,AUSTIN,fl,08-02-2022, Mia Walker,Riley  Young,Fight Sports,purp,m1,lgt, gi ,loss,Decision ,0 ,05,01,none, 300 ,Ref E. Brown,06,weight check cleared
+528,SUMMER OPEN, Miami, CA,Sep 14 2022,REESE ALLEN,SOPHIA ADAMS, Unity ,blu,Adult ,light feather,NOGI,win,advantage,6 pts,0,2, 0,360 sec,Ref F. Garcia,mat 1,coach challenge
+529, Winter Invitational,PHOENIX,tx,14-Mar-2024,MASON PATEL,taylor garcia,Fight Sports,blue,MASTER 2 ,LIGHT FEATHER ,No Gi,WIN,points,9 ,0 , 0,0 ,5:00,Ref C. Patel,011,
+530,summer open, San Diego, CA,10/18/2022,Noah Lee ,Drew  Baker, GB ,Black ,JUVENILE,OPEN CLASS ,No-Gi,L,PTS,7,07,0, 1,4m 00s,Ref C. Patel,10,uniform warning
+531,City Cup , Denver,AZ,08-17-2022,tyler white,Morgan Adams,TEAM PASSOS,Brown ,m2,roost,Gi, l ,PTS,6 , 2, 0,0,240 sec,Ref D. Silva, 9,late start
+532,SUMMER OPEN,miami,il,17-Oct-2024,Morgan Silva , Morgan Nguyen, aOj ,Blue ,master 2,ROOSTER,Gi,win,DQ, 2,03,0,0, 360 ,Ref B. Kim, 4,
+533, Winter Invitational, Houston, TX,22-Sep-2022, Reese White,liam garcia, BTEAM,blu,juv,Heavy ,No-Gi,W,decision,5 pts,8 pts,1,1,180 sec,Ref B. Kim,mat 1,weight check cleared
+534,City Cup,San Diego , WA,2022/07/21, Elijah Young,Tyler White ,Alliance BJJ,blue,JUVENILE,Feather ,No-Gi, w ,sub, 9,0 , 1,1,360 sec,Ref E. Brown, 6,coach challenge
+535,grappling grand prix,Austin,AZ,12/04/2024,Drew Lopez,MASON DAVIS,TEAM PASSOS,BROWN,Juvenile ,rooster,No-Gi, w ,Advantage ,2,2 ,0.0,0 ,3:00,Ref F. Garcia,mat 12,weight check cleared
+536,Summer Open ,SAN DIEGO, CO,Nov 27 2022,drew scott,Parker  Baker,Nova Uniao,Purple ,master 2,feather,No-Gi, w ,DQ,3,7 ,0.0,NA,480 sec,Ref D. Silva,mat 1,weight check cleared
+537,CITY CUP,san diego, CA,02-Jan-2022,Noah Davis ,tyler walker,10th planet ,purp,Juvenile ,Light ,Gi,win,advantage, 7, 2,2.0, 2, 420 ,Ref D. Silva,01,scoreboard check
+538,Summer Open ,austin, CA,09-03-2022,Ethan Santos ,Mia White ,Team Passos,black,Adult ,feather,GI,victory,points,5 , 0,1 ,-,480 sec,Ref B. Kim,5,late start
+539, Winter Invitational,PHOENIX,IL,2025/02/21, Reese Lopez,Drew Johnson,ATOS,brown,Adult ,Heavy ,Gi,L,decision,9, 2,3 , 0,10m 00s,Ref F. Garcia,M9,scoreboard check
+540,Summer Open ,CHICAGO, TX,Apr 21 2023,harper patel,Noah Patel ,DreamArt,White ,MASTER 2 ,HEAVY,No Gi,L,sub,09,00, 0, 0,180 sec,Ref B. Kim,mat 1,video review
+541,city cup,CHICAGO,CO,Mar 13 2022,lucas martinez,Harper Wright, aOj ,brown,m2,ROOSTER, gi ,L,Points ,3,2,0.0,0,600 sec,Ref E. Brown,08,late start
+542,Regional Classic,Miami,il,08/09/2022, Tyler Johnson,Casey Lee ,b-team ,blue,m1,light feather,NOGI,win,Submission , 2,,1.0,1 ,240 sec,Ref D. Silva,M12,video review
+543,Regional Classic ,Dallas,tx,26-Dec-2024,skyler silva, Mia Young,Alliance BJJ,purple,Juvenile ,mh,No-Gi,loss,DQ,2 ,03,0,0 ,480 sec,Ref C. Patel,mat 9,uniform warning
+544,Regional Classic,SAN DIEGO,az,2023-11-18,Morgan Hall,blake green,Unity,PURPLE,Master2,uh,Gi,LOSS,advantage,9,5,3,,300,Ref F. Garcia, 8,weight check cleared
+545, State Championship, Seattle, IL,11-20-2022, Sophia Brown, Ava Baker, atos ,purp,Juvenile ,Open,No Gi,LOSS,PTS,07,7 pts, 3, 0,4:00,Ref C. Patel, 1,late start
+546, State Championship, Phoenix,tx,09-18-2022,Mason Lopez,Elijah  Santos,nova união,Black ,m1,MIDDLE, gi ,win,dq,02,4,n/a,1,5:00,Ref A. Cruz,mat 3,weight check cleared
+547,city cup, Seattle,TX,Dec 03 2022,NOAH ADAMS,Elijah  Davis, aOj ,brn,JUVENILE,light feather,NOGI,victory,Ref Decision,6 pts,6 ,0.0,0 ,480 sec,Ref A. Cruz,M7,weight check cleared
+548,state championship,Houston,fl,Dec 29 2024,RILEY NGUYEN,Cameron  Garcia,Nova Uniao,Brown ,Adult ,light,No-Gi, l ,Points ,08,04,3.0, 0,6:00,Ref A. Cruz,3,
+549,grappling grand prix,phoenix,az,17-Jan-2024,Cameron  Brown,Ava  Hall,AOJ,purp,adult male,lf,No-Gi,defeat,advantage,8 pts, 0,1,0 ,7:00,Ref F. Garcia,mat 2,
+550, Regional Classic, Dallas,FL,05/31/2023,Blake  Davis,MASON COSTA,NovaUniao,brn,juvenile,open class,Gi,WIN,Submission , 7,04, 2, 0,6:00,Ref F. Garcia,M6,late start
+551,Grappling Grand Prix,atlanta,GA,02-Sep-2024,Alex  Silva,Taylor Santos ,B-Team,Purple ,Master2,LIGHT FEATHER ,Gi,L,pts,4,06,0.0, 0,600 sec,Ref A. Cruz,M3,bracket update needed
+552,city cup,AUSTIN,AZ,2024-10-09,EMMA NGUYEN,Liam Wright ,check mat,wht,Juvenile ,light,No-Gi, l ,disq,6 pts,4,00,1 ,300 sec,Ref A. Cruz,010,bracket update needed
+553,Winter Invitational,Seattle,ca,2024-09-20, Riley Hall,Skyler Silva,Alliance BJJ,blk,Adult ,MEDIUM HEAVY ,NOGI,W,adv,2 , 3,0,1,420,Ref E. Brown,11,medical timeout
+554,regional classic,HOUSTON, AZ,05-05-2022,reese green,SKYLER WRIGHT,DREAMART,BROWN,master 1,OPEN CLASS , gi ,L,D.Q.,0,00,00,1 ,6m 00s,Ref D. Silva,M1,video review
+555,Winter Invitational ,chicago, CA,01/12/2023,Sam Nguyen ,RILEY WALKER,NOVA UNIAO,Blue ,adult male,Rooster ,No Gi,LOSS,Decision ,4 ,0 ,n/a,n/a, 180 ,Ref A. Cruz,10,scoreboard check
+556,SUMMER OPEN,austin,GA,11/02/2022,Riley  Turner,Jordan Patel ,Art of Jiu Jitsu,blk,ADULT,light,Gi,LOSS,PTS,4 pts,2 pts,0 ,2 ,480 sec,Ref C. Patel,M10,
+557,WINTER INVITATIONAL,San Diego ,TX,2024-07-28,Sophia Adams ,reese allen,Team Passos,Black ,m2,uh,GI, l ,dec,3,2 , 2,none, 240 ,Ref F. Garcia,mat 8,weight check cleared
+558,regional classic,Houston ,fl,11-16-2024,NOAH LOPEZ,ELIJAH NGUYEN, GB ,Purple ,m1,uh,No-Gi,LOSS,decision,9, 0,1.0, 1,420,Ref B. Kim,04,
+559,City Cup,Denver,CA,08-Feb-2025,Sam Santos,Noah White,TEAM PASSOS,blue,m2,FEATHER,Gi,WIN,sub,04,0 , 3,1,3:00,Ref A. Cruz,09,bracket update needed
+560,Summer Open ,AUSTIN,FL,2022/11/14,Sophia Johnson,blake lopez, Unity ,White ,JUVENILE,Light-Feather,No Gi,W,pts,5 pts,8 pts,0,0,7m 00s,Ref E. Brown,7,coach challenge
+561, Summer Open,denver,GA,29-Jul-2022,Emma  King,Blake Smith , atos ,BROWN,juv,roost,NOGI,W,submission,2 pts, 2,01, 0,4m 00s,Ref F. Garcia, 6,video review
+562,Grappling Grand Prix , Houston, WA,2023-10-24,PARKER PATEL,TAYLOR TURNER, Unity ,PURPLE,Master2,hvy,NOGI,WIN,advantage,10 pts,05,00,1 ,360 sec,Ref F. Garcia, 12,medical timeout
+563, State Championship,Austin, AZ,05-Oct-2022, Reese Smith,SKYLER GREEN, GB ,PURPLE,Master1,Light-Feather,Gi, l ,Decision ,4,0,3.0,-,420 sec,Ref F. Garcia,012,
+564,WINTER INVITATIONAL, Houston,fl,2023/03/26,Jordan  Allen,Lucas Green,Unity,purple,JUVENILE,lf,No Gi, w ,SUB,07, 0,0,0 , 180 ,Ref F. Garcia,mat 7,medical timeout
+565,State Championship,dallas, IL,Aug 02 2024,casey allen,Elijah  Green, GB ,BLACK,Master1,Feather ,No Gi,win,pts,09,2 pts,2.0,0 ,180 sec,Ref A. Cruz,2,video review
+566, Winter Invitational, Seattle, CO,01-06-2023,Drew Allen ,Emma White ,TEAM PASSOS,wht,Juvenile ,MEDIUM HEAVY , gi , w ,n/a,2 , 5,3.0,0,180,Ref B. Kim,3,
+567, City Cup, Dallas,TX,2023/10/21,Alex Hall ,Ava Clark,ALLIANCE ,black,master 2,Light-Feather,NOGI,L,pts,5 pts,05,0 ,1 ,8m 00s,Ref D. Silva, 6,weight check cleared
+568, Winter Invitational,Austin, IL,2024/04/03,Ella  King,Lucas  Santos, Unity ,wht,master 1,hvy, gi ,victory,DQ, 8, 7, 0,0,180,Ref E. Brown, 5,video review
+569, Winter Invitational,Austin ,fl,01-30-2023,skyler smith,morgan green,Passos,PURPLE,MASTER 1 ,LIGHT FEATHER ,No Gi,defeat,pts,2,7 ,00, 0,300,Ref F. Garcia,4,
+570, Regional Classic,DENVER,CA,06/06/2022,ELLA TURNER,Reese King ,FightSports,BROWN,master 1,FEATHER,No-Gi,L,points, 9,07,0.0,0, 420 ,Ref B. Kim,4,bracket update needed
+571,City Cup ,denver, IL,10/31/2024,Avery Lopez ,Elijah Smith,Passos,BLUE,MASTER 2 ,medium heavy,NOGI,victory,D.Q.,6 pts,0,0,1,480,Ref E. Brown,mat 2,uniform warning
+572, City Cup,Houston ,wa,01-Nov-2022,Parker  Allen,blake walker,NovaUniao,Purple ,Adult ,Light , gi , w ,SUB,0 pts,0 pts,03,0,7m 00s,Ref F. Garcia,M6,coach challenge
+573,city cup, Austin,AZ,2022-08-23,ALEX WRIGHT,Sam Brown ,Atos,Brown ,MASTER 2 ,rooster, gi ,loss,Advantage ,02,05,00, 1,180 sec,Ref E. Brown, 3,medical timeout
+574,State Championship , Dallas,IL,Mar 28 2024, Casey Scott,Morgan Santos ,check mat,black,m1,Open, gi ,W,DQ,03, 2,3 ,0 ,8:00,Ref D. Silva,mat 7,
+575, City Cup,PHOENIX, AZ,Dec 02 2022,Parker Davis ,Sam  Allen,NOVA UNIAO,black,MASTER 2 ,Open,NOGI, w ,unknown,3, 0,0 , 0,6:00,Ref D. Silva,7,medical timeout
+576,State Championship ,SEATTLE,CO,08-10-2022, Tyler Turner,drew garcia,Fight Sports,blue,MASTER 2 ,Medium-Heavy,Gi,LOSS,Ref Decision,8 pts,5 ,1.0, 1,360 sec,Ref C. Patel,12,
+577,Summer Open ,Denver ,ca,07/12/2022,JORDAN GARCIA,Chris  Costa,Dream Art,White ,m1,light feather,Gi, w ,sub,3 , 0,00,0 , 360 ,Ref F. Garcia, 8,video review
+578,STATE CHAMPIONSHIP,Denver,il,Apr 04 2024,Elijah  Silva,Taylor Martinez ,AOJ ,blu,JUVENILE,Heavy ,Gi,win,Submission ,5 , 0, 1,0,10m 00s,Ref A. Cruz,mat 5,uniform warning
+579,Summer Open,SEATTLE,co,2024/06/20,Riley  Johnson,Blake  Baker,B Team,purple,ADULT,lgt,Gi,defeat,ADV,05,8 ,00,0 , 180 ,Ref B. Kim,1,late start
+580,State Championship,DENVER,CO,2023-02-06,Lucas  Santos,ava baker,10P,BLACK,adult male,feather,Gi,loss,sub,09,6 ,2,0 ,7m 00s,Ref D. Silva, 7,coach challenge
+581, Regional Classic,Seattle ,wa,01-14-2022,Avery Scott,Avery  Garcia,Alliance BJJ,black,m1,OPEN CLASS ,GI,LOSS,decision,5 ,8 pts, 1,1,4:00,Ref D. Silva,mat 11,weight check cleared
+582,Winter Invitational ,AUSTIN, CO,2024/11/26,BLAKE ADAMS,Riley Johnson, Unity ,black,MASTER 2 ,absolute,Gi,L,Decision ,0 pts,7,1.0, 0,10m 00s,Ref E. Brown,M9,coach challenge
+583,Winter Invitational ,HOUSTON,co,2023-11-18,mia hall,Drew Patel,team passos ,black,Master2,Light-Feather,Gi, w ,Submission ,02,3 pts, 1,0 ,600,Ref D. Silva, 12,
+584,REGIONAL CLASSIC,Seattle, CA,11/06/2022,Taylor Lee,Noah Lopez,TEAM PASSOS,WHITE,adult male,LIGHT FEATHER , gi ,W,points,09,0 ,0.0,2 ,7m 00s,Ref E. Brown,M2,video review
+585,City Cup, Atlanta,il,2024-03-09,Emma Adams,,ATOS,blu,MASTER 2 ,Middle ,NOGI,L,decision,2,00,00,1,300,Ref F. Garcia,M1,scoreboard check
+586, Winter Invitational, San Diego, CA,05/20/2024,Morgan Young,Ava Walker,Alliance BJJ,purple,MASTER 1 ,fthr, gi , l ,PTS,2, 0,0 ,2,480 sec,Ref B. Kim,09,weight check cleared
+587,GRAPPLING GRAND PRIX,chicago,co,05-18-2023,Ethan Adams ,EMMA LOPEZ,Team Passos,brown,Master2,MIDDLE,NOGI,WIN,advantage,7 pts,6,,0 ,3:00,Ref C. Patel,05,late start
+588,City Cup,MIAMI,CO,2024/09/30,Casey  Young,PARKER WRIGHT,Atos Jiu Jitsu,BROWN,adult,ROOSTER, gi ,victory,sub,,6 ,3,1,360,Ref B. Kim,11,uniform warning
+589,Winter Invitational,san diego,fl,2023/04/12,reese costa,mia patel,B Team,wht,adult male,MIDDLE, gi ,win,Ref Decision, 2,0,0, 1,6:00,Ref D. Silva,M7,bracket update needed
+590,WINTER INVITATIONAL, Denver, TX,02/18/2023, Jordan Walker,riley lee,Atos Jiu Jitsu,blk,adult,HEAVY,GI,LOSS,PTS,00,6,0.0,,360 sec,Ref C. Patel, 7,scoreboard check
+591,WINTER INVITATIONAL,Dallas ,GA,04-04-2022, Cameron Adams,Mia Turner ,B Team,WHITE,Juvenile ,fthr,GI, w ,sub,9 ,0 pts,1 , 0,5:00,Ref E. Brown,mat 11,medical timeout
+592, City Cup,DENVER, TX,2024-06-26,Harper  Martinez,Sophia  Garcia,dream art ,blu,Juvenile ,MIDDLE,Gi, l ,Submission , 5,8 , 1,2,5m 00s,Ref C. Patel,M2,video review
+593,summer open,San Diego,CO,2023/03/13, Sam Garcia,Chris Lopez ,Unity,Black ,Master1,Heavy ,GI,L,points,10,0,n/a,0, 240 ,Ref C. Patel,M5,uniform warning
+594,City Cup, San Diego,il,20-Oct-2023, Casey Costa,cameron scott,Alliance,PURPLE,m2,feather,GI, l ,Decision ,02,2 ,0 ,2 ,180 sec,Ref C. Patel,mat 5,bracket update needed
+595, Regional Classic,DENVER,fl,2024-11-16,LOGAN GREEN,Riley  Nguyen,Passos,blu,Master2,fthr,GI,WIN,pts,04,8 pts,01,2 ,240 sec,Ref D. Silva,M3,bracket update needed
+596,Summer Open,SEATTLE, TX,2023/11/15,Chris  Green,Mia  Adams,dream art ,PURPLE,MASTER 1 ,Heavy , gi , l ,ADV,0 ,3 pts,3,1 ,10m 00s,Ref F. Garcia, 6,weight check cleared
+597,State Championship ,Seattle,ca,21-Jan-2023, Reese Lee,Casey Adams,B-Team,purp,Master2,LIGHT,NOGI,win,ADV,,2 , 3,0,3m 00s,Ref B. Kim,mat 8,late start
+598,State Championship,ATLANTA, IL,Dec 09 2023,Casey Green,TBD,NOVA UNIAO,White ,MASTER 2 ,Rooster , gi ,WIN,submission,0 pts,02,3.0, 0,5:00,Ref E. Brown,08,video review
+599, Winter Invitational,Phoenix,CA,Feb 20 2024,Sophia Santos ,Noah Walker,dream art ,blk,Adult ,Light ,Gi,win,D.Q.,08, 6,0.0, 1,600 sec,Ref B. Kim, 12,scoreboard check
+600,Regional Classic ,SAN DIEGO,AZ,2022/06/26,AVERY JOHNSON,Avery  Martinez,Fight Sports,purple,MASTER 1 ,LIGHT FEATHER ,NOGI, w ,advantage,08,6, 0,0 ,420 sec,Ref D. Silva,mat 2,late start
+601,Winter Invitational ,Chicago,IL,2024-06-20,Ava Scott ,REESE LOPEZ,TEAM PASSOS,purple,juv,LIGHT, gi ,L,Points ,2, 2,0.0,2 ,600 sec,Ref D. Silva,mat 7,uniform warning
+602,Regional Classic,Chicago ,WA,2024/05/12,drew smith,Emma Walker,Passos,blu,adult male,LIGHT,No-Gi,loss,Decision , 2,8 pts,00,0 ,420 sec,Ref E. Brown,02,medical timeout
+603,Regional Classic ,DALLAS,TX,18-Jan-2025,Jordan  Walker,ALEX BAKER,Alliance BJJ,PURPLE,MASTER 1 ,fthr,NOGI,loss,DQ, 4,3,0,, 480 ,Ref D. Silva,012,scoreboard check
+604, City Cup,Denver ,co,06-23-2022,Tyler  Lee,jordan costa,Atos,brown,ADULT,absolute,No-Gi, l ,D.Q., 9, 5,,0 ,360,Ref C. Patel,12,
+605,State Championship ,dallas,FL,12/29/2023, Drew Young,Elijah  Nguyen,10P,blu,MASTER 1 ,middle, gi , l ,Ref Decision,0 , 0,2,0 ,360,Ref C. Patel,6,
+606,GRAPPLING GRAND PRIX,seattle,co,18-Mar-2023,Mason King ,Sam Martinez ,CHECKMAT,BLACK,MASTER 2 ,fthr,Gi,L,ADV, 9, 5,00,2,5:00,Ref C. Patel,8,bracket update needed
+607, Summer Open,miami,FL,2025-02-02,AVERY SCOTT,Morgan Turner,Unity,White ,ADULT,OPEN CLASS , gi ,loss,SUB,2 pts,7, 0,0,240 sec,Ref B. Kim, 6,medical timeout
+608,REGIONAL CLASSIC,Atlanta, CA,2025/02/11,Harper Wright,Emma Young ,DREAMART,BLUE,master 1,Ultra-Heavy, gi , l ,submission,9 ,03,3,1 , 360 ,Ref D. Silva,5,
+609,State Championship ,San Diego, FL,Aug 22 2022, Noah Santos,Lucas  Hall, atos ,Black ,adult male,mid,NOGI, w ,disq,2 pts, 0,01,0, 420 ,Ref A. Cruz,M7,
+610,state championship,SAN DIEGO,WA,2022/05/31,alex hall,MASON SCOTT,10th Planet,black,adult,roost,Gi,L,disq,0 ,6,0 ,1 ,240,Ref E. Brown,8,weight check cleared
+611, Grappling Grand Prix,Austin,WA,2022/08/11, Tyler Clark, Lucas Davis,FightSports,black,Adult ,lf,No Gi,defeat,Advantage ,4, 4, 0, 1,360,Ref C. Patel,4,weight check cleared
+612, State Championship,phoenix, WA,2022-02-26,Logan  Brown, Sam Green,Art of Jiu Jitsu,Purple ,master 1,rooster,No Gi,defeat,Decision ,0 ,2 ,1.0,0 , 600 ,Ref C. Patel,M8,coach challenge
+613,Summer Open,Atlanta,ga,Aug 23 2022,Alex Santos, Ella Brown,B Team,brown,juvenile,feather,GI,W,sub,00, 3, 0,2 ,5m 00s,Ref A. Cruz, 6,
+614,SUMMER OPEN,Denver,co,01-24-2023,Parker Allen ,Ava Patel,Art of Jiu Jitsu,purple,juvenile,LIGHT,No Gi,defeat,DQ, 10,2,,1 ,480,Ref A. Cruz, 3,
+615,Regional Classic, Atlanta, IL,Jan 02 2023,Cameron Wright,riley patel,Art of Jiu Jitsu,BLACK,Master1,mh, gi ,LOSS,DQ,5 ,2,0.0,1,8:00,Ref B. Kim,mat 1,weight check cleared
+616,Grappling Grand Prix ,Chicago, GA,30-Jul-2023, Mia Green,CAMERON SANTOS,GracieBarra,purp,master 1,LIGHT,No Gi, l ,advantage,00,0,n/a,none,6m 00s,Ref F. Garcia,1,
+617, Grappling Grand Prix,miami, AZ,2023/07/09,avery garcia,Mason Smith, aOj ,black,m2,roost,No Gi, l ,dec,4 pts, 0,n/a,1 ,180,Ref F. Garcia,mat 8,
+618,winter invitational, Chicago,FL,2022/05/28,Cameron White ,blake santos,10th planet ,black,adult male,middle,NOGI,win,Advantage ,9,0 pts,2,2,180 sec,Ref B. Kim,05,coach challenge
+619,summer open, Houston, CA,04/29/2023, Lucas Green,Cameron Allen,GracieBarra,white,master 1,HEAVY,NOGI, w ,PTS,02, 2,0.0,2,180,Ref A. Cruz, 5,medical timeout
+620,SUMMER OPEN,miami,az,05-22-2024,SKYLER HALL,Tyler Costa ,CHECKMAT,BROWN,adult,rooster,No Gi, w ,dec,7,4,0 ,0 , 240 ,Ref C. Patel,mat 8,bracket update needed
+621, Grappling Grand Prix,San Diego,WA,11-21-2022,Blake  Scott,DREW YOUNG,B-Team,Brown ,m1,mid,Gi, l ,disq,10,0,,,420 sec,Ref D. Silva,M12,uniform warning
+622, Winter Invitational, Denver,az,04-21-2024,blake lopez,Noah King,Atos,black,Adult ,LIGHT FEATHER ,Gi,win,Advantage ,00, 5,00, 1,300 sec,Ref F. Garcia,11,medical timeout
+623,Winter Invitational ,PHOENIX,ca,Nov 12 2022,Liam Garcia,OLIVIA DAVIS,nova união,PURPLE,adult male,rooster,NOGI,defeat,adv, 2,2, 0,2,8:00,Ref B. Kim,mat 4,weight check cleared
+624,regional classic,Miami ,wa,2023-07-23, Riley Wright,sophia young,Unity,Blue ,master 2,open class,No-Gi,L,D.Q.,10 pts,3,00,2,3:00,Ref C. Patel,02,video review
+625,GRAPPLING GRAND PRIX,atlanta,tx,24-Sep-2022,ella santos,Harper Davis ,Team Passos,Blue ,Juvenile ,lgt,No Gi, w ,adv,00,02,3 , 0,4m 00s,Ref E. Brown,M1,coach challenge
+626,winter invitational,austin,tx,25-May-2023, Mason Baker,SAM GREEN, BTEAM,Brown ,Adult ,lf,No-Gi,WIN,dq,2, 0,1.0,1 ,8:00,Ref E. Brown,3,video review
+627,Winter Invitational,houston,WA,12-10-2023,lucas davis,AVA DAVIS,b-team ,BLUE,adult male,middle,NOGI,WIN,submission, 0,2 pts,0 ,1,8:00,Ref C. Patel, 1,
+628,Winter Invitational,Seattle, GA,05/01/2022, Sophia Clark,Olivia  Wright,FIGHTSPORTS,white,ADULT,FEATHER, gi ,WIN,Decision ,2,8 pts,0, 0,600,Ref D. Silva, 8,
+629,City Cup ,Atlanta,TX,03/20/2022,Sam Silva ,Drew Green ,DreamArt,BLACK,adult male,Medium-Heavy,Gi,L,Points ,2 ,6 pts,00, 1,4m 00s,Ref A. Cruz,M11,late start
+630,City Cup,San Diego,CA,01-08-2025,Reese Green, Chris Johnson,FightSports,blk,JUVENILE,roost,NOGI,LOSS,Decision ,2 pts, 6,2, 0,300 sec,Ref B. Kim,mat 11,medical timeout
+631,Winter Invitational , Atlanta,tx,07-22-2022,CAMERON NGUYEN,TBD,UNITY,white,master 1,light feather,No-Gi,win,DQ,3 ,00,0,1,420 sec,Ref B. Kim, 10,video review
+632,state championship,seattle, TX,15-May-2022,Lucas  Adams, Logan Wright,10P,purple,ADULT,ultra heavy,NOGI,LOSS,dec,8 pts,2,3.0,-,420,Ref B. Kim,mat 11,scoreboard check
+633,State Championship ,Denver , CO,May 04 2023,noah nguyen,mason garcia, GB ,PURPLE,m2,Open,No-Gi,defeat,pts, 6,2 ,02, 0,8:00,Ref A. Cruz, 12,coach challenge
+634,Grappling Grand Prix,denver,il,14-Oct-2023,jordan davis,Mason Garcia ,B Team,Black ,MASTER 1 ,Rooster , gi ,WIN,Advantage ,10 ,2, 2,2 ,480,Ref C. Patel,7,bracket update needed
+635,Winter Invitational,Phoenix,wa,31-Jan-2024,Avery Santos ,,fight sports,white,adult,feather,No Gi, w ,submission, 4,00, 2,1 ,8m 00s,Ref A. Cruz,5,weight check cleared
+636,regional classic,Austin , CO,04-Feb-2022,harper walker, Avery White,Checkmat,Purple ,juvenile,Open,No Gi,loss,PTS,10,7 ,n/a, 0,240,Ref B. Kim,M5,bracket update needed
+637,Summer Open ,Phoenix , AZ,16-Apr-2023, Mia Smith,ella nguyen,Checkmat,blue,juvenile,roost,No Gi, w ,Decision ,0 pts,2 ,0.0, 0,6m 00s,Ref E. Brown,M10,medical timeout
+638,City Cup,Dallas ,CA,01-10-2022,Mia Patel ,EMMA BAKER,Alliance,purple,Juvenile ,Middle ,Gi,W,submission,2 ,2 pts,,0,8m 00s,Ref A. Cruz,010,coach challenge
+639,Grappling Grand Prix ,SEATTLE, FL,2023/05/02,Mason  Walker,Ethan Davis,Atos Jiu Jitsu,Blue ,MASTER 2 ,fthr,NOGI,loss,submission,9 pts, 8,n/a, 0,4:00,Ref A. Cruz,1,uniform warning
+640,CITY CUP,Atlanta ,FL,2022/11/07,Ava Lee,sam patel,B-Team,black,adult male,lgt, gi ,LOSS,Ref Decision,6 pts, 2, 0, 0,180 sec,Ref F. Garcia,M2,video review
+641, Regional Classic,AUSTIN,GA,Feb 19 2025,Drew Johnson,Noah  Johnson,NovaUniao,Black ,adult male,Middle ,GI,victory,sub,6,2 pts,2.0, 2,420 sec,Ref E. Brown, 10,
+642,CITY CUP,Austin,ga,12-Jun-2024,Sam Santos , Liam Allen,fight sports,blue,juv,medium heavy,Gi,victory,pts,00,0 ,1 ,0,6m 00s,Ref D. Silva,1,bracket update needed
+643,WINTER INVITATIONAL,SEATTLE, CA,2022-03-29,Sophia  Davis, Ethan Adams,10TH PLANET,brown,MASTER 2 ,roost,Gi,loss,D.Q.,4 pts, 4,3, 0,180,Ref D. Silva, 7,weight check cleared
+644,city cup,San Diego, TX,02/14/2025, Morgan Scott,riley brown,b-team ,BLACK,MASTER 1 ,light feather,No Gi,win,sub,4 pts,4 ,0.0, 0,420,Ref F. Garcia,M10,video review
+645,CITY CUP, San Diego,fl,2024/05/04, Morgan Garcia, Taylor Green,NOVA UNIAO,white,Juvenile ,middle, gi ,defeat,submission,02,0,00, 0,10m 00s,Ref C. Patel,03,
+646, Summer Open,Chicago ,fl,09/24/2023,Noah Clark ,BLAKE NGUYEN,10P,White ,Adult ,hvy,Gi,L,dq,0 pts,2 pts,,0 ,180 sec,Ref E. Brown,M3,video review
+647,City Cup,Phoenix ,ca,21-Jun-2024,Harper Scott,Harper Silva , atos ,Brown ,m1,Light-Feather,GI,win,,9 pts,2 pts,,, 480 ,Ref C. Patel,8,video review
+648,Summer Open ,AUSTIN,il,Jul 07 2024,Drew  Lee, Mia Santos,Alliance BJJ,purple,juv,heavy,No-Gi,victory,dec, 4,08,3,0 ,7:00,Ref D. Silva,08,coach challenge
+649,State Championship,DENVER, AZ,2023-05-23, Alex Santos,Harper  Smith,CheckMat ,BROWN,MASTER 2 ,HEAVY,No-Gi,victory,Submission ,6 ,4 ,0.0,0 ,480 sec,Ref A. Cruz,M3,
+650, Winter Invitational, Austin,FL,03-16-2024,TAYLOR HALL,Lucas Nguyen , atos ,black,adult male,open class,No-Gi,L,points, 10, 8,00,1 , 180 ,Ref A. Cruz,mat 12,late start
+651,SUMMER OPEN,Denver,tx,12-19-2024,DREW KING,skyler clark,Gracie Barra,brn,master 1,mid,NOGI,WIN,Decision ,5 pts, 6,2 , 1,5:00,Ref D. Silva,mat 4,coach challenge
+652,REGIONAL CLASSIC,atlanta,ca,2024/11/21, Elijah Lopez,Reese Brown ,AOJ ,PURPLE,adult male,MEDIUM HEAVY ,No Gi,WIN,dq,4 pts,0 pts,00, 0,180 sec,Ref E. Brown,M2,scoreboard check
+653,Summer Open ,PHOENIX,GA,24-Dec-2022,Skyler  Wright, Emma Young, aOj ,blk,Adult ,absolute,Gi, l ,Ref Decision,10,3,0.0,1, 600 ,Ref B. Kim,01,
+654,Winter Invitational,houston,ga,12/25/2022,Parker Silva,TBD, alliance,wht,Master1,ULTRA HEAVY ,No Gi,L,SUB,8 pts, 4,02, 2, 600 ,Ref A. Cruz,05,bracket update needed
+655,regional classic,dallas,wa,2022/03/02,mia scott,Sophia Lopez,fight sports,black,adult,middle,No-Gi,LOSS,Ref Decision,10 ,05, 0,0 ,180,Ref F. Garcia,M2,scoreboard check
+656,State Championship ,HOUSTON,FL,2025-01-25,Casey White,Olivia Walker,dream art ,White ,Juvenile ,Heavy ,GI,win,D.Q.,5 pts, 3, 3,1,7m 00s,Ref C. Patel,M11,bracket update needed
+657,Grappling Grand Prix,Austin ,tx,09/04/2022,Tyler Scott ,Parker Lee ,CHECKMAT,wht,MASTER 1 ,HEAVY,GI,W,points,0 pts, 2,0,2,240,Ref D. Silva,M1,late start
+658, Regional Classic,SEATTLE,fl,2022/12/30, Alex Silva,Lucas Clark ,AOJ ,Purple ,master 2,mh,GI,defeat,DQ,02,8 ,2.0,0, 480 ,Ref A. Cruz,mat 3,late start
+659,CITY CUP,dallas,tx,2023/05/12,Skyler  Costa,Riley Silva ,FIGHTSPORTS,brn,m2,LIGHT FEATHER ,NOGI, l ,SUB, 2,02, 0,0,240 sec,Ref F. Garcia,mat 12,bracket update needed
+660,REGIONAL CLASSIC,SAN DIEGO,GA,09-16-2023,Mia Brown, Chris Green,10th Planet,wht,ADULT,roost,NOGI,WIN,decision,02, 4, 0,-,4m 00s,Ref A. Cruz,10,late start
+661,regional classic,miami, WA,2022-06-30,Mia Green,Emma  Costa, Unity ,BLACK,master 1,Open,NOGI,defeat,ADV,10,4 pts,1 ,1,10:00,Ref E. Brown, 6,scoreboard check
+662, Grappling Grand Prix,Houston,GA,2022-05-31,Noah  Walker,ELIJAH PATEL,Unity,brown,adult,Medium-Heavy,No-Gi,L,disq,02, 2,3 ,0,300 sec,Ref E. Brown,8,video review
+663,GRAPPLING GRAND PRIX,Denver , CA,Feb 18 2025,SOPHIA SILVA, Ava Santos,DreamArt,blu,juvenile,Open, gi ,LOSS,D.Q., 9,03,3.0,1 ,8m 00s,Ref D. Silva,M5,bracket update needed
+664,Regional Classic,san diego,CA,08-24-2022,Ella Martinez,taylor johnson, GB ,Purple ,adult male,Feather ,NOGI,LOSS,submission, 0,3, 2, 2,420,Ref A. Cruz,M9,medical timeout
+665,state championship,Chicago ,GA,02-15-2023,LUCAS SCOTT,Olivia Nguyen,Team Passos,WHITE,Juvenile ,roost, gi ,loss,SUB,3 ,08,1 ,1 ,180,Ref E. Brown,mat 4,bracket update needed
+666,State Championship, Phoenix,tx,06-30-2024,harper green,ava nguyen, aOj ,blue,master 1,open class, gi ,defeat,Decision ,2 ,03,02, 0,360 sec,Ref A. Cruz, 6,bracket update needed
+667,GRAPPLING GRAND PRIX,Austin,FL,27-Dec-2024,REESE JOHNSON,skyler hall,AOJ ,purple,master 1,roost,Gi,W,pts,06,0,0,1 , 360 ,Ref E. Brown, 7,medical timeout
+668,Summer Open,chicago,co,2024/02/10,CAMERON WRIGHT,Lucas  Brown, GB ,Black ,m1,MEDIUM HEAVY ,No-Gi,defeat,Decision ,08,0,1.0, 1,300 sec,Ref A. Cruz,01,weight check cleared
+669,Regional Classic ,seattle,IL,01/10/2023,ETHAN GREEN,Reese  King,Atos Jiu Jitsu,Blue ,adult,LIGHT,NOGI, l ,Points ,3,07,0, 2,3:00,Ref A. Cruz,04,bracket update needed
+670,regional classic, Phoenix,co,01-Jul-2023,Liam Johnson,unknown,CheckMat ,blue,master 1,uh,No Gi,LOSS,dec,02,0 pts,n/a,2 ,240,Ref A. Cruz,mat 9,coach challenge
+671,regional classic,Atlanta, CA,09-20-2023,Morgan Davis, Ava Adams,Alliance,black,MASTER 1 ,OPEN CLASS ,No Gi,W,DQ, 9,00,2, 0, 420 ,Ref C. Patel, 11,video review
+672,grappling grand prix,Denver,ca,07-19-2024,Ella Clark,Emma Adams ,Passos,wht,m2,Heavy ,No-Gi,loss,D.Q.,10 pts,0,3 , 0, 600 ,Ref D. Silva, 7,medical timeout
+673,City Cup, Austin,FL,2024/07/25,Ethan Lee ,Olivia  Lopez,DreamArt,Brown ,adult male,HEAVY,No Gi,LOSS,dec,04,05,2, 1,6m 00s,Ref B. Kim,07,
+674,Winter Invitational ,Miami,WA,Aug 06 2022,Emma Patel ,Noah  White,FIGHTSPORTS,WHITE,juvenile,ultra heavy,No Gi,victory,Decision ,8 pts,0 , 0,2 ,300,Ref B. Kim,M8,weight check cleared
+675,state championship, Chicago, FL,Jan 03 2022,noah nguyen,unknown, GB ,Purple ,MASTER 1 ,uh, gi ,W,Submission ,00, 0,3, 0,10:00,Ref B. Kim,M6,late start
+676,Winter Invitational, Atlanta,il,2025-01-23,Morgan Brown, Sophia Davis,GracieBarra,Brown ,JUVENILE,Feather ,No Gi,defeat,unknown,9 pts,6 pts,01, 0,4m 00s,Ref D. Silva,mat 6,late start
+677,winter invitational,Houston ,ga,2022/02/14,Elijah  Walker,Skyler Baker, GB ,Purple ,m2,light feather,No-Gi,win,Decision ,02,03, 0, 2,300,Ref B. Kim,M10,bracket update needed
+678,state championship, Seattle,CA,Jul 14 2023,Tyler  Allen,Sophia Davis ,UNITY,white,juvenile,Middle ,Gi,WIN,Submission ,10 pts,7 pts,0.0,NA, 300 ,Ref E. Brown,M8,video review
+679,GRAPPLING GRAND PRIX,austin,TX,2022-03-24,Sophia Brown , Ella Nguyen,Team Passos,White ,juv,open class,Gi,L,D.Q.,04,0 ,00,1,5:00,Ref F. Garcia,M2,
+680,State Championship ,SEATTLE,ga,02-Feb-2025,BLAKE TURNER,Mia Johnson ,10th Planet,wht,adult,light feather, gi ,victory,Points ,8 pts, 0,,2 ,6:00,Ref E. Brown,M9,video review
+681,Winter Invitational ,Dallas ,WA,03-13-2022,Parker White,Olivia Garcia,check mat,White ,m2,open class,No Gi, l ,Points ,00, 0, 0, 0,240,Ref D. Silva,08,
+682,state championship,miami, IL,2023-12-31,sophia lee,LIAM ALLEN,AOJ ,purple,master 2,ultra heavy, gi ,victory,Points ,10,7 ,02, 2,5:00,Ref E. Brown, 5,uniform warning
+683,State Championship,ATLANTA,wa,07-Feb-2023,JORDAN LEE,avery wright, BTEAM,BROWN,MASTER 2 ,light,NOGI,L,DQ,6 ,00,0,0,4:00,Ref E. Brown,mat 7,coach challenge
+684,City Cup,atlanta, GA,11-21-2024,EMMA SMITH,ALEX KING,Fight Sports,white,MASTER 1 ,mh,Gi,LOSS,Submission ,5 ,6 ,00,1,10m 00s,Ref F. Garcia, 7,uniform warning
+685,Summer Open,DALLAS, TX,08/14/2024,Cameron Davis ,Reese Turner ,10th planet ,brown,juvenile,Light ,NOGI,LOSS,submission,02,08,0,2,360,Ref C. Patel,mat 4,uniform warning
+686, City Cup,San Diego,az,21-Nov-2022,Parker Wright ,TBD,Alliance,PURPLE,Master2,FEATHER,No Gi, w ,adv, 8,0, 0, 1,7m 00s,Ref F. Garcia,mat 11,uniform warning
+687, City Cup,Seattle, CA,03/09/2022,Ella  Turner,ava turner,10th planet ,purp,master 1,uh,GI,WIN,Decision ,10, 0,2,NA,600,Ref F. Garcia,M10,
+688,Grappling Grand Prix ,san diego,GA,28-May-2022,Logan Martinez ,,Unity,White ,master 1,light,No-Gi,loss,Decision ,2 ,5 pts, 3,2 ,300,Ref C. Patel,M9,bracket update needed
+689,City Cup ,SAN DIEGO,WA,05-Jun-2022,Casey Costa ,Logan Silva,Unity,WHITE,m2,Ultra-Heavy, gi , l ,pts,03,7 ,3 ,2 , 300 ,Ref D. Silva,02,late start
+690,Winter Invitational , Seattle, CO,2023-01-13,olivia green,Casey  Lopez,Dream Art,Purple ,master 1,rooster, gi ,win,PTS,4,3 ,2, 0,300,Ref F. Garcia,2,medical timeout
+691,STATE CHAMPIONSHIP,miami,FL,11/19/2022,Mia Lee ,Casey Lee ,Alliance BJJ,WHITE,Master2,Light-Feather,NOGI,win,adv, 5,5,n/a, 0,420 sec,Ref E. Brown,M7,medical timeout
+692, City Cup, Atlanta,AZ,2022-12-30,Reese  Smith, Avery Smith,NovaUniao,Purple ,adult,fthr,Gi,L,Ref Decision,02,02,01,1,300 sec,Ref E. Brown,03,scoreboard check
+693, Grappling Grand Prix,houston, CA,2023-09-28,ella allen,TYLER SILVA,team passos ,Black ,adult,MIDDLE,No Gi,L,Submission ,2 ,0 ,0 ,0 ,3:00,Ref A. Cruz,M9,
+694, Grappling Grand Prix,phoenix, FL,26-Dec-2023,cameron johnson,TBD,GracieBarra,black,Juvenile ,MIDDLE,NOGI,L,decision,7 pts,8 ,0.0,0 ,360 sec,Ref C. Patel,010,coach challenge
+695, State Championship,ATLANTA,wa,Jul 26 2024,Blake Scott ,Cameron Clark ,FightSports,Blue ,m1,middle,NOGI,LOSS,Points ,0 ,8 pts,01,0 ,300,Ref F. Garcia,5,weight check cleared
+696,Summer Open ,Denver , CO,2023/05/07,Sam Wright,Taylor Smith ,DreamArt,purple,Juvenile ,hvy,No-Gi,L,DQ,6,0,03, 0, 420 ,Ref E. Brown,07,coach challenge
+697, Winter Invitational,Phoenix ,tx,07-May-2024,Sam Davis,TBD,Fight Sports,white,MASTER 2 ,Feather , gi ,WIN,SUB, 6,2 ,1,1,8m 00s,Ref F. Garcia,4,coach challenge
+698,State Championship,SEATTLE, WA,2024-12-08,MASON KING,Liam Scott,UNITY,WHITE,adult male,Middle ,Gi,victory,pts,8 pts,4,01, 0,6:00,Ref A. Cruz,05,medical timeout
+699,Regional Classic,SEATTLE,CO,12-Sep-2024,ETHAN GARCIA,ELLA GREEN, BTEAM,blk,juv,Medium-Heavy,No-Gi,W,advantage,10 ,3,,1, 300 ,Ref D. Silva,mat 11,late start
+700,City Cup ,Atlanta ,TX,03/16/2022,mason turner,Liam  Clark, GB ,wht,m2,Rooster ,GI,L,dq,06,3 , 0,2 ,420 sec,Ref C. Patel, 3,bracket update needed
+701, City Cup,San Diego ,FL,08/14/2024,HARPER WRIGHT,Drew  Davis,GracieBarra,blu,Master2,hvy,GI,L,adv,07,0,03, 0,360,Ref B. Kim,3,
+702,Regional Classic,San Diego,CO,09-30-2022,Drew Nguyen, Ella Green,10P,BLACK,Juvenile ,LIGHT,No-Gi,L,points,8,0 ,0, 0,10m 00s,Ref A. Cruz,11,late start
+703,Winter Invitational ,Austin, GA,07-28-2023, Chris Turner,Taylor  White,unity jiu jitsu,brown,adult,fthr,No Gi,LOSS,Ref Decision, 5, 4,00,0,420,Ref E. Brown, 11,scoreboard check
+704, Regional Classic,CHICAGO,CO,12-Feb-2022,mason allen,Drew Hall, GB ,purp,MASTER 1 ,open class,No-Gi,WIN,, 0,7 pts,0 ,1 ,480,Ref D. Silva,M12,video review
+705,Regional Classic ,austin, TX,2024-11-23,ethan costa,DREW GARCIA,NOVA UNIAO,White ,Adult ,mh,No-Gi, w ,PTS,9, 0,0, 2,10:00,Ref A. Cruz,M5,
+706,summer open,Houston,TX,2024-07-27,Blake Hall,Casey Adams, alliance,brown,ADULT,lf,Gi,loss,unknown, 8, 0,01,1,6:00,Ref A. Cruz, 9,coach challenge
+707,grappling grand prix,atlanta,CO,07-01-2022,CHRIS SCOTT, Harper Lopez,Atos,BROWN,juv,absolute,Gi,loss,ADV, 2,6 pts, 2,2,600,Ref E. Brown, 11,weight check cleared
+708,WINTER INVITATIONAL,denver,IL,01/29/2025,parker scott,Elijah Costa,Alliance BJJ,Black ,master 1,roost, gi ,W,decision,2 pts,2 pts,2.0, 0,3m 00s,Ref C. Patel,mat 6,
+709,STATE CHAMPIONSHIP,Dallas,il,Feb 14 2023,Reese  Baker,TAYLOR SILVA,10TH PLANET,blue,juvenile,lgt,No-Gi,LOSS,advantage,6,2 ,1.0,2,240,Ref E. Brown,08,weight check cleared
+710,State Championship ,Chicago, CA,2023/05/11,Logan Garcia ,MORGAN WRIGHT,FightSports,blu,Juvenile ,MIDDLE,No-Gi, l ,dq,8,0 pts,03, 2,420 sec,Ref F. Garcia,mat 11,bracket update needed
+711,Summer Open,Phoenix,il,2024/05/17, Alex Allen,morgan santos, alliance,BLACK,m2,ultra heavy,Gi,win,sub,04,5 pts, 1,1,300,Ref E. Brown,mat 8,
+712,City Cup ,Chicago,fl,2023/11/14,Reese Patel, Mia Green,NOVA UNIAO,WHITE,Master2,hvy,NOGI,victory,DQ,2 ,2 ,01,0 ,7:00,Ref D. Silva,M9,medical timeout
+713,state championship,SEATTLE,AZ,2022-03-12, Olivia Patel,ELLA LEE,FIGHTSPORTS,brown,adult male,MEDIUM HEAVY ,No Gi, w ,adv,4,2 pts,3.0,0 ,6:00,Ref F. Garcia, 7,late start
+714,GRAPPLING GRAND PRIX,phoenix,IL,29-Oct-2022,Chris  Adams,Chris Adams ,UNITY,black,ADULT,light feather,GI,victory,SUB,10,7 pts,0 ,1,6m 00s,Ref C. Patel,M9,scoreboard check
+715,city cup,San Diego ,wa,19-Sep-2024,RILEY LEE,Alex Green,CheckMat ,Purple ,m2,absolute,No-Gi,L,DQ,5 ,0 pts,00,n/a,6m 00s,Ref E. Brown,M8,weight check cleared
+716,CITY CUP,Phoenix,co,05/05/2024,Olivia Adams ,emma walker,Atos Jiu Jitsu,BLACK,Master1,Rooster ,GI,victory,decision,0 , 5, 0,0, 300 ,Ref D. Silva,mat 12,video review
+717, State Championship, Houston, TX,09-24-2022,alex turner,Morgan Hall ,DreamArt,Purple ,ADULT,Open,No Gi,win,Advantage ,0 , 2,03,1 ,6m 00s,Ref D. Silva, 5,video review
+718, City Cup,Houston ,co,01-07-2022,MIA BROWN, Skyler Wright,AOJ ,brn,Adult ,Heavy ,NOGI,L,Points ,8 ,0,00, 0,7:00,Ref A. Cruz, 5,late start
+719,State Championship, Chicago, TX,2024/05/14, Sophia Nguyen,Lucas Walker ,Alliance,brn,Juvenile ,ultra heavy,Gi,victory,DQ,8,0,0,1, 600 ,Ref C. Patel,mat 4,coach challenge
+720, City Cup, Houston,wa,06-17-2023,Olivia Santos,sophia garcia,CHECKMAT,Blue ,Master2,middle,NOGI,defeat,Points ,5 pts, 2,00, 0,8m 00s,Ref D. Silva,09,
+721,Winter Invitational , Atlanta, AZ,09-05-2022,Parker  Green,BLAKE WHITE,team passos ,PURPLE,Master1,FEATHER,No-Gi,loss,submission,04,06,0, 0,6:00,Ref D. Silva,1,weight check cleared
+722,regional classic,phoenix, FL,27-Apr-2024,Ethan  Scott,TBD,Atos Jiu Jitsu,White ,Master2,MIDDLE,No Gi,L,points,03,2 pts,1.0, 2,7m 00s,Ref A. Cruz,mat 5,medical timeout
+723,Regional Classic,Houston, FL,2023/04/19, Sophia Santos,Ava Nguyen ,Alliance BJJ,PURPLE,adult male,Ultra-Heavy,NOGI,LOSS,advantage, 2, 7,1.0, 0,5m 00s,Ref B. Kim,6,medical timeout
+724,grappling grand prix, Austin, CO,10-Feb-2022,reese wright,harper baker,GracieBarra,WHITE,JUVENILE,FEATHER,No Gi,defeat,unknown, 7,06,,1,8:00,Ref C. Patel,mat 4,scoreboard check
+725,State Championship ,Denver,co,2023-05-23,jordan davis,Taylor Baker ,TEAM PASSOS,wht,Adult ,roost,NOGI,loss,sub,6 ,00, 0,1 ,360 sec,Ref C. Patel,mat 8,
+726,State Championship,Atlanta,ga,09/16/2023,parker garcia,mia garcia,DreamArt,Purple ,Juvenile ,light feather, gi ,LOSS,pts,7,2 pts,1,0,480,Ref D. Silva,01,uniform warning
+727, City Cup,HOUSTON,az,02-19-2025,Morgan Brown ,Tyler Lee ,10P,brn,JUVENILE,Ultra-Heavy,GI,W,decision,4,2 pts, 1,1 ,7m 00s,Ref C. Patel,7,bracket update needed
+728, Regional Classic,SEATTLE,fl,2022/05/08,elijah clark,Harper  Turner,10TH PLANET,PURPLE,juvenile,medium heavy,No Gi, l ,D.Q.,9,00,0, 2,8:00,Ref C. Patel,mat 9,uniform warning
+729,summer open,Atlanta , TX,Sep 21 2023,sam costa,Morgan  Davis,fight sports,blue,MASTER 2 ,Light ,Gi,victory,SUB,00,0,0.0,2, 480 ,Ref C. Patel,7,coach challenge
+730,CITY CUP,Miami ,CA,15-Aug-2023,Chris  Baker,Tyler  Baker,10TH PLANET,blu,Master2,ULTRA HEAVY ,No Gi, l ,submission,04,0 ,02,0 , 600 ,Ref E. Brown, 6,weight check cleared
+731, Summer Open,austin,FL,Dec 22 2022,OLIVIA CLARK,Olivia Garcia,10th Planet,PURPLE,Master1,hvy,Gi,defeat,D.Q.,8 , 2,02, 1,10m 00s,Ref A. Cruz,M7,uniform warning
+732,City Cup ,Austin, IL,2022-11-29, Sam Johnson,Ava Brown,10P,blue,Master1,heavy,Gi,win,dec, 3, 2, 0,2 , 300 ,Ref F. Garcia, 6,weight check cleared
+733,Summer Open ,MIAMI, TX,May 21 2024, Ethan Scott,SKYLER JOHNSON,check mat,black,master 2,middle,Gi,LOSS,D.Q.,5, 0,1.0,-,600,Ref E. Brown,4,medical timeout
+734,STATE CHAMPIONSHIP,atlanta,WA,Jan 30 2024,Emma Patel ,mason smith,DreamArt,Black ,JUVENILE,mid,No-Gi,W,pts,6 ,05,00, 2, 420 ,Ref C. Patel, 5,uniform warning
+735, Summer Open,Houston ,IL,06-25-2023,liam davis,Reese Wright, GB ,brown,m1,uh,Gi,WIN,ADV,0 ,06,0.0,1 ,10m 00s,Ref B. Kim,M6,
+736,CITY CUP,San Diego ,wa,Feb 27 2024,chris johnson,NOAH HALL,UNITY,White ,ADULT,open class, gi ,loss,disq,4,2,0 , 2, 180 ,Ref A. Cruz,11,medical timeout
+737,Grappling Grand Prix ,AUSTIN,TX,Aug 22 2024,avery adams,Chris White ,Passos,blk,m1,OPEN CLASS ,No-Gi,defeat,SUB,2 pts,8 pts,0 ,0,7:00,Ref D. Silva, 3,
+738,State Championship,atlanta, AZ,Feb 22 2022,Riley Brown ,ELLA HALL, Unity ,brown,Master2,mh,No Gi,LOSS,sub,2 pts,4 pts, 1, 1,480,Ref C. Patel,05,video review
+739,Regional Classic,San Diego , WA,2024/08/08,Cameron  Lopez, Taylor Nguyen,Dream Art,Purple ,master 1,Ultra-Heavy, gi ,loss,pts,0 pts,02,1,0, 480 ,Ref E. Brown,10,video review
+740,Winter Invitational,chicago,IL,May 06 2022,Taylor Green,Tyler  Baker,dream art ,black,adult male,feather,GI,defeat,Points ,8,0,3.0,2 , 240 ,Ref F. Garcia,07,medical timeout
+741, Grappling Grand Prix,Phoenix , CO,Feb 15 2024,Ava Patel,Avery Lee,unity jiu jitsu,WHITE,Juvenile ,lf, gi ,victory,D.Q.,8 pts,0 pts,1 ,0 ,180,Ref C. Patel,11,scoreboard check
+742,STATE CHAMPIONSHIP,Denver ,wa,03-31-2022,Riley  Costa,Sophia Turner,DREAMART,blue,juv,roost,NOGI,W,ADV,5,0 pts, 0, 1,7:00,Ref D. Silva, 11,bracket update needed
+743,Grappling Grand Prix, Miami, IL,07/07/2024,Parker  Silva,Harper Garcia,nova união,BLACK,master 1,light feather,Gi,win,decision,5 ,3, 2,n/a,8:00,Ref E. Brown,07,uniform warning
+744,summer open,SEATTLE,co,11-Feb-2025,logan lee,logan davis,AOJ ,WHITE,MASTER 2 ,mid,No Gi,WIN,disq,03,02,03,0,10m 00s,Ref C. Patel,M3,late start
+745,Winter Invitational ,Houston ,FL,2024-05-06,Avery Davis,Sam Green ,Checkmat,PURPLE,MASTER 1 ,lf, gi , l ,disq,9 pts,07,01,0,420 sec,Ref B. Kim,9,medical timeout
+746, Grappling Grand Prix,Austin , TX,Oct 20 2024,Parker Brown , Drew Brown, atos ,brn,Master2,feather,GI,L,Ref Decision,09,8 pts, 1, 0,240,Ref B. Kim,9,medical timeout
+747,GRAPPLING GRAND PRIX,Seattle,GA,Jul 24 2024,morgan young,Casey Allen, BTEAM,BROWN,Juvenile ,Light ,NOGI,victory,dq,0, 2,00, 0, 420 ,Ref D. Silva, 3,
+748, Regional Classic, Phoenix,wa,21-Jul-2024,REESE LEE,LOGAN WALKER,NOVA UNIAO,wht,ADULT,middle,GI,W,submission,2 ,0 ,,1 ,4m 00s,Ref A. Cruz,06,scoreboard check
+749,SUMMER OPEN,Dallas ,il,09-05-2024,Tyler  Turner,ethan costa,UNITY,BLUE,MASTER 2 ,Feather ,NOGI, w ,D.Q.,10,0 pts, 1,0 ,360 sec,Ref D. Silva,M8,scoreboard check
+750,WINTER INVITATIONAL,Houston ,il,20-Nov-2023,LIAM SANTOS,noah turner,Team Passos,brown,juvenile,Medium-Heavy,Gi, l ,submission,09,00, 0, 1,180 sec,Ref B. Kim,03,coach challenge
+751,GRAPPLING GRAND PRIX,Austin ,GA,05-15-2022,Sam King ,Chris  Allen,dream art ,Black ,m1,lf, gi ,WIN,adv,4 ,07,03, 1,360,Ref C. Patel,6,scoreboard check
+752,Regional Classic ,DENVER, FL,02-02-2025,elijah garcia, Reese Davis,Nova Uniao,purple,Adult ,Light-Feather,NOGI,LOSS,disq,4,0 ,1.0,0,180,Ref A. Cruz,6,weight check cleared
+753, City Cup,AUSTIN,co,12-03-2022,emma green, Cameron Baker,10th planet ,wht,ADULT,HEAVY, gi ,W,D.Q.,02, 0,01, 1,300 sec,Ref E. Brown, 1,
+754,Regional Classic ,san diego,fl,03/27/2024,Emma Silva , Skyler White,Checkmat,Black ,Adult ,Heavy ,No-Gi,W,Decision ,10 ,00, 3,0 ,4m 00s,Ref C. Patel,12,bracket update needed
+755, State Championship,Austin , IL,2024/12/20,AVERY TURNER,logan silva,fight sports,blk,master 2,Medium-Heavy,No Gi,defeat,n/a,8 pts, 7,0 ,0 ,240,Ref A. Cruz,03,medical timeout
+756,Summer Open , Phoenix,FL,02-08-2022,elijah davis,NOAH WRIGHT,ALLIANCE ,BROWN,master 1,ultra heavy,No Gi, l ,submission,05,04, 0,1 , 600 ,Ref E. Brown,mat 8,coach challenge
+757,REGIONAL CLASSIC,Miami,fl,2023-07-29,Taylor Davis, Olivia Adams,AOJ,Brown ,Adult ,Rooster ,No-Gi,L,Submission ,8 ,02,3 ,0 ,3:00,Ref D. Silva,07,
+758,STATE CHAMPIONSHIP,SEATTLE,CA,29-Sep-2024, Noah Turner,unknown,AOJ ,BLACK,MASTER 1 ,HEAVY,NOGI, w ,D.Q.,3 pts,4 pts,2, 1, 180 ,Ref D. Silva,06,medical timeout
+759,WINTER INVITATIONAL,Phoenix,ga,2023/10/24,Chris  Nguyen, Drew Wright,Dream Art,Purple ,Juvenile ,Light ,NOGI,WIN,Advantage ,9,3 ,n/a, 1,8:00,Ref D. Silva,M2,medical timeout
+760,GRAPPLING GRAND PRIX,Atlanta,ga,16-Oct-2024,Logan  Garcia,Cameron Martinez, alliance,white,JUVENILE,rooster,GI, w ,dq,08,7 pts, 1,2,360,Ref E. Brown,012,
+761,summer open,Miami ,TX,2023-03-15,Ava  Baker,Lucas Martinez ,unity jiu jitsu,blu,adult male,rooster,NOGI,victory,dq,4 ,7 pts,00,2 ,240 sec,Ref A. Cruz,mat 3,video review
+762,State Championship , Atlanta, CO,05/05/2023,logan adams,Morgan Clark ,Atos Jiu Jitsu,WHITE,juvenile,FEATHER, gi ,LOSS,DQ,06,0, 1, 2,5m 00s,Ref A. Cruz,mat 4,coach challenge
+763,state championship, Phoenix,TX,2024/06/07,Casey  Davis,TBD,NOVA UNIAO,Purple ,JUVENILE,ROOSTER,No Gi,WIN,adv,05,08,2 , 2,10:00,Ref F. Garcia,03,bracket update needed
+764,winter invitational,DENVER,WA,2023/10/14,Reese  Patel,MASON HALL,NOVA UNIAO,Black ,ADULT,light,Gi,loss,points, 4, 5,0 ,0,10:00,Ref C. Patel,M1,video review
+765,SUMMER OPEN,San Diego, WA,2025/02/24,Riley Lee ,olivia garcia,B-Team,PURPLE,Master2,lgt, gi ,victory,disq,0,06, 0, 0,240,Ref A. Cruz, 1,coach challenge
+766,State Championship,Seattle,co,04-26-2023,LIAM SCOTT,LOGAN NGUYEN,Nova Uniao,brn,master 2,roost, gi , w ,pts,09,00,3,1 ,7:00,Ref C. Patel,6,
+767,State Championship, Atlanta,CA,2022/09/25, Harper Lee,DREW TURNER,DreamArt,blu,master 2,FEATHER,Gi, l ,decision,5 ,2 pts,01,0, 180 ,Ref A. Cruz,06,
+768,regional classic, Phoenix, IL,Nov 12 2022,Morgan Davis ,Avery  Young,B-Team,wht,Master2,mid,Gi,LOSS,Points , 0,7,1 ,2,4:00,Ref A. Cruz, 5,weight check cleared
+769,state championship, Miami, IL,11-12-2024, Logan Brown,Sam  Smith, alliance,PURPLE,m1,feather, gi ,victory,dq,05,02,0.0,0,10m 00s,Ref B. Kim,01,uniform warning
+770,Summer Open ,San Diego,CO,Jan 07 2023,Casey Silva ,Mason Young ,B Team,Purple ,Master1,heavy,No-Gi,loss,Points ,0 pts,2 pts,0.0, 0,6:00,Ref D. Silva, 5,weight check cleared
+771,City Cup , Austin,ca,13-Apr-2024,Tyler Garcia , Blake Adams,10th planet ,Black ,JUVENILE,ULTRA HEAVY ,NOGI,loss,D.Q., 2,0, 2, 2,420,Ref F. Garcia,02,
+772, State Championship,Seattle, WA,04/20/2024,Drew Young,tyler baker,Team Passos,Black ,juvenile,Medium-Heavy,GI,win,adv, 6,8 pts,n/a, 0,3:00,Ref C. Patel,10,weight check cleared
+773,Regional Classic,atlanta, CO,2023/10/13,AVA BROWN,REESE MARTINEZ,Alliance BJJ,BROWN,m2,ultra heavy,GI,W,decision, 3,7 , 0,1,420 sec,Ref D. Silva, 12,late start
+774,State Championship,Miami ,IL,11-23-2023,EMMA WHITE,MIA SANTOS,Alliance BJJ,blu,ADULT,ULTRA HEAVY ,No Gi,WIN,decision,10 pts,0 ,, 2,360 sec,Ref E. Brown,010,
+775,regional classic,dallas, AZ,Dec 02 2022,avery adams, Parker Patel,fight sports,Blue ,m2,Middle ,Gi,L,advantage,06, 8,3,2 , 420 ,Ref C. Patel,06,medical timeout
+776,State Championship, Miami, CA,2023-11-03,sam clark,Cameron Turner ,10TH PLANET,Brown ,adult,Medium-Heavy,Gi,WIN,SUB,4,8,0.0, 0,240,Ref D. Silva,mat 3,weight check cleared
+777,State Championship ,AUSTIN,CO,17-Jul-2022,Ava  Walker,SAM PATEL,Fight Sports,White ,master 2,rooster,Gi,victory,dq,5,7 pts,, 1,8m 00s,Ref E. Brown,M8,bracket update needed
+778,state championship,DALLAS, GA,2024-11-20,Lucas  Garcia,SKYLER SMITH, atos ,purple,adult male,light feather,GI,L,PTS,10 pts,02,01,1 ,180 sec,Ref F. Garcia,03,weight check cleared
+779,state championship, Miami,co,Feb 24 2024, Mason Santos,Alex Turner,NovaUniao,PURPLE,MASTER 1 ,rooster,No-Gi,defeat,Decision , 0,7 pts,0,1,7:00,Ref F. Garcia,mat 5,
+780,WINTER INVITATIONAL,seattle,ga,2024-09-18,alex brown,Ava Nguyen,Alliance,blue,JUVENILE,Feather , gi ,victory,ADV,2 ,7,02,1 ,300 sec,Ref C. Patel,06,late start
+781,CITY CUP,Miami ,ca,10/04/2023,LOGAN DAVIS,Tyler Scott,nova união,wht,JUVENILE,Rooster ,GI,defeat,sub,0 ,0,0 ,0,10m 00s,Ref B. Kim, 7,medical timeout
+782,state championship,MIAMI, IL,09-11-2023,drew brown,reese lopez,team passos ,BROWN,juv,ultra heavy, gi ,L,sub, 10,4 ,0.0,n/a,4m 00s,Ref A. Cruz, 4,uniform warning
+783, City Cup,Chicago,co,Apr 24 2024,Harper Davis,Ethan Scott,UNITY,BLACK,Master1,mh,Gi,victory,disq, 4,02,0 ,0,600,Ref E. Brown,5,weight check cleared
+784,Grappling Grand Prix, Atlanta,ga,2024-07-25,Parker Brown ,Drew  Lee,Alliance,Black ,m1,absolute,No Gi,L,submission,3,0 pts,03, 1, 180 ,Ref A. Cruz,mat 7,video review
+785,Grappling Grand Prix,AUSTIN,IL,2022-07-23,Taylor Martinez, Taylor Garcia,Unity,black,Juvenile ,light,GI,W,sub,7 ,06,3 ,0 ,10m 00s,Ref A. Cruz,03,
+786,grappling grand prix,miami, WA,12-03-2022,blake green,Drew  Walker,Alliance BJJ,purple,Master1,light,GI,loss,pts,4 pts,00,0 , 1,7:00,Ref E. Brown,10,late start
+787, State Championship,SAN DIEGO,tx,2022/08/14,TAYLOR MARTINEZ,Harper  White,Dream Art,white,juvenile,lgt,No Gi, l ,DQ, 0,00,0 ,2 , 360 ,Ref B. Kim,M12,scoreboard check
+788,state championship,Denver ,CO,08-Nov-2022,ETHAN BAKER,PARKER SANTOS,dream art ,Brown ,adult male,rooster,No-Gi,WIN,advantage,0 , 2, 3,1 ,10:00,Ref E. Brown,M2,
+789,Summer Open , Austin,CO,10/27/2023,Sam Lee ,Noah  Davis,FightSports,blu,Adult ,lf,No-Gi,W,sub,05,05,01,-, 240 ,Ref F. Garcia, 7,bracket update needed
+790,summer open, Seattle,IL,03/28/2023,Elijah  Nguyen,DREW JOHNSON,Atos,BROWN,Master1,Light ,No Gi, w ,SUB,7,02,0 ,0,180,Ref B. Kim,M9,
+791,state championship,CHICAGO,ca,2024/07/13,SAM LOPEZ,Drew Hall,Atos,brown,master 1,LIGHT,No Gi,W,Decision ,6 ,3 pts,3.0,0, 420 ,Ref E. Brown,mat 12,scoreboard check
+792,Regional Classic ,Austin ,ga,07/16/2023,Emma Smith,ethan white,AOJ,blue,juv,feather,GI,W,Ref Decision,9 pts,8,1 , 2,3:00,Ref A. Cruz,mat 3,scoreboard check
+793,CITY CUP,Denver, FL,2022-06-26,OLIVIA WRIGHT,Jordan Smith,ALLIANCE ,brn,Master2,Ultra-Heavy,GI, l ,D.Q.,10,8 pts,0.0, 0,10m 00s,Ref D. Silva,mat 10,coach challenge
+794,regional classic,miami,az,27-Jun-2024, Taylor Lee, Chris Hall,ALLIANCE ,WHITE,adult male,ROOSTER, gi ,LOSS,decision,02,0 ,0,2,5:00,Ref F. Garcia,6,uniform warning
+795,Regional Classic ,Houston ,ca,07-Apr-2024,Chris Costa,Parker White ,Art of Jiu Jitsu,White ,master 2,hvy,GI, w ,DQ,6 pts, 2,1.0,0, 180 ,Ref A. Cruz,M3,medical timeout
+796,Summer Open ,denver,tx,17-Dec-2024,Reese Davis,Jordan Davis, atos ,brn,Master1,light, gi ,defeat,n/a, 2, 2,00,0 ,300 sec,Ref C. Patel,M12,uniform warning
+797,grappling grand prix,Atlanta, GA,2023-02-04,Lucas Costa,Casey  Baker,ATOS,white,m2,FEATHER,No-Gi,W,advantage,0 pts,6 ,1.0,1,3:00,Ref E. Brown, 2,medical timeout
+798,GRAPPLING GRAND PRIX,AUSTIN, CO,27-Oct-2023,Sam Turner ,SAM WHITE,gracie barra,white,adult,Open, gi , l ,Submission ,2 pts, 2,3, 0,5:00,Ref C. Patel,M12,late start
+799,Winter Invitational,denver,TX,04/26/2023, Parker Smith, Lucas Lee,fight sports,blu,MASTER 2 ,OPEN CLASS ,Gi,loss,dq,0, 2,2 ,1,300,Ref B. Kim,M8,late start
+800,Grappling Grand Prix, Phoenix,AZ,21-Feb-2022,sam turner,Ethan  Baker,GracieBarra,blk,adult,ultra heavy, gi ,defeat,Points ,2 pts,06, 0,0 ,4m 00s,Ref B. Kim, 11,scoreboard check
+801, City Cup,houston,co,2023/06/09,Cameron  Garcia,cameron nguyen,Unity,purple,m2,Feather ,No Gi, l ,ADV,9 ,8 pts,0 ,0,300 sec,Ref C. Patel,mat 1,coach challenge
+802,Grappling Grand Prix, Miami,co,2022-01-01,Casey Walker,Chris  Green, alliance,BLACK,Adult ,MIDDLE, gi ,victory,disq, 8,0 ,0 ,0,5m 00s,Ref D. Silva,M4,medical timeout
+803,WINTER INVITATIONAL,ATLANTA,TX,2023-08-24,Emma Hall ,Sophia Smith, atos ,PURPLE,Master1,heavy,No-Gi,L,pts,02,07,0.0,1,420,Ref C. Patel, 12,video review
+804, Winter Invitational,DENVER,wa,2022-01-11,Taylor Hall ,Casey Allen,b-team ,blk,Adult ,ROOSTER,No Gi,WIN,submission,2 ,06,02,1 ,600 sec,Ref E. Brown,09,weight check cleared
+805,summer open, Dallas, WA,20-Sep-2024,Ella Garcia ,Mia Hall ,Unity,wht,master 2,MIDDLE,No-Gi,WIN,disq,7 pts,7 ,02,1,5m 00s,Ref A. Cruz,5,late start
+806,Summer Open,DALLAS, CO,07-03-2023,ethan santos,Harper Lee,fight sports,WHITE,JUVENILE,FEATHER,No-Gi,defeat,points,5 ,2 pts,0.0, 1,7m 00s,Ref E. Brown,M2,late start
+807,Regional Classic ,Miami, AZ,01-Apr-2023,riley hall,emma turner,b-team ,black,MASTER 2 ,hvy,No Gi, l ,adv,0 pts, 8, 1,0 ,240,Ref B. Kim,6,bracket update needed
+808,Regional Classic ,Austin, GA,Jan 04 2025,Casey Turner ,CASEY WHITE,UNITY,WHITE,MASTER 2 ,HEAVY,No Gi,defeat,Decision , 0,5 pts,0,2 ,180,Ref C. Patel,9,
+809,SUMMER OPEN,Atlanta ,TX,01/25/2025,Ava Clark,ETHAN ADAMS,b-team ,BLUE,m1,lf,Gi,loss,dec,9 ,2 pts,1.0,0 ,4m 00s,Ref D. Silva,M1,medical timeout
+810,Winter Invitational,denver,GA,Mar 20 2024, Taylor White, Riley Santos,unity jiu jitsu,purple,m2,LIGHT FEATHER ,NOGI,W,Submission ,6, 5,1,1 ,8:00,Ref C. Patel,M5,video review
+811,CITY CUP,Atlanta,fl,18-Feb-2024,olivia davis, Parker Green, Unity ,Purple ,master 1,uh,GI,WIN,ADV,5 ,0 ,3 , 1,180 sec,Ref D. Silva,M11,scoreboard check
+812,Summer Open ,MIAMI, WA,06-06-2022,Logan  Garcia,Ethan  Davis,Nova Uniao,purple,m2,hvy,Gi,LOSS,D.Q.,7,7 pts, 3,0 ,420,Ref F. Garcia,mat 8,medical timeout
+813,Summer Open,SAN DIEGO,CO,2024-05-02,Harper  Scott, Liam Martinez,CheckMat ,WHITE,adult,LIGHT, gi ,W,advantage,7 ,7 ,0.0,1 ,600 sec,Ref E. Brown,mat 6,coach challenge
+814,grappling grand prix, Austin, AZ,20-Jul-2024, Cameron Johnson,Logan Baker,Alliance,purp,m1,light,No-Gi,victory,sub,3 pts,0 ,2, 0,480 sec,Ref B. Kim,03,coach challenge
+815, Summer Open,CHICAGO, GA,2022/12/06,SAM SILVA,Chris Brown,Passos,Black ,MASTER 2 ,open class, gi ,L,decision,07,5 pts,00, 2, 180 ,Ref F. Garcia,mat 9,
+816,summer open, Denver,IL,2023-07-29,Ava Green ,taylor lee,check mat,brn,adult,absolute, gi ,W,Advantage ,9 pts,00,2,,5m 00s,Ref B. Kim, 4,weight check cleared
+817,Winter Invitational, Chicago,WA,05-15-2024,sophia davis,Emma Wright,NOVA UNIAO,Black ,master 1,light,GI,loss,Ref Decision,02,00,0 , 2,3:00,Ref C. Patel,M2,
+818, Regional Classic,San Diego ,TX,2022-06-03,Mason Davis ,ELIJAH NGUYEN,gracie barra,brown,Adult ,open class,GI,victory,pts,05,0 pts,1,2,10:00,Ref F. Garcia,mat 4,weight check cleared
+819,GRAPPLING GRAND PRIX,Austin, IL,2022-06-13,Chris Allen,Elijah  King, atos ,Brown ,m1,open class,No-Gi, l ,DQ,0 pts,2,1.0,0,4m 00s,Ref F. Garcia,03,scoreboard check
+820, Grappling Grand Prix,San Diego ,FL,03-26-2023,Sam  Baker,tyler patel,gracie barra,Brown ,adult male,Light ,Gi, w ,disq,05,0 pts,02,1 , 480 ,Ref C. Patel,M10,scoreboard check
+821, Summer Open,SAN DIEGO, CO,04-Oct-2023, Emma Wright,Skyler Smith ,10P,Purple ,juv,ROOSTER, gi ,WIN,DQ,5 ,,1 ,1 , 600 ,Ref C. Patel,10,video review
+822,regional classic,Phoenix,wa,01-13-2022,Drew Clark,Logan Smith,10th planet ,brn,Adult ,HEAVY, gi ,WIN,submission, 5,05,0, 0,4m 00s,Ref F. Garcia, 10,weight check cleared
+823,grappling grand prix,DENVER,co,01-May-2023,Avery  Turner,Taylor  Brown,Art of Jiu Jitsu,White ,master 1,light feather,No Gi,L,dec,5,2 ,01,1,4m 00s,Ref F. Garcia,4,medical timeout
+824, Regional Classic,AUSTIN,tx,2023-08-02, Mason Allen,Skyler Garcia ,FIGHTSPORTS,BLUE,m2,Medium-Heavy,GI,LOSS,submission,8 pts,8 ,0.0, 2, 360 ,Ref F. Garcia,M7,
+825,State Championship ,PHOENIX,AZ,11-Jan-2023,Parker  Walker,Taylor Davis,NOVA UNIAO,Black ,Master2,absolute,GI,victory,D.Q.,05,2, 1,0,8m 00s,Ref E. Brown,M4,
+826,Summer Open ,DALLAS,ca,2023-07-27,Avery Turner ,Skyler  Davis,10P,black,MASTER 1 ,open class,No-Gi,L,pts,9 pts,2,0.0,n/a,420,Ref B. Kim, 3,
+827,Winter Invitational,SEATTLE,ca,10/16/2022,TYLER YOUNG, Alex Johnson,FIGHTSPORTS,brown,juvenile,Open,NOGI,defeat,Decision ,0 ,3,3,0 , 360 ,Ref D. Silva,M4,weight check cleared
+828,STATE CHAMPIONSHIP,chicago,il,04/18/2022,alex scott,Noah Turner ,b-team ,blue,MASTER 1 ,light feather,NOGI,L,Ref Decision,09,7 ,03,0 , 180 ,Ref D. Silva,M7,
+829,summer open, Chicago,CO,15-Jun-2022,Olivia Davis ,Casey  Wright,B-Team,black,juv,heavy,Gi,loss,Submission ,0 pts,2 ,03,2, 300 ,Ref D. Silva,M8,uniform warning
+830, Grappling Grand Prix, Phoenix, TX,03/15/2024,Riley White,LOGAN WALKER,DREAMART,purp,m1,roost,No-Gi,WIN,PTS,3 ,2 ,03,1, 420 ,Ref C. Patel,M12,medical timeout
+831,State Championship,phoenix,CO,07/29/2024,Noah  Nguyen,Riley King,gracie barra,Black ,Juvenile ,ROOSTER,No Gi,LOSS,Points ,10,0,3 ,0 , 360 ,Ref E. Brown,05,coach challenge
+832, City Cup,Atlanta ,co,Jan 02 2022,Noah  Young, Drew Silva,GracieBarra,purp,master 1,HEAVY,No Gi, w ,dec,0 ,08,02,0,10m 00s,Ref E. Brown,mat 5,video review
+833,Summer Open ,chicago,il,15-Oct-2024,Alex  Clark,Avery Allen ,ATOS,brown,adult,middle,Gi,victory,DQ,03,8 pts,1,0 , 600 ,Ref A. Cruz,mat 7,video review
+834,WINTER INVITATIONAL,Phoenix , CA,02/05/2022,MORGAN BAKER,Noah Davis ,Team Passos,purp,juv,Light-Feather, gi ,LOSS,SUB, 2,04,0.0,0,360 sec,Ref A. Cruz,012,
+835,regional classic,Denver,WA,25-Feb-2025,mia lee,Drew  Martinez,10TH PLANET,brn,Juvenile ,OPEN CLASS ,No-Gi,L,disq, 0,02,02, 2,420,Ref C. Patel,01,coach challenge
+836, City Cup, Phoenix, WA,27-Nov-2023,Sam  White,Chris Silva,NOVA UNIAO,brn,adult,hvy,No Gi,W,submission,2 , 2,0 ,0, 240 ,Ref D. Silva,07,medical timeout
+837,WINTER INVITATIONAL,Atlanta ,wa,07-20-2023,Elijah  Santos,SOPHIA CLARK,10th Planet,WHITE,ADULT,mh,GI,W,DQ,7 ,8,0 ,0,300 sec,Ref E. Brown,5,scoreboard check
+838, Summer Open,Chicago,il,2024/08/27,Harper Turner,Emma Young,gracie barra,brown,master 1,Medium-Heavy,No-Gi,WIN,submission,3,0,3 ,none,10m 00s,Ref E. Brown, 1,weight check cleared
+839,REGIONAL CLASSIC,Seattle ,il,19-Sep-2023, Blake Garcia,Parker Costa , atos ,Brown ,JUVENILE,FEATHER,GI,L,Points ,3 , 6,03,0,4m 00s,Ref E. Brown,5,bracket update needed
+840,STATE CHAMPIONSHIP,austin, CA,25-Apr-2024, Emma Brown,Jordan  White, BTEAM,Brown ,juv,Rooster ,No-Gi,victory,decision, 2, 2, 0, 0, 600 ,Ref C. Patel,06,scoreboard check
+841,SUMMER OPEN,SEATTLE,CA,03-04-2023,CHRIS YOUNG,Olivia Santos,unity jiu jitsu,BLUE,adult,HEAVY,NOGI,L,ADV,02,3 ,1,0 , 420 ,Ref D. Silva,M11,scoreboard check
+842,CITY CUP,SEATTLE,TX,09/30/2024,cameron martinez,Tyler Costa ,10th planet ,white,ADULT,heavy,No Gi,defeat,sub,3,03,3 , 0,600,Ref F. Garcia, 7,bracket update needed
+843,Grappling Grand Prix ,DALLAS, GA,Dec 12 2024,Avery  Young,Tyler Turner , Unity ,White ,Master1,light,No-Gi,victory,disq,2,7 pts,0,1 ,180 sec,Ref A. Cruz,1,
+844, State Championship,Phoenix , CA,09-08-2023,mason scott, Reese Smith,dream art ,blk,Master1,medium heavy,GI,loss,submission,03, 8, 3,, 420 ,Ref B. Kim, 4,
+845, Winter Invitational,Phoenix ,tx,03-Mar-2022,Avery Nguyen ,Ethan Wright,Atos Jiu Jitsu,Purple ,Master2,Ultra-Heavy,GI, w ,dec,03,2 , 1,0,4:00,Ref F. Garcia, 4,
+846, Winter Invitational,Atlanta,ca,Mar 22 2023, Taylor Young,Emma Davis ,NOVA UNIAO,Brown ,adult,ultra heavy,GI,victory,submission,8,0,1.0,2,480,Ref D. Silva, 8,bracket update needed
+847,city cup,san diego,co,11-20-2023,TYLER GARCIA,JORDAN LOPEZ,TEAM PASSOS,White ,ADULT,open class,No-Gi,WIN,sub,10 ,8,3.0,0,8m 00s,Ref F. Garcia,3,medical timeout
+848, Summer Open,seattle, TX,Feb 02 2023,Sam  Martinez, Reese Hall,10P,black,Master2,Medium-Heavy,GI,WIN,Submission ,0 ,0 pts,0.0, 0, 240 ,Ref F. Garcia,mat 11,late start
+849,City Cup,AUSTIN,FL,15-May-2024, Ava Smith, Riley Hall,GracieBarra,BLUE,master 2,Medium-Heavy,No-Gi, w ,pts,10 pts,4,0 ,1,180 sec,Ref F. Garcia,mat 8,scoreboard check
+850,Summer Open , Chicago,CO,01/22/2024,Noah Lopez ,mia nguyen,dream art ,Brown ,m2,LIGHT, gi ,loss,Decision ,00, 7, 3,2,600,Ref B. Kim,5,medical timeout
+851,CITY CUP, Miami,GA,27-Dec-2023,Cameron Allen ,Chris Walker ,Team Passos,Brown ,JUVENILE,OPEN CLASS ,No Gi, w ,adv, 10,00,1.0,0 , 180 ,Ref F. Garcia,12,
+852,City Cup ,san diego, CO,Oct 27 2022,MASON SMITH,Chris Johnson ,FightSports,BLACK,Juvenile ,HEAVY,No Gi,L,Ref Decision,3, 3,1 ,0 ,480 sec,Ref F. Garcia,2,late start
+853,Regional Classic, Seattle, CA,04-23-2024,Tyler  Costa,MASON WALKER,b-team ,blue,master 1,ultra heavy,NOGI, l ,Submission ,08, 2,3, 0,180,Ref C. Patel, 11,late start
+854,Summer Open, Phoenix,CO,2024/10/17, Logan Walker,,Alliance,brown,MASTER 2 ,fthr,Gi,defeat,decision,06, 8,2.0, 2,600,Ref C. Patel,2,weight check cleared
+855,winter invitational,San Diego,ga,2023/11/11,HARPER HALL,Ella Adams,fight sports,blk,Master2,medium heavy, gi ,loss,PTS,00,2 pts, 0,0,360,Ref A. Cruz,mat 3,bracket update needed
+856,STATE CHAMPIONSHIP, Miami,FL,07-05-2023,MASON SANTOS,Noah  Nguyen,Art of Jiu Jitsu,blu,Adult ,feather, gi ,win,sub,10 ,2 ,0,0 ,240 sec,Ref C. Patel,M5,scoreboard check
+857,Grappling Grand Prix,Atlanta ,GA,Apr 01 2023,Emma Green,BLAKE SILVA, Unity ,Black ,juv,Open,No-Gi,loss,disq,3,0 ,1 ,-,600,Ref F. Garcia,5,weight check cleared
+858, City Cup,HOUSTON,TX,06-18-2022,SKYLER KING,AVERY WALKER,Nova Uniao,White ,master 1,lgt,GI,WIN,Decision ,7 pts, 2,3,1,600,Ref B. Kim,03,uniform warning
+859,state championship,Miami ,FL,08-Apr-2024,Parker  Lee,jordan nguyen,Nova Uniao,BLACK,Master2,open class,GI,L,ADV,6, 4,3.0,0,180 sec,Ref F. Garcia,09,
+860,grappling grand prix,Dallas,il,2022/12/31,SAM NGUYEN,Olivia  Walker, atos ,BLUE,Juvenile ,hvy,No-Gi,loss,Points , 7,8 pts,1,0 ,5m 00s,Ref E. Brown, 12,bracket update needed
+861,City Cup,Chicago , AZ,04-06-2024, Casey Hall,Harper Martinez,10th planet ,Black ,adult male,Light ,No Gi,LOSS,Submission ,6 ,08,3 ,0, 180 ,Ref D. Silva,M2,bracket update needed
+862,SUMMER OPEN, Phoenix,ga,2024/02/12, Ava Adams,riley king, alliance,blu,Juvenile ,lgt,Gi,WIN,DQ,02,3,1.0, 0,6:00,Ref A. Cruz,mat 8,uniform warning
+863,Summer Open,DENVER,ga,04-23-2022,Ella Young ,liam santos,Fight Sports,purple,Adult ,rooster,No Gi,loss,SUB,8 pts,4 ,3,1 ,4m 00s,Ref E. Brown,mat 4,medical timeout
+864,State Championship ,dallas, GA,01/16/2025,OLIVIA BAKER,Mason  Smith,Gracie Barra,Black ,m2,feather,No-Gi, l ,SUB,7 pts,06, 0,none,420 sec,Ref A. Cruz,4,uniform warning
+865,City Cup,atlanta,WA,2023-06-13,Drew  Patel,Mia Santos,Passos,brn,ADULT,Medium-Heavy,GI,W,unknown,8 pts,3,00,2,600 sec,Ref C. Patel, 1,video review
+866, Regional Classic, Austin,CO,Jan 29 2023,noah adams,parker white,FIGHTSPORTS,BROWN,JUVENILE,roost,Gi,loss,SUB,0 , 0,03,0 ,240,Ref B. Kim, 12,late start
+867,winter invitational,SEATTLE,TX,02-Jan-2025,Ella  Smith,Avery Green ,Atos,blu,Master1,Feather ,GI, w ,Advantage ,3 ,4 pts,00, 0,420 sec,Ref C. Patel, 1,scoreboard check
+868,REGIONAL CLASSIC,San Diego,fl,2023/03/28,casey santos, Jordan Adams,Atos Jiu Jitsu,White ,MASTER 1 ,hvy,No Gi,defeat,Points ,8 pts,0, 1,1 , 420 ,Ref E. Brown,01,uniform warning
+869, State Championship,DENVER, CA,06-14-2023,Elijah  Lee, Tyler Nguyen,Alliance,Blue ,JUVENILE,open class,No Gi,loss,ADV,00,4,1, 1, 180 ,Ref F. Garcia,M5,
+870,STATE CHAMPIONSHIP,Houston ,fl,Feb 02 2023,Elijah Johnson, Mia Silva,Atos,Purple ,Master2,medium heavy,GI,WIN,pts,0 pts, 0,01,0 ,240,Ref A. Cruz,M8,bracket update needed
+871,Winter Invitational,denver,AZ,May 07 2022,Elijah Davis,Logan  Santos,fight sports,black,JUVENILE,absolute, gi ,victory,SUB, 9, 4,1.0, 0,360,Ref E. Brown,mat 3,
+872,Regional Classic, San Diego,IL,06-Jul-2022, Blake Patel, Olivia Smith,unity jiu jitsu,blk,Master1,light feather,No Gi, w ,SUB,0, 4,02,0,240 sec,Ref B. Kim,mat 9,
+873,Summer Open ,Austin,il,2023-10-30, Tyler Lee,unknown,UNITY,blue,adult,Heavy ,No-Gi, w ,advantage,8 pts,04,0,0 ,240 sec,Ref A. Cruz,7,
+874,City Cup,seattle, AZ,01-15-2023,Morgan  Patel,Drew Costa ,DREAMART,brn,m1,MEDIUM HEAVY ,Gi,win,sub,10,0,1.0, 1,180,Ref F. Garcia,M1,bracket update needed
+875,SUMMER OPEN,HOUSTON,GA,2022/02/07,drew hall,unknown,NovaUniao,WHITE,ADULT,heavy,No-Gi, w ,adv,6 ,8 pts,1 , 0,8:00,Ref D. Silva,M11,
+876,STATE CHAMPIONSHIP,Dallas ,fl,12/15/2023, Ella White,AVA WALKER,DreamArt,PURPLE,adult male,Feather ,Gi,victory,D.Q.,6, 5,3, 1,300 sec,Ref E. Brown,09,weight check cleared
+877,Regional Classic ,SAN DIEGO,co,05-09-2024,Lucas Young,Riley  Patel,check mat,white,master 2,mh, gi ,defeat,decision,0,2 pts,1.0,0,3:00,Ref A. Cruz,mat 2,coach challenge
+878, State Championship,Dallas , TX,02/03/2024, Morgan Silva,Harper  Young,check mat,Brown ,Adult ,Open,No-Gi, l ,Ref Decision,0,0 pts,1 ,-, 360 ,Ref B. Kim, 2,
+879,Regional Classic ,Phoenix ,AZ,02-May-2023,taylor santos,Elijah Martinez ,10TH PLANET,blue,Master2,rooster,NOGI,W,Ref Decision, 2,6,0 , 2, 480 ,Ref D. Silva,09,medical timeout
+880,GRAPPLING GRAND PRIX,Seattle ,FL,2025/02/04, Cameron Adams,Chris Turner, Unity ,wht,m1,mh,Gi, w ,DQ,03, 5,00, 2,7:00,Ref F. Garcia,011,
+881,State Championship,CHICAGO,GA,Sep 20 2022,MORGAN SILVA,Taylor Santos ,Gracie Barra,blu,MASTER 1 ,ROOSTER,GI,W,SUB, 8,7 ,0, 1,240,Ref B. Kim,03,
+882, Summer Open,Houston ,CO,11-Apr-2023,AVERY CLARK,Lucas  Hall,ALLIANCE ,Blue ,m2,medium heavy,GI,victory,SUB, 8,08, 0,1 ,10m 00s,Ref F. Garcia, 2,
+883,Regional Classic, Miami, IL,2022-07-17,Blake Scott ,Ethan Lopez,Alliance,blue,m2,Rooster ,Gi,L,D.Q.,6,2 ,3,2 , 600 ,Ref A. Cruz,M12,video review
+884,STATE CHAMPIONSHIP,denver, TX,03-31-2024,Reese Hall,Logan  Smith, BTEAM,BLACK,Adult ,Medium-Heavy,NOGI,W,submission,03,2,1.0, 1,180 sec,Ref C. Patel, 5,
+885, State Championship,San Diego , GA,2024-07-31,ETHAN ADAMS,Logan Lee ,AOJ,blue,Adult ,open class,NOGI,victory,pts,06,0 pts, 0,1,420 sec,Ref A. Cruz,9,medical timeout
+886,State Championship,atlanta,wa,03-26-2022,ella hall,Chris Silva ,team passos ,black,ADULT,Middle , gi ,win,dq,0,0, 3,1,7m 00s,Ref A. Cruz, 2,uniform warning
+887,STATE CHAMPIONSHIP,MIAMI, FL,11-Nov-2024, Sam Santos,logan baker,Unity,blue,MASTER 2 ,Middle ,Gi,WIN,SUB,6 , 3,3.0,1 , 360 ,Ref B. Kim,3,uniform warning
+888,Regional Classic ,Dallas,CO,2023-10-07,Skyler King,Drew  Silva,ALLIANCE ,PURPLE,juvenile,Light ,No Gi,victory,PTS,02,5,1,1 ,3:00,Ref A. Cruz,08,late start
+889,Regional Classic, Miami,co,02/27/2025,sophia costa, Chris Lee,Dream Art,blu,Master1,LIGHT FEATHER ,No-Gi, l ,SUB,00,06,,0,300,Ref F. Garcia,05,medical timeout
+890,grappling grand prix,san diego,tx,17-Jul-2022,Ethan Walker ,jordan silva,CHECKMAT,BLUE,juv,lf,No Gi,LOSS,adv,07,7,3, 2,5m 00s,Ref C. Patel,02,
+891,regional classic,atlanta, AZ,2023/05/05, Ella Brown,avery walker,GracieBarra,blue,Master2,open class,No Gi,defeat,submission,0 pts,00,3 , 1,360,Ref D. Silva,M11,video review
+892,City Cup, Miami,GA,16-Mar-2024,Ethan Baker ,REESE KING,FightSports,White ,master 1,MIDDLE,NOGI,defeat,points,0 ,04,n/a,0 ,6m 00s,Ref A. Cruz, 5,coach challenge
+893,REGIONAL CLASSIC,SEATTLE, GA,2022-08-02,Tyler Lee , Blake Baker,team passos ,BLACK,Master1,roost,Gi,defeat,advantage,3 pts,2 ,1 ,0,480,Ref B. Kim,M10,late start
+894,state championship,Miami ,ca,Oct 17 2022,casey allen,Emma Wright ,Passos,brown,m2,Middle , gi ,WIN,Ref Decision,07,7 pts,,2,360,Ref A. Cruz,2,late start
+895,GRAPPLING GRAND PRIX,Austin ,fl,05-11-2024,Tyler Baker ,Morgan Clark,dream art ,Black ,adult male,Rooster ,No Gi,LOSS,Advantage ,6 ,00,,1 ,7:00,Ref D. Silva,010,
+896,Winter Invitational ,Dallas ,TX,2022-08-16,Taylor  Scott, Casey Baker,ALLIANCE ,brn,MASTER 2 ,OPEN CLASS ,No Gi,W,disq,7 ,0 ,2.0,2, 420 ,Ref C. Patel,04,bracket update needed
+897,GRAPPLING GRAND PRIX,PHOENIX,wa,14-Aug-2024, Morgan Turner,drew scott,DREAMART,blu,m2,Rooster , gi ,victory,points,10 , 2,00,0,420 sec,Ref C. Patel,010,coach challenge
+898,State Championship,DALLAS,tx,26-Jun-2024,Taylor  Martinez,Jordan White , BTEAM,black,Master1,medium heavy,No-Gi, w ,Advantage ,2 ,08,0.0, 2,5m 00s,Ref B. Kim,mat 7,late start
+899, Grappling Grand Prix,Miami ,tx,2022-07-22,Drew  King,Tyler  Wright,GracieBarra,Brown ,juvenile,Light ,GI,WIN,Decision ,9 pts,0,02,1,3m 00s,Ref C. Patel,4,bracket update needed
+900, Regional Classic,SAN DIEGO,ga,2022/11/15,Ella  Lopez,Ella  Johnson, BTEAM,purple,adult male,light feather,Gi, l ,SUB, 4, 0,00,1 ,180,Ref F. Garcia,11,weight check cleared
+901,city cup, Chicago,FL,01-04-2022,Morgan Martinez ,Jordan Walker,team passos ,brn,Adult ,lf,No Gi,LOSS,advantage, 4,08,1.0,0,360 sec,Ref F. Garcia,2,bracket update needed
+902,WINTER INVITATIONAL,Atlanta , WA,21-Jan-2023,Sam Adams, Riley Silva,Art of Jiu Jitsu,Brown ,JUVENILE,LIGHT, gi , w ,PTS,8 pts, 0,2 ,n/a,6m 00s,Ref D. Silva, 7,
+903,regional classic,San Diego , FL,06/23/2022,lucas king,avery patel,DreamArt,WHITE,ADULT,ROOSTER,No Gi, w ,SUB,03,5 pts, 2,1 ,300 sec,Ref F. Garcia,12,
+904,GRAPPLING GRAND PRIX,Chicago ,TX,19-Nov-2024,Skyler  Scott,Taylor Costa,DreamArt,blk,adult,mid,No-Gi,loss,dq,5 pts, 0,, 2,8:00,Ref C. Patel,mat 10,
+905, City Cup,AUSTIN,CO,03-Jun-2023,Jordan Clark ,LOGAN CLARK,ALLIANCE ,blk,adult male,LIGHT FEATHER ,Gi,W,ADV, 9,0,2.0, 1,7:00,Ref E. Brown, 1,late start
+906,SUMMER OPEN, Miami,il,22-Oct-2024,Sophia Costa,avery king,Unity,Purple ,juv,rooster,No-Gi, w ,dq,10 pts,05,1.0,none,240 sec,Ref B. Kim,mat 12,medical timeout
+907,WINTER INVITATIONAL,denver,WA,22-Mar-2024,SOPHIA MARTINEZ,chris smith,NOVA UNIAO,Purple ,JUVENILE,ultra heavy,No-Gi, l ,adv,10 ,0,02, 1,7m 00s,Ref B. Kim,M8,weight check cleared
+908,regional classic, Atlanta,ga,2022/04/21,chris martinez,BLAKE CLARK,UNITY,BLUE,juvenile,LIGHT,No Gi,W,advantage,7 pts, 8,0 ,none,300,Ref C. Patel,M4,coach challenge
+909,Winter Invitational ,Seattle ,fl,08/21/2024,Morgan Santos,ETHAN HALL,FightSports,BLACK,Master1,Heavy ,NOGI,WIN,points,04,00, 3,1 ,7m 00s,Ref C. Patel, 4,medical timeout
+910,Summer Open,Phoenix ,ca,2022-06-26,Logan  Costa,Ava  Garcia,FIGHTSPORTS,wht,MASTER 1 ,uh,No Gi,win,D.Q.,5 pts,2 , 0,2 , 420 ,Ref F. Garcia,M5,late start
+911,winter invitational,Phoenix, AZ,11/01/2024,emma davis,SAM SANTOS,10th planet ,BLACK,Master1,LIGHT,No-Gi,win,Ref Decision, 9, 6, 1,0,180,Ref F. Garcia,mat 10,weight check cleared
+912,GRAPPLING GRAND PRIX,Seattle,az,03-02-2022,LOGAN ADAMS,Logan Wright,B Team,Purple ,Juvenile ,Open,No-Gi, l ,Points ,5, 3,0.0,NA, 240 ,Ref B. Kim, 2,medical timeout
+913,STATE CHAMPIONSHIP,austin,AZ,01/02/2023,NOAH MARTINEZ,Liam  Brown,ALLIANCE ,White ,adult,lgt,Gi,loss,Decision ,4 ,5 pts,0,0,6:00,Ref A. Cruz,M8,coach challenge
+914,WINTER INVITATIONAL,Miami ,CA,2025-01-12,Jordan  Brown,Tyler Lopez,check mat,Blue ,m2,Light-Feather,No-Gi,WIN,dec,5,2 pts,0 , 1, 360 ,Ref E. Brown,05,bracket update needed
+915,City Cup,Phoenix,CA,02/23/2024,SKYLER ADAMS,TBD,CheckMat ,PURPLE,Master1,rooster,Gi,defeat,n/a,2,0,0, 2,3m 00s,Ref E. Brown,010,
+916,Regional Classic,dallas,co,2022-01-03,MORGAN SMITH,Chris  Walker,Art of Jiu Jitsu,blu,JUVENILE,lf, gi ,loss,submission,3 ,05,0, 0,3m 00s,Ref F. Garcia,5,bracket update needed
+917,summer open,Miami , FL,2025/02/27, Olivia King,Mason  Costa,AOJ ,Blue ,m1,LIGHT FEATHER ,NOGI,win,Advantage ,0 ,00, 2, 2,600,Ref D. Silva,5,video review
+918, Grappling Grand Prix,DALLAS,CA,09-28-2022,lucas clark,lucas hall,ATOS,brown,ADULT,hvy, gi ,W,points,0 pts,04,3 ,0,480,Ref E. Brown,M11,scoreboard check
+919,Regional Classic ,San Diego, CO,18-Nov-2023,Sophia  Johnson,morgan young,CHECKMAT,black,juvenile,medium heavy,No-Gi,LOSS,points,00,0 ,00, 0, 420 ,Ref A. Cruz,05,
+920,WINTER INVITATIONAL,HOUSTON, AZ,Dec 17 2022,Chris  Johnson,MORGAN SMITH,10P,purp,Adult ,uh, gi ,win,sub,0,2,01,2 ,300,Ref F. Garcia, 12,
+921,State Championship, Atlanta,GA,2022-03-21,SKYLER GARCIA,LIAM HALL,DREAMART,wht,master 1,rooster,GI,victory,adv,2 , 0,0.0,0, 600 ,Ref A. Cruz,mat 5,
+922,City Cup,MIAMI, CO,Apr 21 2024,ethan johnson,Mason Green,Team Passos,purple,Master2,LIGHT,Gi,loss,decision,8 pts,8 ,00,1 ,3:00,Ref C. Patel,11,scoreboard check
+923,Winter Invitational,SEATTLE,WA,02/25/2025,Harper  Silva,Olivia Clark , Unity ,blue,Master2,Feather , gi ,defeat,ADV,4 , 0,03,0 ,4m 00s,Ref F. Garcia,011,
+924, City Cup,Phoenix ,FL,26-Aug-2022,avery green,alex davis, alliance,brown,juv,mid,No-Gi,LOSS,Ref Decision,8 pts,0 pts,1,0 ,360 sec,Ref D. Silva,mat 3,medical timeout
+925,Summer Open,San Diego,fl,07-22-2024, Cameron Clark, Logan Allen,Unity,purple,m2,ultra heavy,No Gi,W,decision,2,0 pts,0, 0,3m 00s,Ref A. Cruz, 6,video review
+926, City Cup,MIAMI,tx,10/28/2022,mia davis,Mason Nguyen ,gracie barra,Blue ,juv,Open,GI,W,advantage,6 ,8 ,00,0 ,600 sec,Ref B. Kim,M6,weight check cleared
+927,STATE CHAMPIONSHIP, Miami, WA,2024-11-28,AVERY SILVA,reese clark,nova união,blk,m2,lf, gi ,WIN,pts,7 pts,8,03, 0,10:00,Ref E. Brown,M3,scoreboard check
+928, Summer Open,Chicago ,IL,12/06/2022,Ella Lee,Drew  Costa,B Team,blue,m2,OPEN CLASS , gi ,win,Advantage ,8 ,4, 1,1 , 420 ,Ref B. Kim, 9,late start
+929,WINTER INVITATIONAL,SAN DIEGO,wa,2023-09-29,Drew  Lee,LOGAN COSTA,GracieBarra,BLUE,juv,absolute,No-Gi, w ,submission,10,3 pts,0.0,0, 480 ,Ref A. Cruz,mat 7,late start
+930,City Cup,seattle,wa,2024-04-10,Morgan Silva ,Jordan  Allen,b-team ,Black ,juvenile,ROOSTER, gi ,victory,sub,9 ,4 ,1.0,1,240,Ref F. Garcia,M3,scoreboard check
+931,SUMMER OPEN,Phoenix ,wa,15-Jan-2025,Morgan Lopez , Morgan Wright,Art of Jiu Jitsu,brown,adult male,absolute,No-Gi,L,sub,0 ,2,0.0,0 ,600 sec,Ref D. Silva,mat 10,
+932,City Cup, Atlanta, GA,12/05/2022, Cameron Scott, Parker Green, BTEAM,WHITE,juvenile,Rooster , gi ,victory,Advantage ,3 pts,7 pts,0.0,0 ,10m 00s,Ref F. Garcia,M11,uniform warning
+933, Summer Open,chicago,az,May 13 2022,Skyler Adams,Riley Costa, aOj ,blk,Juvenile ,Ultra-Heavy,GI,W,points, 2, 6,3 , 0, 240 ,Ref C. Patel,M1,medical timeout
+934,Regional Classic ,Atlanta , CO,12/08/2023,Sophia Brown,Sophia  Young,DreamArt,Brown ,adult,Feather ,GI,WIN,DQ,3 ,6 , 0,1 , 600 ,Ref B. Kim,012,uniform warning
+935,Grappling Grand Prix ,DENVER,tx,29-Nov-2022, Drew Baker,Cameron Allen,team passos ,purp,Adult ,Light-Feather,NOGI,win,decision,10,0,3 , 1, 240 ,Ref C. Patel,8,uniform warning
+936,grappling grand prix,Seattle ,CO,01-20-2022,Cameron  Garcia,OLIVIA KING,NovaUniao,WHITE,MASTER 2 ,Middle ,No-Gi,victory,SUB,10, 0,1,0,5m 00s,Ref F. Garcia,mat 12,uniform warning
+937,winter invitational, Dallas, AZ,12/08/2023,Sam Young ,Reese  Nguyen,10TH PLANET,black,JUVENILE,rooster,GI,L,DQ,3 , 0,00,1 ,180 sec,Ref C. Patel,M3,bracket update needed
+938,winter invitational,CHICAGO,co,10-Feb-2025,Harper  Smith,Casey Costa,AOJ,Purple ,MASTER 2 ,medium heavy, gi , w ,n/a, 3,4 pts, 1, 1,480,Ref C. Patel,03,scoreboard check
+939, City Cup,denver, GA,Apr 23 2022,Taylor  Costa, Logan Nguyen,check mat,Purple ,master 2,HEAVY,No-Gi,defeat,Ref Decision, 9,04,0.0,2 ,3m 00s,Ref C. Patel,6,
+940, Grappling Grand Prix, Denver, AZ,2023-06-29,Alex Martinez,CASEY PATEL,GracieBarra,Purple ,MASTER 1 ,hvy,No-Gi,L,sub,2 pts,06, 0, 0,300,Ref C. Patel,2,late start
+941, Grappling Grand Prix,Chicago,co,Mar 23 2022,RILEY MARTINEZ,Skyler Baker,ALLIANCE ,PURPLE,MASTER 2 ,ROOSTER,Gi,LOSS,ADV, 3,2 pts,0 ,0,7m 00s,Ref A. Cruz, 12,video review
+942,summer open,san diego, CA,Jan 08 2025, Elijah Hall,Alex Costa,Dream Art,purple,JUVENILE,FEATHER,GI, l ,Ref Decision,0,4 pts, 3, 1,10m 00s,Ref C. Patel,M7,weight check cleared
+943,SUMMER OPEN, Dallas,fl,Jan 29 2023,CASEY GARCIA,MIA DAVIS,10P,white,juvenile,MIDDLE,NOGI,defeat,,03,02, 2, 0, 480 ,Ref F. Garcia,12,scoreboard check
+944, Regional Classic,San Diego, WA,May 02 2023,Chris Walker ,Reese  Smith, alliance,blk,m1,LIGHT,No-Gi,W,Decision , 4,0 pts, 0, 1,360,Ref A. Cruz,04,late start
+945,city cup,Miami, FL,Aug 06 2023,Taylor  Nguyen,Casey Young ,dream art ,blue,adult,uh,Gi, l ,sub,3,8 ,1.0, 0,10:00,Ref B. Kim,1,
+946,Grappling Grand Prix ,DALLAS,AZ,10-02-2023,Taylor  King,ella hall,B Team,brn,MASTER 2 ,ULTRA HEAVY ,Gi, l ,points,3,0,1 ,n/a,180 sec,Ref D. Silva,mat 5,
+947,summer open,HOUSTON,TX,04-24-2023,Harper Davis,Emma Costa,Fight Sports,PURPLE,Adult ,Middle ,NOGI,victory,SUB,00,3,0.0,0,420,Ref A. Cruz,M5,uniform warning
+948,grappling grand prix,Dallas , IL,01/24/2022,Emma Hall ,Noah Johnson , Unity ,wht,Master2,MEDIUM HEAVY ,NOGI,LOSS,pts, 6,0,01,n/a,180 sec,Ref C. Patel,11,medical timeout
+949,Summer Open,DALLAS, AZ,29-Jun-2023,Blake Costa ,Casey Lee,gracie barra,PURPLE,JUVENILE,fthr,NOGI,victory,Decision , 2,06,2,0,5:00,Ref B. Kim,09,uniform warning
+950, Winter Invitational, Chicago, TX,09-16-2022,Sophia Costa,Cameron  Walker,CHECKMAT,Black ,Master2,LIGHT FEATHER ,NOGI,WIN,Advantage , 9, 2,02,2, 300 ,Ref F. Garcia,6,late start
+951,SUMMER OPEN,Atlanta ,CA,19-Sep-2022,avery green,MASON DAVIS,FIGHTSPORTS,white,Master1,Ultra-Heavy,NOGI,L,DQ,02, 2,3.0,0, 600 ,Ref B. Kim,2,scoreboard check
+952,State Championship,Phoenix,AZ,Jul 24 2024,Jordan Martinez,Elijah Wright , atos ,WHITE,Master1,mh,GI,victory,Points , 5,5,3 ,none,5:00,Ref D. Silva,8,
+953,Grappling Grand Prix ,denver,FL,05-13-2024,Harper Lee , Parker Nguyen,dream art ,blk,juvenile,ULTRA HEAVY ,No Gi,W,D.Q.,07,08,0.0,0 ,300 sec,Ref B. Kim, 1,medical timeout
+954, State Championship, Chicago,GA,Sep 27 2022, Ella Brown,emma hall,ATOS,BLACK,MASTER 2 ,lgt,NOGI, l ,D.Q.,5 pts, 0,00,0 ,300,Ref B. Kim,09,video review
+955,WINTER INVITATIONAL, Dallas,wa,Jan 25 2022, Parker Nguyen,LIAM KING, GB ,WHITE,JUVENILE,Feather ,No-Gi,LOSS,sub,3 pts, 0,1 , 2,10:00,Ref B. Kim,08,scoreboard check
+956,Grappling Grand Prix ,HOUSTON,FL,2024/08/29,Reese  Hall, Taylor Patel,dream art ,Purple ,Adult ,mh,GI,victory,ADV,5 , 0, 2, 0,8:00,Ref E. Brown,1,late start
+957,state championship,San Diego ,tx,06-11-2024,Mia Santos,Harper Adams,AOJ ,Blue ,juv,Open,GI,LOSS,advantage, 0,06, 0,0,4m 00s,Ref F. Garcia,03,scoreboard check
+958,regional classic,SEATTLE,IL,06-08-2022,chris hall,Alex  White,check mat,Brown ,ADULT,heavy,No Gi,L,DQ,02,2 pts,0 ,0 ,4:00,Ref B. Kim, 1,
+959,city cup,MIAMI, CO,02-15-2023,Elijah Allen ,Ava  Turner,team passos ,WHITE,adult male,Open,GI,loss,pts,5,2 pts,1,0,240 sec,Ref B. Kim,mat 7,bracket update needed
+960,SUMMER OPEN,seattle, WA,2022/07/05, Drew Johnson,Drew Wright , aOj ,WHITE,Juvenile ,lgt, gi , w ,Points ,7 pts, 2,0 , 1, 180 ,Ref E. Brown,08,late start
+961, Summer Open,Houston ,IL,2022-01-12,Skyler Young ,ella king,B Team,BROWN,master 1,Open, gi ,loss,unknown, 9,03,, 1,4m 00s,Ref B. Kim,mat 6,late start
+962, Winter Invitational,miami, CO,11-17-2024, Logan Adams, Skyler Costa,Checkmat,purple,ADULT,open class,No-Gi,defeat,Advantage ,2, 0, 1, 1,180,Ref D. Silva,010,
+963,Grappling Grand Prix ,Denver ,WA,2022-08-05,Skyler  Brown, Riley Martinez,DREAMART,PURPLE,juvenile,uh,GI,win,decision,0 ,8,0 ,1 ,240 sec,Ref B. Kim,2,
+964,WINTER INVITATIONAL,Miami,ca,2022-03-21,harper lee,emma santos, aOj ,black,master 1,uh,GI,victory,ADV,0 ,2 ,3 ,1, 480 ,Ref D. Silva, 12,video review
+965, Grappling Grand Prix,Chicago , CO,08-20-2022,harper scott, Logan Turner,gracie barra,blue,juv,ULTRA HEAVY ,No Gi, w ,pts,0 , 7, 0, 2,5m 00s,Ref C. Patel,9,medical timeout
+966,City Cup, San Diego,CO,07-29-2023,ALEX YOUNG,Alex Turner,team passos ,blk,m2,fthr,Gi,victory,DQ,5 pts, 7, 0,0, 480 ,Ref E. Brown,07,
+967,State Championship, Dallas, CA,2022-04-12, Blake Davis,Elijah Young,B Team,WHITE,juvenile,rooster,NOGI,W,points,9 ,4,1 , 0, 480 ,Ref D. Silva,M2,medical timeout
+968,CITY CUP,Denver,co,2022-03-17,Mia Hall, Ava Allen,CheckMat ,brown,adult male,Open,No Gi,win,Points ,9,00,00,2 , 480 ,Ref E. Brown,mat 3,weight check cleared
+969,REGIONAL CLASSIC,Seattle ,fl,2023/05/04,PARKER SCOTT,Lucas Davis ,Alliance BJJ,blu,juvenile,roost,No Gi,defeat,sub,04, 0, 1, 1,8m 00s,Ref A. Cruz,mat 2,weight check cleared
+970,REGIONAL CLASSIC, Seattle,ca,2024/03/02,Sophia Brown,sophia patel, Unity ,Blue ,adult male,Middle ,No-Gi, l ,SUB,02,07,0 ,-,5m 00s,Ref E. Brown,M10,uniform warning
+971,Summer Open,Dallas , IL,08-Dec-2022, Logan Allen,Avery Scott,gracie barra,Blue ,Master2,ultra heavy,Gi,win,advantage,7 ,3 pts,0 ,0 ,4m 00s,Ref E. Brown,mat 12,weight check cleared
+972,summer open,Austin , IL,01/15/2025,OLIVIA WALKER,Chris  Nguyen,dream art ,Purple ,m1,MEDIUM HEAVY , gi ,win,Ref Decision,3 pts,0, 0,1 , 600 ,Ref E. Brown,mat 6,bracket update needed
+973,Summer Open ,Atlanta , IL,2022-02-27,noah hall,Mason Green, Unity ,purp,MASTER 2 ,LIGHT,GI,defeat,Submission , 3, 8,0.0, 0,480,Ref D. Silva,mat 7,
+974,City Cup ,Phoenix, WA,06-03-2022,AVA TURNER,Parker  Brown, atos ,black,master 1,MEDIUM HEAVY ,No Gi, w ,DQ,07,8,1 ,1 ,7:00,Ref F. Garcia,06,video review
+975,City Cup,Denver, AZ,20-Dec-2022,Lucas  White,ETHAN WHITE,CHECKMAT,wht,Juvenile ,medium heavy, gi ,win,DQ,6 , 6,00,1 ,5m 00s,Ref F. Garcia,4,medical timeout
+976,Winter Invitational,Atlanta,co,10-07-2024, Taylor Adams,casey santos,Checkmat,Blue ,juv,LIGHT FEATHER ,No-Gi, l ,adv,10 pts,07, 2,2 ,8m 00s,Ref D. Silva,09,
+977,state championship, Atlanta,ga,10-02-2022,liam turner,CASEY BAKER,Gracie Barra,Brown ,Master1,middle,No-Gi,loss,Ref Decision,6 ,7 pts,3.0, 1, 180 ,Ref E. Brown,07,scoreboard check
+978,City Cup,Atlanta ,CA,06/03/2024,RILEY SCOTT,Taylor Nguyen ,Gracie Barra,White ,MASTER 1 ,mid,No-Gi,victory,advantage, 8,6 pts,0, 2,360 sec,Ref E. Brown, 3,bracket update needed
+979,summer open, Seattle,WA,04-20-2024,avery patel,ella lopez, atos ,Black ,juvenile,ultra heavy, gi , w ,n/a,5 pts,3 , 2,1, 240 ,Ref A. Cruz,M8,bracket update needed
+980,Grappling Grand Prix ,Miami,tx,14-Oct-2024, Jordan Costa,mia clark,AOJ ,black,Adult ,Light , gi ,win,sub,6 ,0 pts,0,2 ,180,Ref C. Patel,mat 7,uniform warning
+981,grappling grand prix,DALLAS,TX,2024-06-25,Chris Clark ,olivia clark,Unity,BROWN,master 2,ULTRA HEAVY ,GI, l ,submission,5 , 3, 1,n/a,180,Ref F. Garcia,3,weight check cleared
+982,SUMMER OPEN,AUSTIN, AZ,11/30/2024,Riley Brown ,DREW BROWN,Art of Jiu Jitsu,White ,MASTER 2 ,Feather ,Gi,WIN,ADV,03,5 pts,01, 2,5m 00s,Ref B. Kim,mat 8,
+983,STATE CHAMPIONSHIP,SAN DIEGO,IL,2022-02-03,LUCAS YOUNG, Alex Martinez,Alliance,PURPLE,Master1,rooster,No-Gi,victory,decision,05, 8, 0,1 , 480 ,Ref A. Cruz,M6,weight check cleared
+984,CITY CUP,DALLAS,az,Jul 12 2022,Parker  Johnson,Chris  Young,NovaUniao,Brown ,Juvenile ,fthr,Gi,WIN,dq,10,2 ,1, 0,8:00,Ref A. Cruz,mat 1,bracket update needed
+985,Summer Open, Denver, CO,2023-10-11,Jordan  Garcia,DREW CLARK, aOj ,BLUE,m1,light feather,NOGI,WIN,D.Q.,0,0 ,1 ,0, 480 ,Ref B. Kim,08,coach challenge
+986, State Championship,Seattle ,FL,08/05/2024,taylor martinez,EMMA TURNER,ALLIANCE ,Blue ,adult male,ULTRA HEAVY ,No Gi, l ,pts,2,02,3 , 0,4:00,Ref B. Kim,M1,late start
+987,Summer Open , Austin,AZ,2022-11-08,Lucas Johnson ,ALEX DAVIS,10th planet ,white,juvenile,light feather,Gi,loss,disq,6,7 pts,0,1,480,Ref F. Garcia,M1,bracket update needed
+988,CITY CUP,denver,CO,Jan 12 2024,Skyler  Garcia,Ava Brown,NOVA UNIAO,blk,adult,Heavy ,NOGI, w ,adv,04,2 ,2.0,0 ,8m 00s,Ref F. Garcia,mat 12,
+989, State Championship,Dallas ,az,06-Mar-2023,liam adams,skyler santos,fight sports,brown,ADULT,FEATHER,NOGI,win,points,6,0 pts,0.0,0, 180 ,Ref A. Cruz,mat 5,scoreboard check
+990, Regional Classic,austin,il,07-Sep-2024,Liam Green,Jordan  Walker,gracie barra,Brown ,adult male,Light ,NOGI,win,submission,10,3 pts, 2, 1, 420 ,Ref E. Brown,mat 10,weight check cleared
+991,WINTER INVITATIONAL,Atlanta ,az,Mar 05 2022, Logan King,Ella Santos ,ATOS,purple,adult male,Light ,No Gi,L,D.Q., 2,0 pts, 0, 0,420,Ref C. Patel,M7,
+992,GRAPPLING GRAND PRIX,houston, IL,23-Mar-2022,Cameron  Green,skyler scott, atos ,purp,m2,Heavy , gi ,loss,ADV, 2, 2,0,1,5m 00s,Ref B. Kim, 3,weight check cleared
+993,GRAPPLING GRAND PRIX, Austin,ga,2022/04/07, Taylor Lopez,MASON DAVIS,nova união,Blue ,m2,Ultra-Heavy,Gi,WIN,unknown, 10,2 pts,1,0,3m 00s,Ref F. Garcia,010,weight check cleared
+994,Regional Classic , Chicago, CO,Jul 29 2022, Blake Clark,Lucas  Young,Gracie Barra,Brown ,m1,LIGHT,Gi,loss,advantage,5 pts,03, 2, 0, 300 ,Ref E. Brown,12,medical timeout
+995,grappling grand prix, Phoenix, FL,2022/10/08,SKYLER HALL,Taylor Wright ,fight sports,BROWN,juv,ULTRA HEAVY ,GI,win,DQ,00,6,2.0,1,10:00,Ref C. Patel,1,bracket update needed
+996, City Cup,Miami , CA,2024-03-27,Taylor Lee , Casey Scott,Gracie Barra,White ,Adult ,LIGHT, gi ,defeat,advantage,6 ,2,,2,240 sec,Ref E. Brown,mat 1,
+997,Summer Open ,Miami,fl,07/13/2024,NOAH JOHNSON,Drew Wright ,UNITY,Black ,adult male,heavy,No Gi,loss,PTS,00,5,0.0, 1,300,Ref F. Garcia, 8,
+998,Grappling Grand Prix,AUSTIN,IL,04-19-2023, Ava Johnson, Casey Baker,Passos,purp,adult male,HEAVY,No-Gi,LOSS,D.Q.,2 , 5,0,0 ,180,Ref C. Patel,M4,weight check cleared
+999, Winter Invitational,houston,ca,09/10/2022,RILEY LEE,Harper Patel,Fight Sports,BROWN,Adult ,rooster,GI,victory,disq,2,3,0 , 0,600 sec,Ref E. Brown,011,
+1000,winter invitational, Seattle, AZ,Oct 24 2022,Olivia  Young,JORDAN YOUNG,team passos ,white,Juvenile ,feather,NOGI,W,dec,10 pts,0,1,none,420,Ref D. Silva,2,late start
+1001,Summer Open,San Diego,FL,Oct 19 2022, Olivia Turner,Skyler Green, aOj ,White ,ADULT,Light-Feather,GI,LOSS,SUB,9 ,6 ,0, 0,300 sec,Ref F. Garcia,M3,
+1002, Regional Classic,Chicago,AZ,02-27-2022,Liam Baker,Sophia  Santos, alliance,wht,adult,ROOSTER,No Gi,WIN,decision,7, 2,0 , 2,300,Ref B. Kim,mat 11,weight check cleared
+1003,Regional Classic,austin,ca,04/18/2024,Alex  King,Taylor Scott,Unity,BLACK,m1,feather,No Gi, w ,Decision ,10 ,03,0.0,2,480,Ref A. Cruz, 8,
+1004,Grappling Grand Prix ,SEATTLE,FL,08-11-2023,tyler lee,avery hall,Fight Sports,BLUE,MASTER 1 ,LIGHT FEATHER ,No Gi, l ,SUB,6 ,6 pts,, 0,7:00,Ref C. Patel,08,uniform warning
+1005, Summer Open, Denver,TX,Mar 29 2023,NOAH SMITH,avery clark,AOJ,purple,m2,MEDIUM HEAVY ,NOGI, l ,sub,8 pts,02,0.0,0 ,8:00,Ref C. Patel, 1,coach challenge
+1006,WINTER INVITATIONAL,Chicago,wa,04-Apr-2024, Jordan Patel,Avery Allen , aOj ,blue,Adult ,rooster,NOGI,defeat,dec,09, 2,0.0,0,420,Ref F. Garcia, 4,uniform warning
+1007,Summer Open,HOUSTON,ga,11/11/2023,emma lee,ava lee,B-Team,purp,m1,MEDIUM HEAVY ,No Gi,defeat,decision,9,0 ,2.0, 1, 300 ,Ref A. Cruz,mat 7,video review
+1008,state championship, Seattle,ga,2023/12/13,Jordan Johnson, Parker Clark,Atos Jiu Jitsu,Purple ,master 1,lgt,No-Gi, w ,Decision ,3 ,7, 3, 1,6:00,Ref F. Garcia,7,late start
+1009,Grappling Grand Prix , Seattle, TX,06-21-2024, Lucas White,Ava  White,10th Planet,Black ,MASTER 2 ,HEAVY, gi , w ,advantage,4,03,n/a,,300 sec,Ref A. Cruz,M12,medical timeout
+1010,Regional Classic ,seattle,co,01/19/2023,CAMERON GARCIA,TAYLOR WRIGHT, Unity ,BROWN,Juvenile ,MIDDLE,No Gi,W,Submission ,10 ,00, 1,1 ,300 sec,Ref B. Kim, 11,
+1011, Summer Open,denver,il,01-14-2025,chris brown,Taylor Allen,10TH PLANET,White ,Juvenile ,feather, gi ,WIN,sub, 0,00,3 , 1,4:00,Ref A. Cruz,4,medical timeout
+1012,city cup,Houston ,AZ,2024/03/29,Ella  Costa,reese king,team passos ,Brown ,MASTER 1 ,LIGHT,NOGI,L,PTS,2,03,,0 ,8m 00s,Ref A. Cruz,9,medical timeout
+1013,CITY CUP, Atlanta,il,Feb 01 2024,HARPER SMITH,Riley Scott ,ALLIANCE ,BLACK,Juvenile ,ROOSTER,No Gi,WIN,D.Q.,02,6, 2, 2,8:00,Ref E. Brown, 3,
+1014,Winter Invitational,CHICAGO, GA,Feb 20 2023,Sam Brown, Tyler White,10TH PLANET,White ,m2,rooster,No Gi,W,dq,6 ,07,1,2,3m 00s,Ref E. Brown, 6,late start
+1015,Grappling Grand Prix,Austin,CO,30-Jan-2025,parker brown,blake wright,NOVA UNIAO,Purple ,master 1,mh,Gi, l ,advantage,7 , 0,,1 ,180 sec,Ref C. Patel, 11,medical timeout
+1016,City Cup ,Houston,wa,2023/06/28,Reese  Wright,Cameron  Lee,dream art ,BLACK,ADULT,HEAVY,NOGI,loss,PTS,2 , 7, 0,2 ,5m 00s,Ref D. Silva,mat 7,weight check cleared
+1017,REGIONAL CLASSIC,Seattle ,ca,2022/03/01, Skyler King,Skyler Lee, aOj ,white,juv,mid,No Gi, l ,pts,09,0 pts,3.0,0,4m 00s,Ref A. Cruz, 8,video review
+1018, Winter Invitational,denver,ca,2022-02-14,EMMA COSTA,Skyler Johnson,CheckMat ,brn,m2,rooster,No-Gi,win,SUB,8 pts, 6,01,,4m 00s,Ref E. Brown,6,coach challenge
+1019, Winter Invitational,San Diego,wa,01/10/2022, Alex Baker,Chris  Costa,DREAMART,blue,Adult ,light feather, gi , w ,n/a,2, 7, 3, 1, 360 ,Ref A. Cruz,012,weight check cleared
+1020,Summer Open ,Phoenix, CO,2022-06-08, Ethan Wright,Blake Smith ,Gracie Barra,brn,master 1,light feather,Gi,WIN,sub, 8,,1, 0,600,Ref D. Silva, 11,
+1021,Summer Open ,chicago,ca,May 26 2024,Elijah Adams,SKYLER WHITE,Team Passos,BLUE,adult male,Heavy ,No Gi,L,sub,06,0 ,02,0 ,180,Ref C. Patel,9,medical timeout
+1022, Summer Open,AUSTIN, WA,07-Feb-2022,Jordan  Baker,Ethan  Green,TEAM PASSOS,blk,JUVENILE,Feather ,No Gi, w ,DQ,4 pts, 2, 0,0 ,240 sec,Ref B. Kim,M1,weight check cleared
+1023,summer open,Houston, AZ,08-May-2023,Chris Walker ,Skyler  Johnson, aOj ,wht,master 2,fthr,GI, l ,Points ,4 ,4,0,0 ,6:00,Ref F. Garcia,M5,video review
+1024,Summer Open,Austin, GA,09/30/2022,Avery Young ,ETHAN LEE,gracie barra,Brown ,JUVENILE,rooster,No Gi,win,decision,2 pts,7 , 2,0,600,Ref D. Silva,8,coach challenge
+1025,City Cup,Miami,TX,Sep 24 2024, Liam White,harper green,Fight Sports,brown,Master2,middle,No-Gi,victory,dec,0 ,7, 0,0,360,Ref A. Cruz, 3,coach challenge
+1026,grappling grand prix,Houston , IL,2023-02-24,jordan patel,Mason  Davis,unity jiu jitsu,WHITE,adult male,open class,Gi,win,DQ,2 , 6, 3, 2,240,Ref C. Patel,M2,late start
+1027,Grappling Grand Prix,Dallas ,az,Jan 07 2023,Elijah Hall ,TBD,Dream Art,blk,MASTER 2 ,ultra heavy,NOGI,W,D.Q.,0 ,6,02, 2, 180 ,Ref B. Kim,mat 10,
+1028,City Cup ,Austin, CO,2022-08-04,morgan young, Noah Turner, alliance,PURPLE,Adult ,Middle , gi ,loss,Ref Decision,3 ,4, 2, 1,5m 00s,Ref D. Silva,M6,weight check cleared
+1029,City Cup,Houston,GA,06-24-2024,Skyler Brown ,cameron silva,Alliance BJJ,BLUE,MASTER 2 ,middle,NOGI,W,DQ, 10,6,02,1 ,180 sec,Ref E. Brown,mat 4,scoreboard check
+1030,CITY CUP, Austin, CA,12/11/2023,ella white,alex hall,Team Passos,brn,adult male,Heavy ,NOGI, l ,Advantage ,7 pts,8 pts,3 , 2,480,Ref E. Brown, 3,scoreboard check
+1031,Summer Open,Austin , GA,2022-07-21,Tyler Martinez , Liam Martinez,TEAM PASSOS,White ,juvenile,Light-Feather, gi , l ,DQ,6 ,8,0,2,300,Ref A. Cruz,6,weight check cleared
+1032,Winter Invitational,Chicago,il,01/18/2023,Sam  Davis,Alex Turner ,gracie barra,WHITE,Adult ,FEATHER,No-Gi,victory,sub,10 ,04,1 ,1 ,600,Ref B. Kim,M4,weight check cleared
+1033,GRAPPLING GRAND PRIX,SEATTLE,il,2023-12-06,Harper Garcia,Riley Scott ,UNITY,blue,master 2,heavy,NOGI,win,ADV,10,0 ,0.0,1,240,Ref F. Garcia,07,video review
+1034,Summer Open,PHOENIX,az,2023-02-06, Morgan Smith,alex nguyen,Unity,Blue ,adult,heavy,Gi,loss,SUB,3 pts,0 pts,00,1, 420 ,Ref E. Brown,6,
+1035,grappling grand prix, Dallas, FL,11/12/2022,SOPHIA COSTA,Liam  Martinez, GB ,blk,MASTER 1 ,middle,No Gi,win,dq,10,0 ,3 , 0,300,Ref E. Brown,mat 4,video review
+1036, Grappling Grand Prix,Seattle, AZ,Apr 05 2023,SKYLER WALKER,LIAM LOPEZ,Unity,Brown ,Master2,mh,No-Gi,loss,D.Q.,5,0 ,1.0, 2,4m 00s,Ref C. Patel, 3,scoreboard check
+1037, State Championship,san diego,CO,03-Oct-2023,MASON LEE, Noah Silva,DREAMART,Brown ,m1,MEDIUM HEAVY ,NOGI,victory,PTS,05,04, 0,1,7:00,Ref C. Patel,1,scoreboard check
+1038, City Cup,San Diego , FL,01-12-2023, Emma White,Ella Clark,DreamArt,purple,m2,Medium-Heavy, gi ,WIN,pts,3 pts, 7,01,0 ,10:00,Ref B. Kim,04,uniform warning
+1039,state championship,DENVER,wa,2024-11-23,Mason Clark,mason martinez, aOj ,wht,master 1,Light ,NOGI, l ,dec,2,7 pts,1 , 1,3:00,Ref B. Kim,mat 6,weight check cleared
+1040,WINTER INVITATIONAL,Houston,AZ,02-10-2024,Mason  Lopez,drew santos,10th planet ,Black ,juvenile,feather,GI,WIN,Decision ,6 pts,3 , 3, 0,180,Ref D. Silva,06,scoreboard check
+1041,Regional Classic,Atlanta ,ca,May 03 2022,skyler lopez,sam smith,AOJ,purp,Juvenile ,middle, gi , w ,PTS,2 pts,5,3 ,1 ,480,Ref E. Brown,01,video review
+1042,SUMMER OPEN,houston,il,2023/09/23,Reese  Allen,Morgan Young ,Fight Sports,WHITE,juvenile,mid,GI,WIN,DQ,03,0,02,2,7:00,Ref C. Patel,04,
+1043,winter invitational,Chicago ,FL,08/02/2023,Emma  Walker,Drew Baker,gracie barra,blu,juv,HEAVY,No Gi,LOSS,Advantage ,8 ,2 ,03, 1,3:00,Ref D. Silva,mat 4,bracket update needed
+1044,Summer Open , Austin,ca,02-03-2022,Blake  Wright,Casey Lopez ,ALLIANCE ,black,JUVENILE,Heavy ,NOGI,LOSS,advantage,3 ,03,02,1,10:00,Ref D. Silva,mat 1,medical timeout
+1045,State Championship,houston,FL,2023/06/26,ALEX GREEN,ALEX PATEL,NovaUniao,BLACK,m2,Feather ,Gi,defeat,sub,2,0 ,01,1 ,4m 00s,Ref B. Kim,5,scoreboard check
+1046,State Championship,HOUSTON,wa,Sep 26 2022,Blake  Johnson,Reese White, aOj ,blue,m1,lf,No-Gi,defeat,Decision ,7 pts,2 pts,3 ,0, 420 ,Ref E. Brown,mat 10,video review
+1047, Summer Open,Denver,AZ,2023/08/01,Liam  Nguyen,Chris  Brown,NovaUniao,BROWN,m2,Open,Gi, l ,adv,4 ,0,03,0,7m 00s,Ref D. Silva, 8,uniform warning
+1048,Summer Open ,austin,co,2022/06/24, Lucas Patel,mason baker,NOVA UNIAO,PURPLE,m1,hvy, gi ,loss,Points ,5 ,0 ,3 ,0 ,240 sec,Ref C. Patel,10,medical timeout
+1049,SUMMER OPEN,chicago,fl,Jan 19 2023,Reese White,Jordan  Clark, BTEAM,Purple ,master 1,Medium-Heavy,Gi,W,D.Q.,06,3 ,0, 0,6m 00s,Ref E. Brown,2,video review
+1050,REGIONAL CLASSIC,Denver , IL,Oct 05 2024, Mia Turner,elijah davis,Passos,BLACK,MASTER 1 ,Rooster , gi ,L,Points ,04,05,0 , 2,300,Ref A. Cruz,3,
+1051,regional classic, San Diego,GA,2022-12-10,PARKER GARCIA,NOAH JOHNSON,10th planet ,blu,Master2,Medium-Heavy,GI,WIN,Submission ,06, 6,01,0, 480 ,Ref B. Kim, 10,
+1052,summer open, Chicago,CA,07-May-2022,Skyler  King,Parker  Lopez,Art of Jiu Jitsu,black,adult,Open,Gi,LOSS,Submission ,6 pts,2,03,0 , 420 ,Ref B. Kim, 5,
+1053,WINTER INVITATIONAL,Chicago,CA,2023/06/27,Parker Lee,sophia clark,Atos Jiu Jitsu,brn,MASTER 2 ,uh,GI, w ,adv,5 , 2,00, 0,6m 00s,Ref E. Brown, 6,video review
+1054,grappling grand prix,Phoenix,ca,2023/05/01, Skyler Silva, Noah Turner,FightSports,Black ,m2,Rooster ,No-Gi,win,adv,06, 4,0.0, 0,300 sec,Ref B. Kim,mat 9,medical timeout
+1055,Winter Invitational,phoenix,ga,09-Dec-2024,Sophia Lee,NOAH SCOTT,CHECKMAT,brown,Adult ,mid,NOGI,LOSS,Decision , 3,3 pts,1.0,1,240,Ref C. Patel,06,late start
+1056,SUMMER OPEN,denver, WA,11-Jan-2024,riley davis,Mason Allen ,nova união,BROWN,master 2,medium heavy,No-Gi,L,pts, 6,2,02,2 ,480 sec,Ref B. Kim,M2,bracket update needed
+1057, Winter Invitational,Denver,IL,Jul 01 2022,ella turner,Skyler Smith ,Nova Uniao,purple,Master2,light feather,No Gi,win,disq,0 pts,2,01,1 ,3:00,Ref A. Cruz,M12,weight check cleared
+1058,winter invitational,Houston ,il,11-12-2024, Noah Wright,Lucas Smith,B-Team,Black ,master 2,Light ,NOGI,win,adv,0 , 4, 2, 0,360,Ref C. Patel, 6,uniform warning
+1059,Summer Open,houston,az,04-May-2024,SAM YOUNG,Taylor Costa ,UNITY,White ,m2,fthr,No Gi,L,disq, 9,05, 1, 1,360 sec,Ref E. Brown,mat 1,
+1060,regional classic,houston,il,10-14-2024,TYLER SCOTT,Ella Davis , atos ,blk,Juvenile ,FEATHER,No Gi, w ,points, 9,00,1, 1, 480 ,Ref D. Silva,8,medical timeout
+1061, City Cup,CHICAGO, GA,Oct 10 2022, Ava Turner,Olivia Patel ,dream art ,BLACK,m1,LIGHT FEATHER ,No-Gi,L,pts,00,04,1,0 ,360,Ref D. Silva,011,medical timeout
+1062,STATE CHAMPIONSHIP, Miami, IL,01-09-2025, Mia Martinez,Tyler White ,Alliance BJJ,PURPLE,Adult ,Middle ,No-Gi,win,advantage,0 ,2,0 ,1 ,480,Ref B. Kim,mat 3,
+1063,GRAPPLING GRAND PRIX, Atlanta,az,12-Oct-2024,Tyler  Clark,CASEY GARCIA,FIGHTSPORTS,Brown ,juvenile,Middle ,Gi, l ,Ref Decision,3,2, 0, 2,240 sec,Ref A. Cruz,mat 8,
+1064,Summer Open, Denver,az,18-Mar-2022,Ella Lopez ,tyler wright,AOJ,PURPLE,adult,mh,NOGI, l ,DQ, 6,05,1 , 0,7m 00s,Ref C. Patel,01,coach challenge
+1065,CITY CUP,Phoenix , AZ,23-Aug-2022,EMMA WRIGHT, Olivia Brown,fight sports,brn,MASTER 1 ,uh, gi ,win,pts,0 pts,4 ,3 ,1 ,8m 00s,Ref B. Kim,M5,coach challenge
+1066,city cup,Seattle, FL,10/14/2023,Mia Davis , Lucas King,dream art ,WHITE,ADULT,hvy,No Gi, l ,advantage,9 pts,3 pts,0.0,1 , 480 ,Ref F. Garcia,M7,medical timeout
+1067, City Cup,denver,az,04/17/2024,Avery  Lopez,,b-team ,BROWN,juv,uh, gi , w ,submission,06, 0,2.0, 0,360,Ref C. Patel, 11,video review
+1068,WINTER INVITATIONAL,dallas,il,03-20-2023,Ella Patel,Riley Young, aOj ,Purple ,master 1,mh,Gi, w ,points,2 pts, 0, 0,1,5:00,Ref A. Cruz,mat 7,
+1069,Winter Invitational,SEATTLE, GA,07-Oct-2024, Parker Lee,Morgan  Green,DreamArt,brown,MASTER 1 ,roost, gi ,L,decision,7 pts,2 ,00,1, 480 ,Ref A. Cruz,M8,video review
+1070,City Cup ,Houston ,CA,2024-02-23,Taylor Walker,Morgan  Adams,b-team ,Purple ,m1,ROOSTER,No-Gi,L,PTS, 2,02,0,2,180 sec,Ref E. Brown,4,bracket update needed
+1071,Regional Classic, Atlanta, IL,01-30-2022,Noah King,Taylor Lee,check mat,White ,master 2,HEAVY, gi ,WIN,Points ,6 ,0,3.0,0 , 360 ,Ref E. Brown, 1,
+1072,Regional Classic,Austin, TX,12-17-2024,Casey Green , Blake Nguyen,Checkmat,WHITE,Adult ,Middle ,GI, l ,pts,00,0 ,1.0,0 ,240,Ref B. Kim, 8,weight check cleared
+1073,City Cup ,Dallas , TX,01-09-2022, Liam Wright, Noah Lopez,Dream Art,Brown ,adult male,fthr,NOGI,win,ADV,2 ,0 pts,01, 1,7:00,Ref F. Garcia,10,bracket update needed
+1074, Summer Open,san diego,az,May 15 2024,ethan smith, Reese Smith,Unity,brown,Master2,FEATHER,Gi, l ,decision,04,3, 1, 1,5m 00s,Ref F. Garcia,M12,uniform warning
+1075,regional classic,SEATTLE,tx,2023/08/04, Logan Turner, Olivia Walker,NovaUniao,BLACK,adult male,LIGHT,No Gi,defeat,ADV,8, 0,0.0, 2,600,Ref B. Kim, 5,
+1076,Winter Invitational ,Austin, CA,11-01-2022,Reese Lopez,jordan walker,Fight Sports,BLACK,MASTER 2 ,Open,No-Gi,victory,advantage,09,2 pts,2.0, 0,3:00,Ref E. Brown, 9,weight check cleared
+1077,city cup,houston,AZ,2022-02-25,Alex Patel,Lucas Scott,NovaUniao,blk,JUVENILE,mid,No Gi,WIN,D.Q.,6,0,0 ,2,3:00,Ref A. Cruz,04,video review
+1078,SUMMER OPEN, Houston, CO,2023/05/30,TYLER DAVIS,Drew  Scott,NOVA UNIAO,purp,Juvenile ,Open,No-Gi, l ,submission,9,0 ,1.0, 0,4:00,Ref A. Cruz, 5,uniform warning
+1079,grappling grand prix, Denver,il,2023/03/24,Mia Garcia ,lucas garcia,Alliance,Black ,ADULT,mid,No Gi, l ,Points ,07,07,0,1,4m 00s,Ref B. Kim, 2,bracket update needed
+1080,state championship,Phoenix,CA,2023-09-01, Olivia Lopez,CASEY GREEN,Art of Jiu Jitsu,PURPLE,MASTER 1 ,feather,No Gi,victory,Ref Decision,0,0,2.0, 2, 360 ,Ref A. Cruz, 11,
+1081, Regional Classic, Chicago,CO,12/24/2022,Mason  Wright,TYLER LOPEZ, aOj ,Purple ,m1,mh,Gi,L,Ref Decision,04,4,0 ,0 ,10:00,Ref C. Patel,M3,late start
+1082,STATE CHAMPIONSHIP, Dallas, TX,03/07/2022,NOAH WRIGHT,Cameron Adams ,FIGHTSPORTS,Blue ,adult,ROOSTER,NOGI,defeat,dq,3 ,3, 3,0 ,8:00,Ref B. Kim,04,coach challenge
+1083,Grappling Grand Prix,houston, TX,07-17-2023,Mia  Baker,liam turner, aOj ,Brown ,MASTER 2 ,LIGHT,Gi,loss,SUB,9,7 ,2,1,8m 00s,Ref D. Silva,M11,scoreboard check
+1084,Regional Classic,Seattle ,tx,06/10/2023,Cameron Wright,Drew Smith ,check mat,brown,m2,absolute,Gi,win,Ref Decision,4 ,3 ,00,-,420 sec,Ref C. Patel,mat 9,video review
+1085,City Cup , Denver,co,2024-02-01,Skyler Garcia,OLIVIA WRIGHT,FightSports,WHITE,Master2,lgt, gi , w ,SUB,00,0 ,,2 ,6:00,Ref E. Brown,5,video review
+1086,Winter Invitational,austin,tx,26-Feb-2023,Taylor Lopez ,Noah Brown ,DreamArt,Purple ,master 1,LIGHT FEATHER ,GI,loss,submission,02,08,2.0, 1,480,Ref C. Patel,mat 3,video review
+1087,WINTER INVITATIONAL, Miami, FL,08/13/2023,PARKER SILVA,harper walker,UNITY,BLACK,ADULT,absolute,GI,W,D.Q.,5 pts, 7,1 , 2,360 sec,Ref D. Silva,12,medical timeout
+1088,WINTER INVITATIONAL,seattle,AZ,2023/11/02,Reese Young ,Morgan Allen,NOVA UNIAO,brown,ADULT,uh,No-Gi, w ,points, 6, 5,0, 1, 420 ,Ref C. Patel,M1,bracket update needed
+1089, Grappling Grand Prix,PHOENIX,TX,2022-06-12,morgan santos,harper baker,UNITY,Purple ,master 1,rooster,No-Gi,WIN,Ref Decision,10 ,3 pts,00, 0, 480 ,Ref D. Silva,M8,weight check cleared
+1090,City Cup ,PHOENIX, FL,06/15/2023,reese turner,Ethan Silva,ALLIANCE ,purp,juvenile,hvy,GI,LOSS,Points ,7 ,0,3, 0,6m 00s,Ref B. Kim,M8,weight check cleared
+1091,WINTER INVITATIONAL,Phoenix,ga,Jan 29 2022,Jordan  Lee,TYLER MARTINEZ,dream art ,Blue ,Master2,roost,NOGI,loss,Advantage ,07,6 ,0,1,5:00,Ref E. Brown,8,bracket update needed
+1092,Grappling Grand Prix, Atlanta,ca,07-21-2024,Skyler Hall , Mason Wright,Atos Jiu Jitsu,Black ,Master2,uh,No-Gi,WIN,PTS,2 ,08,00,0, 600 ,Ref B. Kim, 6,uniform warning
+1093,State Championship,ATLANTA,CO,2023-02-01,Mason Martinez ,Taylor Turner ,Atos,purp,m2,Light ,Gi,L,Points ,0 ,5 pts,0.0,2,180 sec,Ref F. Garcia,M7,medical timeout
+1094,regional classic,Denver , WA,04/11/2022,Liam  Wright,Sam Green,DreamArt,Brown ,m2,light,GI,W,adv,10,7 pts,1 ,1,240,Ref A. Cruz,M3,scoreboard check
+1095,Winter Invitational ,HOUSTON,wa,2023-01-09,taylor clark, Reese Silva,CHECKMAT,blu,MASTER 2 ,ULTRA HEAVY ,No Gi,WIN,sub,00,2,2.0,2 ,300,Ref B. Kim,012,medical timeout
+1096, Grappling Grand Prix,CHICAGO,CA,21-Jul-2023,Ella Davis , Noah Young,DREAMART,purple,JUVENILE,Rooster , gi , w ,adv, 9,5 ,3,2 ,180 sec,Ref E. Brown,03,coach challenge
+1097,City Cup ,San Diego ,ga,01-Jun-2022,Lucas  Hall, Ethan Silva,10th planet ,brown,juv,middle, gi , l ,sub,05,0 pts,0,0 ,600 sec,Ref F. Garcia,04,late start
+1098,STATE CHAMPIONSHIP,Denver ,fl,03-Mar-2024,Sophia Green,Taylor Garcia, GB ,brn,adult,light feather,GI,L,pts,7,4 pts,1 ,1 ,300,Ref E. Brown,M6,late start
+1099,Winter Invitational,Houston , AZ,08/01/2023,Blake Wright ,ella allen,CHECKMAT,purple,Master1,Middle ,No Gi,loss,Ref Decision,7 pts,8 pts,0 ,1 ,180,Ref A. Cruz,M2,coach challenge
+1100,State Championship ,PHOENIX, TX,2024/07/31,sophia baker,LIAM BAKER, alliance,WHITE,Master1,light feather,GI,L,,09, 2,1 ,0 , 600 ,Ref D. Silva,011,
+1101,regional classic,Seattle , CA,01-Jun-2024,Skyler Silva,mia brown,nova união,BLACK,m1,fthr,Gi,victory,Decision ,2 ,0 pts,03, 1,7m 00s,Ref C. Patel,012,late start
+1102,Regional Classic ,SAN DIEGO,fl,12-May-2023,Olivia Johnson,JORDAN SANTOS,unity jiu jitsu,blu,JUVENILE,Feather ,No Gi,defeat,Advantage ,05,5 pts, 0, 1,7m 00s,Ref C. Patel,M1,
+1103,SUMMER OPEN,Denver,ga,2023/08/18,Skyler White ,noah patel, alliance,black,adult,FEATHER, gi ,defeat,pts,4,8,00, 2, 240 ,Ref F. Garcia,mat 2,scoreboard check
+1104,STATE CHAMPIONSHIP,Atlanta, WA,13-Sep-2023, Cameron Baker,Drew Clark ,Atos,Blue ,juvenile,middle,GI,W,points,8 pts,7,1,1,10m 00s,Ref D. Silva,04,video review
+1105,winter invitational,Phoenix ,az,2022/12/23,REESE COSTA,mia king,10th Planet,blue,MASTER 1 ,lgt,No Gi,LOSS,DQ, 0, 3,,0 ,4m 00s,Ref F. Garcia,M9,
+1106, Summer Open,Phoenix, GA,2024-06-27,Morgan Patel,Mason Young,DREAMART,Black ,MASTER 2 ,FEATHER,NOGI,win,D.Q., 9,0,0 ,0,420,Ref E. Brown, 9,medical timeout
+1107,summer open,ATLANTA,il,05-Sep-2022,Parker Patel , Harper Martinez,DREAMART,brown,MASTER 1 ,heavy, gi ,defeat,D.Q.,2 pts,0 ,1 ,1 ,300,Ref E. Brown, 11,video review
+1108,winter invitational, Houston,CA,05-Jul-2023,ella davis,Alex  Lopez,Gracie Barra,Blue ,Master1,absolute,No-Gi,victory,adv, 2,3,00, 0,8:00,Ref B. Kim, 9,medical timeout
+1109,Grappling Grand Prix ,Austin, CO,11/20/2023,lucas brown,Chris  Wright,Unity,BROWN,adult,HEAVY,GI, l ,Decision ,09,00,0,n/a,10m 00s,Ref E. Brown,07,coach challenge
+1110,WINTER INVITATIONAL, San Diego,fl,2023/05/30,Chris Baker ,HARPER MARTINEZ,Dream Art,black,Master2,Light ,GI,WIN,D.Q.,9 ,7,03,0,480 sec,Ref C. Patel,mat 1,weight check cleared
+1111,Summer Open,dallas,TX,24-Sep-2024,noah walker,Parker  King,TEAM PASSOS,BLUE,master 2,lf,No Gi, l ,dq,8, 0,0.0,1,8:00,Ref F. Garcia,M1,medical timeout
+1112, Regional Classic,atlanta,TX,19-May-2024,Emma  Scott,Taylor Brown,dream art ,Brown ,adult male,Light-Feather,NOGI, w ,advantage,10 ,7 , 3, 0,360 sec,Ref E. Brown,M11,
+1113,regional classic,Phoenix,ga,Jan 11 2023,taylor green,AVERY TURNER,10TH PLANET,brown,MASTER 2 ,fthr,NOGI, w ,dq,02,5 ,0 ,1,8m 00s,Ref C. Patel,8,weight check cleared
+1114,State Championship ,seattle,GA,Nov 03 2024,Blake Young ,Lucas Garcia ,B Team,Blue ,Adult ,Feather ,GI,WIN,PTS,7,00, 3, 0,600,Ref A. Cruz,M11,medical timeout
+1115,SUMMER OPEN, Phoenix,ga,2023-04-27,Logan King,CASEY GREEN,B Team,Brown ,adult,open class,GI,defeat,PTS,4,5 ,0 ,0 ,8m 00s,Ref D. Silva,M11,uniform warning
+1116,grappling grand prix, Miami, FL,Oct 22 2022,Harper Johnson,Parker  Walker, GB ,BROWN,master 2,Ultra-Heavy,Gi, l ,DQ,07, 0,2.0, 1,180,Ref F. Garcia, 6,
+1117,Regional Classic ,Miami ,FL,09-11-2024,ELIJAH TURNER,Alex King,DreamArt,wht,Adult ,ultra heavy, gi ,loss,Ref Decision, 6,8,2 , 0,480 sec,Ref E. Brown,3,late start
+1118, Grappling Grand Prix,San Diego,IL,Oct 15 2024,DREW GREEN,PARKER DAVIS,fight sports,purp,juv,ultra heavy, gi , w ,Submission ,6 pts,6 , 2,n/a,10:00,Ref E. Brown, 5,uniform warning
+1119, City Cup,Dallas , WA,2022-02-13,Olivia  Wright,Ava White ,unity jiu jitsu,white,Master2,medium heavy,Gi,L,Decision , 4,0 ,1 ,0 ,8m 00s,Ref B. Kim,09,
+1120,City Cup , Atlanta,TX,03/31/2022,Harper  Baker,SOPHIA JOHNSON,CHECKMAT,BLACK,m1,FEATHER,No Gi,W,ADV,4,0,1 ,,300 sec,Ref E. Brown,mat 4,scoreboard check
+1121,STATE CHAMPIONSHIP,Seattle,az,2022/11/28,Ava Costa,BLAKE GREEN,B-Team,BROWN,Juvenile ,medium heavy,NOGI,W,Ref Decision, 6,0 pts, 0, 1, 480 ,Ref C. Patel,12,bracket update needed
+1122,state championship,PHOENIX,WA,11/25/2023,taylor white,Skyler  Smith,Art of Jiu Jitsu,wht,MASTER 2 ,ROOSTER,GI,defeat,Ref Decision, 2,3, 3,1, 480 ,Ref C. Patel,03,weight check cleared
+1123,Regional Classic ,denver,FL,2023-11-05,Jordan King,Mia Young ,DREAMART,purple,Juvenile ,Feather ,NOGI,defeat,adv,4, 2,1,0 ,3m 00s,Ref D. Silva,03,weight check cleared
+1124,STATE CHAMPIONSHIP,Chicago,wa,03-22-2023, Mia Green,Lucas Brown ,AOJ ,blk,adult,rooster,NOGI,LOSS,pts,2,2 pts,00,0,600,Ref A. Cruz,mat 9,bracket update needed
+1125,WINTER INVITATIONAL,DALLAS,AZ,10-Dec-2022,Mia Walker,Ella Allen ,AOJ ,brown,JUVENILE,Open,Gi, l ,pts,8, 2, 3,0,240 sec,Ref A. Cruz, 7,video review
+1126,grappling grand prix,San Diego,fl,11/30/2024,MIA KING, Elijah Johnson,Atos,blu,Juvenile ,Light ,Gi,defeat,D.Q.,03,3 pts, 0, 1,300,Ref F. Garcia,09,scoreboard check
+1127,REGIONAL CLASSIC,Austin ,ca,Oct 14 2023,noah lee,Olivia Baker ,Passos,Purple ,adult male,MIDDLE,No Gi,win,submission,2 ,0 pts,0,0,420 sec,Ref A. Cruz,2,
+1128,State Championship ,San Diego,GA,2024-10-30,SAM NGUYEN,jordan adams,Atos Jiu Jitsu,brown,MASTER 2 ,HEAVY,No Gi,L,disq,10 pts,4 pts,0,0,480,Ref E. Brown,6,weight check cleared
+1129,City Cup,Denver ,il,09-Feb-2023,drew martinez,Olivia  Garcia,DREAMART,brown,Adult ,LIGHT FEATHER ,No Gi,defeat,advantage, 8,2 ,1 ,2,3:00,Ref A. Cruz,4,coach challenge
+1130,regional classic,AUSTIN,az,24-Aug-2023,cameron smith,LIAM ALLEN,UNITY,blue,ADULT,Rooster ,No-Gi,L,pts, 9,7 ,n/a, 1,300,Ref B. Kim,mat 8,bracket update needed
+1131, Regional Classic,MIAMI,ca,03/09/2022,casey clark,SKYLER KING,Art of Jiu Jitsu,Purple ,master 2,Light-Feather, gi ,defeat,points, 2, 2,03, 0,8:00,Ref C. Patel,mat 11,video review
+1132,WINTER INVITATIONAL,Seattle ,AZ,09-Feb-2025,Ella  Davis,Harper Hall,Gracie Barra,purp,master 2,heavy,Gi,defeat,decision, 7,0 pts,03, 1, 600 ,Ref D. Silva,01,weight check cleared
+1133,Winter Invitational, Austin,il,08-29-2022,Sam Martinez ,Lucas  Garcia,Dream Art,brn,m1,light feather,Gi,W,dq,10,5 pts,0 ,2 , 360 ,Ref A. Cruz, 6,uniform warning
+1134,summer open,Houston , CO,Oct 17 2024,riley smith,Sophia Brown,Gracie Barra,Purple ,master 2,fthr,Gi, l ,D.Q.,0 ,04, 1,0 ,6:00,Ref B. Kim,4,coach challenge
+1135, City Cup,HOUSTON,CO,Apr 22 2022, Elijah Smith,Alex  Green,Alliance,White ,m1,uh,No-Gi,W,sub,0 ,00, 0, 0,180 sec,Ref E. Brown,mat 3,
+1136,Winter Invitational ,miami,il,2022/01/21,SKYLER NGUYEN, Cameron Baker,10TH PLANET,BLUE,Master1,OPEN CLASS ,Gi,W,n/a,05,5,0, 1,360,Ref A. Cruz,9,
+1137,Summer Open,atlanta,co,Sep 03 2022,Mia Silva,Emma Scott,check mat,blu,Adult ,Light-Feather,GI,LOSS,adv,04, 2, 2, 1,8m 00s,Ref C. Patel,mat 10,
+1138, Grappling Grand Prix,Dallas , AZ,Sep 15 2022,LIAM JOHNSON,DREW TURNER,CheckMat ,black,Juvenile ,fthr,No Gi,WIN,submission,0 ,0,0.0,0,300,Ref B. Kim,04,medical timeout
+1139, State Championship,Miami , CO,01/15/2023,ELIJAH TURNER,Taylor  Davis,NovaUniao,purple,juv,lgt,Gi,victory,advantage, 0,0 pts,3.0,0, 300 ,Ref E. Brown,mat 10,scoreboard check
+1140, State Championship, Dallas,fl,04/20/2022,blake smith,Logan Green ,FIGHTSPORTS,brown,Master2,lgt, gi ,L,decision,8,8 pts,01,0 ,8m 00s,Ref A. Cruz,mat 10,
+1141,State Championship,Seattle , CA,2023-10-09,Tyler Wright ,Sam  Scott,Fight Sports,WHITE,adult male,light feather, gi ,defeat,adv,3 ,3 ,0,0 ,7m 00s,Ref C. Patel,012,medical timeout
+1142,SUMMER OPEN,miami,tx,10/02/2024, Elijah King,Taylor Turner ,AOJ ,White ,m2,Middle ,NOGI,W,D.Q., 5,8,1 ,2,180 sec,Ref D. Silva,04,medical timeout
+1143,city cup,San Diego , CO,03-Mar-2023, Cameron Davis,Drew Baker,NOVA UNIAO,Brown ,MASTER 1 ,open class,GI,WIN,Points ,7,0 pts, 0,0 ,180,Ref C. Patel,06,uniform warning
+1144,Grappling Grand Prix,san diego,WA,2023-10-10,Drew Brown ,chris costa,Art of Jiu Jitsu,black,Adult ,light,NOGI, w ,advantage, 0,6 ,, 0,4:00,Ref D. Silva,M11,medical timeout
+1145,summer open,SEATTLE, CO,2022/09/14, Jordan Smith,logan adams,Checkmat,PURPLE,MASTER 1 ,light, gi ,defeat,sub,5 pts,3, 0,1 ,240,Ref C. Patel,012,coach challenge
+1146,City Cup,Miami,FL,05-Feb-2022,chris santos, Tyler Brown,DreamArt,Black ,adult male,Ultra-Heavy, gi , l ,Submission ,2 pts,2,1, 0,420,Ref F. Garcia,M12,
+1147,WINTER INVITATIONAL,atlanta, GA,12/22/2022,Olivia Martinez,EMMA COSTA,b-team ,PURPLE,adult,Medium-Heavy,No Gi,win,Points ,2 ,7,0, 0,240 sec,Ref A. Cruz,1,medical timeout
+1148,CITY CUP,DENVER, AZ,28-Nov-2023,Casey  Lopez,ava green,NOVA UNIAO,brn,master 1,mid,NOGI, w ,submission,2, 2,1.0,0,420,Ref F. Garcia,1,scoreboard check
+1149,REGIONAL CLASSIC,Atlanta,il,2022-06-25,Parker Lopez,Skyler Lopez ,10TH PLANET,WHITE,adult male,ROOSTER,No-Gi,defeat,dq,00,02,0.0, 1,300,Ref B. Kim,06,uniform warning
+1150,state championship,denver,CA,02-Jul-2023,Emma Davis , Elijah Davis,Fight Sports,blue,master 2,light feather,GI,defeat,pts,0 ,4,0,1,600,Ref D. Silva,M12,scoreboard check
+1151,City Cup ,atlanta,ga,15-Apr-2024,Lucas  Clark,SAM BROWN,DREAMART,BLUE,master 1,feather,NOGI,win,disq, 8, 2, 0,0 ,480,Ref C. Patel,7,medical timeout
+1152,Regional Classic,Miami,AZ,25-Feb-2025,Taylor Patel ,Morgan King , Unity ,blu,juv,Heavy , gi ,win,Ref Decision,3 pts,6 pts,0.0,1 ,10m 00s,Ref F. Garcia,04,bracket update needed
+1153, Winter Invitational, Houston,ga,11/02/2024,SOPHIA HALL,Parker Smith ,Atos,PURPLE,juv,roost,GI, l ,Advantage ,0 pts,02,,n/a, 600 ,Ref A. Cruz,5,bracket update needed
+1154,STATE CHAMPIONSHIP,AUSTIN, CA,Feb 11 2025,SOPHIA LEE,Ava Costa,fight sports,brn,Master2,Middle , gi ,LOSS,Advantage ,00, 7,n/a,0, 360 ,Ref A. Cruz,03,weight check cleared
+1155,Winter Invitational,seattle,co,Jan 15 2023,TAYLOR WRIGHT,CHRIS DAVIS,Unity,BLUE,master 2,Feather ,NOGI,W,SUB,10, 0,2 , 0,300 sec,Ref A. Cruz, 12,video review
+1156, Grappling Grand Prix,Seattle,CA,08-26-2023,SOPHIA WRIGHT, Olivia Clark,Unity,black,Master2,rooster,Gi, l ,points,2,0 , 1, 0,8:00,Ref A. Cruz,03,weight check cleared
+1157,Regional Classic , Denver,fl,09/06/2024,Cameron Lopez, Ella Hall, GB ,purp,juv,OPEN CLASS ,Gi,W,submission,9,00,03,2,5m 00s,Ref A. Cruz,2,
+1158,STATE CHAMPIONSHIP,Houston,wa,02-28-2024,MASON COSTA,RILEY HALL,10TH PLANET,white,m1,Ultra-Heavy,No Gi,win,Ref Decision,10 ,02,0.0, 1,7m 00s,Ref C. Patel,08,late start
+1159,CITY CUP,Dallas ,FL,17-Jun-2024,EMMA ADAMS, Drew Allen,NOVA UNIAO,White ,Master2,fthr,No-Gi,win,disq,2,00,1.0,2 ,360,Ref F. Garcia,12,
+1160,summer open,phoenix,TX,30-Mar-2022,Morgan Santos , Harper Lopez,Passos,PURPLE,Adult ,HEAVY,Gi, l ,dec,0,00,0.0, 1,300,Ref D. Silva,08,medical timeout
+1161,city cup,houston,tx,01-11-2024,morgan adams,TAYLOR ALLEN,ATOS,WHITE,m2,feather,Gi,victory,Ref Decision,9, 2,0.0, 0,600 sec,Ref D. Silva,3,uniform warning
+1162,Summer Open,Austin ,GA,02-26-2024, Lucas Garcia,Drew Green ,ATOS,blue,adult,medium heavy,NOGI,victory,D.Q.,0 ,03,0.0, 2,3m 00s,Ref B. Kim,2,medical timeout
+1163,Grappling Grand Prix ,phoenix,tx,2024-08-26,tyler clark,Emma  King,FightSports,Purple ,Master1,fthr,No Gi, w ,D.Q.,4,8 , 3,1 ,180 sec,Ref D. Silva,M4,late start
+1164, State Championship,SEATTLE, FL,27-Jan-2025,PARKER COSTA,Ava  Young,AOJ,White ,Master1,OPEN CLASS ,No Gi,LOSS,disq,0 pts, 6,00, 1, 180 ,Ref A. Cruz,M4,video review
+1165, State Championship, Chicago,TX,2024-07-28,Mason Baker ,Olivia Allen ,Fight Sports,BLACK,Adult ,Heavy ,GI,win,SUB, 4,2 pts,n/a,1 , 180 ,Ref F. Garcia,mat 10,late start
+1166,STATE CHAMPIONSHIP,denver,FL,2023-08-28,Taylor Clark ,Morgan Scott ,CHECKMAT,WHITE,juvenile,hvy,GI,L,dq,0 ,03,0.0, 0,480 sec,Ref A. Cruz, 5,coach challenge
+1167,Winter Invitational , Austin, WA,07/11/2022, Lucas Smith,lucas wright, BTEAM,purple,m1,absolute,NOGI, w ,SUB,5 pts, 2,,2 ,600 sec,Ref C. Patel,1,scoreboard check
+1168,SUMMER OPEN,miami,WA,2022/06/25,Harper White,CHRIS SANTOS,fight sports,blu,master 1,ultra heavy,No-Gi,L,points,08,04,02,1 ,300,Ref A. Cruz,M10,scoreboard check
+1169,Winter Invitational,miami, CO,2025/01/04,ETHAN WHITE, Liam Scott,B Team,BLACK,adult,lf,No Gi,W,PTS,0 pts, 0,0.0,0,7:00,Ref A. Cruz,mat 12,weight check cleared
+1170,City Cup,Chicago , GA,2023-04-14,ALEX COSTA, Logan Silva,DREAMART,purp,Adult ,absolute,No Gi,W,advantage,2 ,08,03,0,240 sec,Ref C. Patel,mat 11,uniform warning
+1171,REGIONAL CLASSIC,CHICAGO, AZ,2023/09/26,Reese Garcia,Alex Martinez ,CheckMat ,BLUE,Juvenile ,mh,No Gi,loss,Advantage ,8 ,0 , 3, 1,7m 00s,Ref B. Kim,mat 3,bracket update needed
+1172,city cup,phoenix, IL,2023-01-07,Casey  Allen,Liam  Wright,fight sports,Purple ,m2,Open,Gi,win,PTS,10,03, 3, 2,3:00,Ref D. Silva,12,
+1173,Winter Invitational ,Austin ,GA,06-28-2023,Harper Lopez, Elijah King,Art of Jiu Jitsu,BLACK,MASTER 2 ,roost,NOGI,W,points,03,0 pts,0,0,5m 00s,Ref F. Garcia, 2,medical timeout
+1174,winter invitational,Dallas,wa,03/28/2023,Mason Turner, Casey Costa,DREAMART,black,MASTER 2 ,Middle ,No Gi,WIN,Points ,2,2,1.0, 2,6m 00s,Ref E. Brown, 7,bracket update needed
+1175,Regional Classic , Denver,fl,2022-07-23, Drew Smith,CAMERON LOPEZ, GB ,blk,adult male,heavy,Gi,LOSS,Ref Decision,08,02,03,2,8m 00s,Ref B. Kim,4,video review
+1176,CITY CUP,MIAMI,TX,Jan 25 2024,Riley Brown ,ELLA ALLEN, BTEAM,purp,JUVENILE,ultra heavy,Gi,victory,points,0,0,2.0,0,480 sec,Ref A. Cruz,mat 3,scoreboard check
+1177,Grappling Grand Prix,AUSTIN, CO,07-12-2022,Cameron  Davis,LOGAN MARTINEZ,NOVA UNIAO,WHITE,adult male,Light , gi , l ,Ref Decision,02,8 pts,1.0, 0, 600 ,Ref A. Cruz,5,late start
+1178,summer open,denver, CA,2024/03/03,Parker Lopez,ETHAN JOHNSON,Team Passos,BLACK,juvenile,Heavy ,No-Gi,defeat,DQ,4 pts,7 ,0, 0,240,Ref F. Garcia,12,scoreboard check
+1179,Summer Open,denver, IL,02/18/2023,jordan johnson,Morgan  Santos,CheckMat ,wht,adult,open class,NOGI, l ,Decision ,0,0 pts,3.0,n/a, 180 ,Ref B. Kim,M12,bracket update needed
+1180,REGIONAL CLASSIC,seattle, IL,05/11/2022,logan lopez,mason green,Gracie Barra,brown,juvenile,Middle ,Gi,defeat,SUB,7 pts,7,0 , 2, 480 ,Ref E. Brown,M7,medical timeout
+1181,STATE CHAMPIONSHIP,AUSTIN,wa,2022-05-12,Noah  Walker,EMMA PATEL,Team Passos,BLACK,adult,FEATHER,GI,LOSS,ADV,03,0 , 0, 0,7m 00s,Ref F. Garcia,mat 3,video review
+1182,REGIONAL CLASSIC, Denver,co,2022-08-24, Sophia Lee,CHRIS KING,Team Passos,BLACK,adult,Light-Feather,NOGI,defeat,points, 5,7, 0, 2,180,Ref B. Kim,mat 8,
+1183,Winter Invitational ,Dallas,az,Nov 20 2024, Reese Hall,Drew  Patel,ALLIANCE ,brn,master 2,MIDDLE,NOGI,WIN,SUB,,6 ,0,2 ,10:00,Ref A. Cruz,mat 8,
+1184,grappling grand prix,atlanta,tx,01/14/2024,CAMERON BROWN,AVA COSTA,ATOS,white,Master2,medium heavy,No Gi,L,SUB,3,0 pts,3,0 ,3m 00s,Ref C. Patel,mat 11,medical timeout
+1185,CITY CUP, Seattle, GA,02/16/2022, Avery Patel,Morgan Lee, atos ,BROWN,m1,LIGHT, gi ,victory,PTS,5 ,0 ,0.0,n/a,240 sec,Ref F. Garcia,M10,late start
+1186,State Championship ,Houston ,GA,02-18-2023,reese lee,ava wright,Nova Uniao,White ,adult,ROOSTER, gi ,WIN,Ref Decision,6,0,2,2,240 sec,Ref B. Kim,03,bracket update needed
+1187, City Cup,dallas,IL,2024/02/22,Casey  Silva,Olivia Santos ,dream art ,brn,m2,LIGHT FEATHER ,NOGI,defeat,pts, 3,0 pts,03,0,5:00,Ref F. Garcia,M6,coach challenge
+1188,Regional Classic, Austin,GA,29-Jan-2022,TYLER SANTOS,alex king,CHECKMAT,blue,Master1,LIGHT,Gi,W,DQ,0 pts, 0,0 ,0, 240 ,Ref A. Cruz,mat 2,
+1189,REGIONAL CLASSIC,PHOENIX,co,Feb 12 2023,Casey  Santos,Tyler  Young,Passos,PURPLE,Adult ,OPEN CLASS ,GI,LOSS,Points ,02,0 pts,,0 , 360 ,Ref E. Brown, 12,medical timeout
+1190,City Cup ,SAN DIEGO,CO,08-31-2024,Harper Costa,Ella Brown ,Team Passos,wht,juv,medium heavy,Gi,loss,sub,5,6 pts,0,0, 420 ,Ref F. Garcia,10,medical timeout
+1191,Winter Invitational,ATLANTA,GA,10-31-2024, Elijah Lee,OLIVIA LOPEZ,ATOS,PURPLE,MASTER 1 ,ROOSTER,GI,victory,Points ,6 pts,0,2,0 ,5m 00s,Ref F. Garcia,8,bracket update needed
+1192,Grappling Grand Prix ,Chicago,CA,2024-04-29,blake hall,Avery Clark ,AOJ,blue,JUVENILE,lf,No-Gi,LOSS,Advantage ,2,00,03,,300,Ref E. Brown,M4,uniform warning
+1193, State Championship,houston,ca,2024-03-01,Elijah  Baker,Olivia Scott,Atos,purp,Adult ,Heavy ,GI,loss,advantage, 8,7 pts,3,0 ,180,Ref E. Brown,M6,coach challenge
+1194,grappling grand prix,Dallas,wa,2023/02/23,Lucas  Brown, Riley Silva,B-Team,purp,MASTER 2 ,FEATHER,No-Gi,W,Points ,07,0 pts,2,1 ,10m 00s,Ref C. Patel,8,
+1195,State Championship ,chicago,WA,01/09/2023,Noah  Wright,Ethan  Adams,b-team ,BROWN,Juvenile ,lgt,No-Gi,victory,disq, 7,3 ,,1 ,10:00,Ref A. Cruz,2,late start
+1196,WINTER INVITATIONAL,austin, FL,2023-01-25,Ava  Nguyen,Drew  Walker,FIGHTSPORTS,Blue ,MASTER 1 ,heavy,NOGI,victory,Advantage ,00,3 ,1 , 0,240 sec,Ref E. Brown, 9,medical timeout
+1197, Summer Open,DALLAS,CA,Aug 21 2022,blake costa, Harper Martinez,DreamArt,BROWN,JUVENILE,Heavy ,No-Gi, l ,Submission ,09, 7,0 ,0,3m 00s,Ref D. Silva,mat 3,scoreboard check
+1198,Grappling Grand Prix,Austin,ca,2023/09/30,liam davis,ELIJAH LOPEZ,Gracie Barra,wht,juv,Ultra-Heavy,Gi,WIN,disq,10 pts,0 pts,1,0 , 480 ,Ref C. Patel, 3,coach challenge
+1199,State Championship ,SAN DIEGO,wa,2025-01-20,drew baker,reese johnson,team passos ,purple,Juvenile ,Ultra-Heavy,No Gi,win,decision, 10,04,2.0, 0,420 sec,Ref D. Silva,M12,
+1200,State Championship,Seattle ,WA,2023/08/20,sophia scott,Chris  Lopez,Alliance,Purple ,juvenile,light, gi ,WIN,unknown, 4,6 ,0.0, 0,3:00,Ref F. Garcia,M4,bracket update needed
