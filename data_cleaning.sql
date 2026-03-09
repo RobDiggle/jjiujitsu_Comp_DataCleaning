@@ -188,6 +188,14 @@ Set opponentname = INITCAP(opponentname);
 SELECT opponentname
 FROM jj_comp_data
 
-
-
+-- Check db
 SELECT * FROM jj_comp_data
+
+-- Still to be cleaned:
+-- matchdateraw, division
+-- weightclass, matchtype
+-- resultraw, methodraw
+-- pointsscoredraw
+-- matchduration
+-- matnumberraw
+--Drop rows not mentioned
