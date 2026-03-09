@@ -10,16 +10,19 @@ SELECT
 FROM jj_comp_data
 
 --Method 1
-
-SELECT CompetitorName,
-       opponentname,
-       tournamentname,
-       matchid,
-    ROW_NUMBER() OVER(
-    PARTITION BY CompetitorName,opponentname, tournamentname
-    ORDER BY (matchid) DESC
-    ) AS tn
-FROM jj_comp_data;
+SELECT * FROM 
+    (
+    SELECT CompetitorName,
+        opponentname,
+        tournamentname,
+        matchid,
+        ROW_NUMBER() OVER(
+        PARTITION BY CompetitorName,opponentname, tournamentname
+        ORDER BY (matchid) DESC
+        ) AS tn
+    FROM jj_comp_data
+    )
+WHERE tn = 1
 
 --Method 2
 
