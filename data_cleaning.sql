@@ -139,3 +139,55 @@ FROM jj_comp_data
 
 SELECT DISTINCT(TeamName)
 FROM jj_comp_data
+
+
+-- Case expression and update for bet rank
+
+UPDATE jj_comp_data
+SET BeltRank =
+CASE
+    WHEN LOWER(beltrank) LIKE '%wh%' THEN 'White belt'
+    WHEN LOWER(beltrank) LIKE '%blu%' THEN 'Blue belt'
+    WHEN LOWER(beltrank) LIKE '%purp%' THEN 'Purple belt'
+    WHEN LOWER(beltrank) LIKE '%br%' THEN 'Brown belt'
+    WHEN LOWER(beltrank) LIKE '%black%' THEN 'Black belt'
+    WHEN LOWER(beltrank) LIKE '%blk%' THEN 'Black belt'
+    ELSE beltrank
+END;
+
+SELECT COUNT(DISTINCT(beltrank))
+FROM jj_comp_data;
+
+SELECT DISTINCT(beltrank)
+FROM jj_comp_data;
+
+-- The INITCAP function makes cleaning this data much, much easier
+
+
+SELECT CompetitorName,
+INITCAP(CompetitorName) AS CompetitorName
+FROM jj_comp_data
+WHERE CompetitorName IS NOT NULL;
+
+UPDATE jj_comp_data
+Set CompetitorName = INITCAP(CompetitorName);
+
+SELECT CompetitorName
+FROM jj_comp_data
+
+-- Same process now for opponentname
+
+SELECT opponentname,
+INITCAP(opponentname) AS opponentname
+FROM jj_comp_data
+WHERE opponentname IS NOT NULL;
+
+UPDATE jj_comp_data
+Set opponentname = INITCAP(opponentname);
+
+SELECT opponentname
+FROM jj_comp_data
+
+
+
+SELECT * FROM jj_comp_data
